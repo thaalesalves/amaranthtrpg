@@ -14,7 +14,7 @@ Tamriel possui uma miríade de raças sencientes. Variam de humanos a elfos a cr
 - **[Dunmer](/racas/dunmer/):** os nativos de Brisavinda, a terra das cinzas, também chamados de Elfos Negros.
 - **[Orsimer](/racas/orsimer/):** raça élfica que trça sua origem à separação dos Aldmer e dos Chimer, e são conhecidos como Orcs.
 - **[Argoniano](/racas/argoniano/):** os homens-lagarto nativos de Argônia, que têm uma ligação mística com as árvores do Hist.
-- **[Khajiit](/racas/khajiit/):** os homens-gatos de Elsweyr, filhos de Lorkhaj, com sua relação única com Jone e Jode, as luas que orbitam Nirn.
+- **[Khajiit](/racas/khajiit/):** os homens-gato de Elsweyr, filhos de Lorkhaj, com sua relação única com Jone e Jode, as luas que orbitam Nirn.
 # Raças variadas (ainda não jogáveis)
 - Kothringi.
 - Povo do Desfiladeiro.
