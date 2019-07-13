@@ -10,7 +10,7 @@ Tamriel possui uma miríade de raças sencientes. Variam de humanos a elfos a cr
 - **[Nord](/racas/nord/):** os habitantes do Norte, conhecidos como Filhos do Céu, e os mais antigos humanos de Tamriel.
 - **[Rubraguarda](/racas/rubraguarda/):** os humanos vindos originalmente do continente perdido de Yokuda.
 - **[Altmer](/racas/altmer/):** a mais antiga e pura raça de elfos, descendentes diretos os antigos Aldmer, também chamados de Altos Elfos.
-- **[Bosmer](/racas/bosmer/):** conhecidos como Elfos da Floresta, a única raça élfica não-Aldmeri.
+- **[Bosmer](/racas/bosmer/):** filhos de Y'ffre, conhecidos como Elfos da Floresta, a única raça élfica não-Aldmeri.
 - **[Dunmer](/racas/dunmer/):** os nativos de Brisavinda, a terra das cinzas, também chamados de Elfos Negros.
 - **[Orsimer](/racas/orsimer/):** raça élfica que trça sua origem à separação dos Aldmer e dos Chimer, e são conhecidos como Orcs.
 - **[Argoniano](/racas/argoniano/):** os homens-lagarto nativos de Argônia, que têm uma ligação mística com as árvores do Hist.
