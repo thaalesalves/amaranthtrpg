@@ -12,7 +12,7 @@ Tamriel possui uma miríade de raças sencientes. Variam de humanos a elfos a cr
 - **[Altmer](/racas/altmer/):** a mais antiga e pura raça de elfos, descendentes diretos os antigos Aldmer, também chamados de Altos Elfos.
 - **[Bosmer](/racas/bosmer/):** filhos de Y'ffre, conhecidos como Elfos da Floresta, a única raça élfica não-Aldmeri.
 - **[Dunmer](/racas/dunmer/):** os nativos de Brisavinda, a terra das cinzas, também chamados de Elfos Negros.
-- **[Orsimer](/racas/orsimer/):** raça élfica que trça sua origem à separação dos Aldmer e dos Chimer, e são conhecidos como Orcs.
+- **[Orsimer](/racas/orsimer/):** raça élfica que traça sua origem à separação dos Aldmer e dos Chimer, e são conhecidos como Orcs.
 - **[Argoniano](/racas/argoniano/):** os homens-lagarto nativos de Argônia, que têm uma ligação mística com as árvores do Hist.
 - **[Khajiit](/racas/khajiit/):** os homens-gato de Elsweyr, filhos de Lorkhaj, com sua relação única com Jone e Jode, as luas que orbitam Nirn.
 # Raças variadas (ainda não jogáveis)
