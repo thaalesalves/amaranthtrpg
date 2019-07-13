@@ -1,7 +1,7 @@
 <!-- TITLE: Bretão -->
 <!-- SUBTITLE: Os Manmer de Pedra Alta -->
 
-<div style="float:right;">
+<div style="float:right; margin-right:20px;">
 	<figure>
 		<p><img src="/uploads/racas/breton.png"
 			height="300"
