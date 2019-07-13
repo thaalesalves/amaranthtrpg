@@ -3,7 +3,7 @@
 
 <div style="float: right; margin-right: 1%; background: #fbfbfc; border: 2px black solid;">
 	<figure>
-		<center><img src="/uploads/racas/altmer.png"
+		<center><img src="/uploads/racas/highelf.png"
 			height="300"
 			alt="Altmer">
 		<figcaption style="margin-left: 2%; margin-right: 2%;">Ilustração de um homem Altmer típico.</figcaption></center>
