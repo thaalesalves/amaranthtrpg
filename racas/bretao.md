@@ -4,7 +4,7 @@
 <figure>
   <p><img src="/uploads/racas/breton.png"
 		height="300"
-    alt="Bretão">
+    alt="Bretão" style="float:right;">
   <figcaption>Ilustração de um homem Bretão típico.</figcaption>
 </figure>
 [https://pt.uesp.net/wiki/Lore:Bret%C3%A3o '''Bretões'''] (ou '''Bretanos''') são os humanos descendentes dos Manmer Aldmeri-Nédicos da Era Merética, e são agora os habitantes da província de Pedra Alta. Eles são unidos em cultura e idioma, apesar de serem divididos politicamente, pois Pedra Alta é uma região fracionada. Bretões compõem a plebe, tropa, e elite mágica dos reinos feudais que competem por poder. Muitos são magos natos com resistência a magicka de nascença.  São conhecidos por uma proficiência em pensamento abstrato e costumes únicos. Bretões se assemelham, e, por muito, com outros humanos de pele pálida. São normalmente de estatura não tão muscular quanto os Nords ou Rubraguardas. A ancestralidade élfica deles é normalmente detectável somente por uma inspeção minuciosa de suas sobrancelhas, orelhas ou bochechas, apesar de muitos Bretões parecerem mais Nórdicos ou Imperiais do que qualquer outra coisa. A grande diversidade da aparência deles é de ser esperada por conta de sua socidade politicamente fracionada, apesar de suas roupas, sotaques, costumes e nomes serem bem uniformes.
