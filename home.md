@@ -5,5 +5,10 @@ O Amaranth é o Sonhador, o regente do Universo atual onde toda a realidade est�
 
 # Categorias
 * **[Regras](https://amaranth.thalesalv.es/regras/):** regras gerais do sistema.
-* 
-Categoria:Regras: regras gerais do sistema.Categoria:Ficha: itens gerais da ficha de personagem.Categoria:Raças: características gerais das raças de Tamriel.Categoria:Magia: escola de magia e seus feitiços.Categoria:Alquimia: alquimia e suas poções.Categoria:Antecedentes: antecedentes de personagemCategoria:Defeitos e Qualidades: qualidades e defeitos que dão mais ou menos pontos freebie.Categoria:Classes: lista de classes de personagem.Categoria:Signos: signos de Elder Scrolls e seus efeitos.Categoria:Equipamento: equipamentos que podem ser adquiridos.Categoria:Habilidades e Atributos: habilidades e atributos de personagem.
+* **[Ficha](https://amaranth.thalesalv.es/ficha/):** itens gerais da ficha de personagem.
+* **[Raças](https://amaranth.thalesalv.es/racas/):** raças jogáveis de Tamriel.
+* **[Magia](https://amaranth.thalesalv.es/magia/):** mecânicas e escolas de magia.
+* **[Alquimia](https://amaranth.thalesalv.es/alquimia/):** poções e fórmulas alquímicas.
+* **[Astrologia](https://amaranth.thalesalv.es/astrologia/):** os signos do Aurbis e seus efeitos.
+* **[Equipamento](https://amaranth.thalesalv.es/itens/):** itens e equipamentos que podem ser adquiridos.
+* **[Classes](https://amaranth.thalesalv.es/classes/):** classes de personagem e suas características.
