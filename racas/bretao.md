@@ -1,12 +1,12 @@
 <!-- TITLE: Bretão -->
 <!-- SUBTITLE: Os Manmer de Pedra Alta -->
 
-<div style="float: right; margin-right: 1%; background: #fbfbfc; border: 5px black solid;">
+<div style="float: right; margin-right: 1%; background: #fbfbfc; border: 2px black solid;">
 	<figure>
 		<center><img src="/uploads/racas/breton.png"
 			height="300"
-			alt="Bretão"></center>
-		<figcaption style="margin-left: 2%; margin-right: 2%;">Ilustração de um homem Bretão típico.</figcaption>
+			alt="Bretão">
+		<figcaption style="margin-left: 2%; margin-right: 2%;">Ilustração de um homem Bretão típico.</figcaption></center>
 	</figure>
 </div>
 
