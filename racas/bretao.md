@@ -3,10 +3,10 @@
 
 <div style="float:right; margin-right:1%;background:white;border:thin black solid;">
 	<figure>
-		<img src="/uploads/racas/breton.png"
+		<center><img src="/uploads/racas/breton.png"
 			height="300"
-			alt="Bretão">
-		<figcaption>Ilustração de um homem Bretão típico.</figcaption>
+			alt="Bretão"></center>
+		<figcaption style="border:thin black solid;">Ilustração de um homem Bretão típico.</figcaption>
 	</figure>
 </div>
 
