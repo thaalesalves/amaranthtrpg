@@ -5,7 +5,6 @@ O Amaranth é o Sonhador, o regente do Universo atual onde toda a realidade est�
 
 # Categorias
 * **[Regras](/regras/):** regras gerais do sistema.
-* **[Ficha](/ficha/):** itens gerais da ficha de personagem.
 * **[Raças](/racas/):** raças jogáveis de Tamriel.
 * **[Magia](/magia/):** mecânicas e escolas de magia.
 * **[Alquimia](/alquimia/):** poções e fórmulas alquímicas.
