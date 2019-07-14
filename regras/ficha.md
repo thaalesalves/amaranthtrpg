@@ -76,54 +76,22 @@ Freebies são pontos adicionais que você ganha durante a criação de personage
 |Traço|Custo|
 |---|---|
 |**Atributo**|5 freebies por ponto|
-
-{|class = "article-table"
-!Traço
-!Custo
-|-
-|
-|
-|-
-|**Habilidade**
-|2 freebies por ponto
-|-
-|**Feitiço**
-|2 freebies por ponto
-|-
-|**Antecedente**
-|1 freebie por ponto
-|-
-|**Magicka**
-|10 freebies por ponto
-|-
-|**Stamina**
-|10 freebies por ponto
-|-
-|**Artefato**
-|2 freebies por ponto
-|}
+|**Habilidade**|2 freebies por ponto|
+|**Feitiço**|2 freebies por ponto|
+|**Antecedente**|1 freebie por ponto|
+|**Magicka**|10 freebies por ponto|
+|**Stamina**|10 freebies por ponto|
+|**Artefato**|2 freebies por ponto|
 
 # Experiência
 Ao final de toda sessão, o Narrador vai distribuir pontos de experiência para os jogadores. Os critérios de distribuição são de escolha do mestre, mas podem incluir qualidade da interpretação, lições aprendidas, feitos do personagem e coisas mais. Esses pontos são usados para comprar habilidades, bem como os freebies, mas tem critérios diferentes para precificação.
 
-{|class = "article-table"
-!Traço
-!Custo
-|-
-|**Atributo**
-|stat atual * 4
-|-
-|**Habilidade**
-|stat atual * 2
-|-
-|**Nova habilidade**
-|3 pontos
-|-
-|**Magicka**
-|10
-|-
-|**Stamina**
-|10
-|}
+|Traço|Custo|
+|---|---|
+|**Atributo**|stat atual * 4|
+|**Habilidade**|stat atual * 2|
+|**Nova habilidade**|3 pontos|
+|**Magicka**|10|
+|**Stamina**|10|
 
 Feitiços não estão na lista pois são adquiridos com NPCs, ou encontrados ou dados pelo Narrador. Não podem ser comprados com EXP. O mesmo vale para Artefatos.
