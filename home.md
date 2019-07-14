@@ -10,5 +10,4 @@ O Amaranth é o Sonhador, o regente do Universo atual onde toda a realidade est�
 * **[Magia](/magia/):** mecânicas e escolas de magia.
 * **[Alquimia](/alquimia/):** poções e fórmulas alquímicas.
 * **[Astrologia](/astrologia/):** os signos do Aurbis e seus efeitos.
-* **[Equipamento](/itens/):** itens e equipamentos que podem ser adquiridos.
-* **[Classes](/classes/):** classes de personagem e suas características.
+* **[Itens](/itens/):** itens e equipamentos que podem ser adquiridos.
