@@ -10,7 +10,7 @@ Os pontos são divididos em colunas, que agrupam tipos específicos de Atributos
 ## Exemplo
 Baldor Melcar, um Bosmer de Raiz Enciã, é um dos magos da Corte do Rei Camoran. Na criação de ficha, ele tem 7/5/3 pontos para Atributos, isto é, 7 pontos para distribuir em uma das colunas, 5 para distribuir em outra e 3 para distribuir em outra. Como ele é um mago, resolveu colocar 7 pontos na coluna de Atributos Mentais, 5 na de Sociais e 3 na de Atributos Físicos. Ganhou, para Habilidades, 13/9/5, e colocou 13 pontos na fileira de Conhecimentos, 9 na de Perícias e 5 na de Talentos, dando mais pontos para a coluna que contém habilidades mágicas, e não dando tanta importância para talentos físicos.
 
-# Níveis de personagem==
+# Níveis de personagem
 ## Níveis de ficha
 Foi criada a partir do níveis de jogo contidos nos jogos de Elder Scrolls. Cada nível tem uma quantidade diferente de pontos para colocar em cada item durante a criação da ficha. É de liberdade do mestre a forma como níveis serão feitos, mas a regra padrão para o sistema segue. O nível básico padrão é Noviço, mas o Narrador pode decidir dar níveis iniciais diferentes caso queira.
 
@@ -73,12 +73,16 @@ Nas caixas de marcação, é necessário especificar o outro tipo de dano.
 # Freebies
 Freebies são pontos adicionais que você ganha durante a criação de personagem. São usados para comprar pontos para os atributos. Vide [[Regras:Ficha#N.C3.ADveis_de_ficha|a seção de níveis de ficha]] para saber quantos freebies você tem de acordo com o nível de personagem estabelecido pelo Narrador.
 
+|Traço|Custo|
+|---|---|
+|**Atributo**|5 freebies por ponto|
+
 {|class = "article-table"
 !Traço
 !Custo
 |-
-|**Atributo**
-|5 freebies por ponto
+|
+|
 |-
 |**Habilidade**
 |2 freebies por ponto
