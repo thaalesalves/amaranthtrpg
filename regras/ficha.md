@@ -71,7 +71,7 @@ Nas caixas de marcação, é necessário especificar o outro tipo de dano.
 * **Inconsciente:** Teste de Resistência + Atlética. Com sucesso, consegue levantar, mas leva -2 de iniciativa no próximo turno. Com falha, usa próxima ação para levantar, e também leva -2 de iniciativa no próximo turno. Falha crítica permite que se levante no próximo turno, mas leva 1 de dano Contusivo.
 
 # Freebies
-Freebies são pontos adicionais que você ganha durante a criação de personagem. São usados para comprar pontos para os atributos. Vide [seção de níveis de ficha](#Níveis de ficha) para saber quantos freebies você tem de acordo com o nível de personagem estabelecido pelo Narrador.
+Freebies são pontos adicionais que você ganha durante a criação de personagem. São usados para comprar pontos para os atributos. Vide [seção de níveis de ficha](/regras/ficha#niveis-de-ficha) para saber quantos freebies você tem de acordo com o nível de personagem estabelecido pelo Narrador.
 
 |Traço|Custo|
 |---|---|
