@@ -32,20 +32,20 @@ Os pontos distribuídos também têm seus próprios níveis, e você pode ou nã
 Atente-se a estes títulos ao selecionar seu equipamento. O personagem não será capaz de usar itens acima de seu nível.
 
 # Atributos
-Atributos são características da personalidade do personagem. São dividas em 3 categorias: Físicas, Sociais e Mentais. Saiba mais no [[Ficha:Atributos|artigo principal]].
+Atributos são características da personalidade do personagem. São dividas em 3 categorias: Físicas, Sociais e Mentais. Saiba mais no [artigo principal](/regras/ficha/atributos/).
 
 # Habilidades
-Habilidades são características referentes ao que o personagem sabe fazer. São dividas em 3 categorias: Talentos, Perícias e Conhecimentos. Saiba mais no [[Ficha:Habilidades|artigo principal]].
+Habilidades são características referentes ao que o personagem sabe fazer. São dividas em 3 categorias: Talentos, Perícias e Conhecimentos. Saiba mais no [artigo principal](/regras/ficha/habilidades/).
 
 # Vantagens
 ## Feitiços
-São magias concentradas para proteger, causar dano ou alterar o mundo à volta. Veja o [[:Categoria:Magia|artigo principal]].
+São magias concentradas para proteger, causar dano ou alterar o mundo à volta. Veja o [artigo principal](/magia/feiticos).
 
 ## Antecedentes
-Características que trazem vantagens para seus personagens baseados na história dele. Veja o [[:Categoria:Antecedentes|artigo principal]].
+Características que trazem vantagens para seus personagens baseados na história dele. Veja o [artigo principal](/regras/ficha/antecedentes).
 
 ## Defeitos & qualidades
-Traços de personalidade, físicos, sociais ou mentais de seu personagem. Veja o [[:Categoria:Defeitos e Qualidades|artigo principal]].
+Traços de personalidade, físicos, sociais ou mentais de seu personagem. Veja o [artigo principal](/regras/ficha/defeitos_qualidades).
 
 ## Magicka
 Magicka é a força que torna possível a existência da magia arcana. É dito que a Magicka chega em Mundus através de Magnus, o Sol, e arquiteto de Mundus. É possível até 50 pontos de Magicka, que são usados para fazer ações mágicas. É determinada a partir da soma dos pontos de Força de Vontade e Magia do personagem (que se torna o seu limite máximo ao recarregar, a não ser que haja aumento permanente de alguma forma). Recarrega fora de combate, ao descansar.
@@ -71,7 +71,7 @@ Nas caixas de marcação, é necessário especificar o outro tipo de dano.
 * **Inconsciente:** Teste de Resistência + Atlética. Com sucesso, consegue levantar, mas leva -2 de iniciativa no próximo turno. Com falha, usa próxima ação para levantar, e também leva -2 de iniciativa no próximo turno. Falha crítica permite que se levante no próximo turno, mas leva 1 de dano Contusivo.
 
 # Freebies
-Freebies são pontos adicionais que você ganha durante a criação de personagem. São usados para comprar pontos para os atributos. Vide [[Regras:Ficha#N.C3.ADveis_de_ficha|a seção de níveis de ficha]] para saber quantos freebies você tem de acordo com o nível de personagem estabelecido pelo Narrador.
+Freebies são pontos adicionais que você ganha durante a criação de personagem. São usados para comprar pontos para os atributos. Vide [seção de níveis de ficha](#Níveis de ficha) para saber quantos freebies você tem de acordo com o nível de personagem estabelecido pelo Narrador.
 
 |Traço|Custo|
 |---|---|
