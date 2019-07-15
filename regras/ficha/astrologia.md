@@ -44,11 +44,24 @@ A Serpente vaga pelo céu e não tem a própria temporada, apesar de seus movime
 * **Debuff:** a cargo do mestre.
 
 # A Sombra
+A temporada da Sombra é a Segunda Semeadura. A Sombra permite que aquele nascido sob ela se esconda nas sombras.
+* **Buff:** uma vez por sessão, você pode usar o poder da invisibilidade.
+* **Debuff:** toda falha no uso da Furtividade é uma falha crítica.
 
 # O Corcel
-
+A temporada do Corcel é o Meio-de-Ano. Aquele nascido sob o Corcel é ansioso, impaciente.
+* **Buff:** testes de Resistência têm -2 de dificuldade (ou +2 dados, a cargo do narrador).
+* **Debuff:** testes de Percepção e Acuidade têm +2 de dificuldade (ou -2 dados)
 # O Ladrão
-
+A temporada do Ladrão é o mês mais escuro da Estrela Vespertina. Seus domínios são a Amante, a Sombra e a Torre. Aquele nascido sob o Ladrão não é necessariamente um ladrão por profissão, mas tomam mais riscos que a média das pessoas, e difilmente sofrem consequências. Eventualmente sua sorte acaba, e, por isso, eles vivem menos que os nascidos sob outros signos.
+* **Buff:** testes de sorte têm -2 de dificuldade (ou +2 dados)
+* **Debuff:** testes de defesa têm +2 de dificuldade (ou -2 dados)
 # A Torre
+A Torre é de domínio do Ladrão, e sua temporada é a Geada-de-Outono. Aquele nascido sob a Torre tem as manhas de achar ouro e abrir trancas de todos os tipos.
+* **Buff:** todos os testes de Arrombamento têm -2 de dificuldade (ou +2 dados)
+* **Debuff:** 
 
 # O Guerreiro
+O Guerreiro protege seus domínios durante suas temporadas. A temporada do Guerreiro é a Última Semadura, quando sua força é necessária para a colheita. Ses domínios são a Dona, o Corcel e o Dom. Aquele nascido sob o Guerreiro é habilidoso com armas de todos os tipos, mas tem temperamento quente.
+* **Buff:** testes que envolvam armas físicas *ou* Força (a cargo do mestre) têm -2 de dificuldade (ou +2 dados).
+* **Debuff:** sua Percepção e Acuidade são fracas por conta de seu temperamento, e recebem +2 de dificuldade (ou -2 dados).
