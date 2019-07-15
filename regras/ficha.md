@@ -45,7 +45,7 @@ São magias concentradas para proteger, causar dano ou alterar o mundo à volta.
 Características que trazem vantagens para seus personagens baseados na história dele. Veja o [artigo principal](/regras/ficha/antecedentes).
 
 ## Defeitos & qualidades
-Traços de personalidade, físicos, sociais ou mentais de seu personagem. Veja o artigo principal [de qualidades](/regras/ficha/qualidades) e o de [de defeitos](/regras/ficha/defeitos).
+Traços de personalidade, físicos, sociais ou mentais de seu personagem. Veja o artigo principal [de qualidades](/regras/ficha/qualidades) e o [de defeitos](/regras/ficha/defeitos).
 
 ## Magicka
 Magicka é a força que torna possível a existência da magia arcana. É dito que a Magicka chega em Mundus através de Magnus, o Sol, e arquiteto de Mundus. É possível até 50 pontos de Magicka, que são usados para fazer ações mágicas. É determinada a partir da soma dos pontos de Força de Vontade e Magia do personagem (que se torna o seu limite máximo ao recarregar, a não ser que haja aumento permanente de alguma forma). Recarrega fora de combate, ao descansar.
