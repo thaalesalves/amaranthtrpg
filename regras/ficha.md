@@ -13,7 +13,7 @@ Para mais detalhes, veja os artigos principais
 - **[Astrologia](/regras/ficha/astrologia):** a constelação sob a qual o personagem nasceu.
 - **[Atencedentes](/regras/ficha/antecedentes):** antecedentes do personagem.
 - **[Classes](/regras/ficha/classes):** classe e modo de combate do personagem.
-- **[Alinhamento](/regras/ficha/alinhamento):** natureza e comportamento do personagem.
+- **[Arquétipos](/regras/ficha/arquetipos):** natureza e comportamento do personagem.
 
 # Distribuição de pontos
 Os pontos são divididos em colunas, que agrupam tipos específicos de Atributos ou Habilidades. O jogador ganha N pontos para distribuir em cada coluna de cada item da ficha.
