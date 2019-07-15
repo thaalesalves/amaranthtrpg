@@ -5,6 +5,16 @@
 
 O Storyteller tem uma distribuição de pontos característica, que deve ser seguida. Cada classe tem suas particularidades e, portanto, alguns pontos a mais ou a menos, mas existe uma base fixa padrão. Baixe a ficha [aqui](https://1drv.ms/b/s!AgXe9RgHWY8Kg80KHOCcD4OEtDoFuw) ([versão em inglês](https://1drv.ms/b/s!AgXe9RgHWY8Kg8th5Izn4rtJxkr5Og)).
 
+Para mais detalhes, veja os artigos principais
+- **[Defeitos](/regras/ficha/defeitos):** traços físicos ou de personalidade que o dão mais freebies.
+- **[Qualidades](/regras/ficha/qualidades):** traços físicos ou de personalidade que custam pontos.
+- **[Atributos](/regras/ficha/atributos):** características da personalidade do personagem.
+- **[Habilidades](/regras/ficha/habilidades):** habilidades do personagem.
+- **[Astrologia](/regras/ficha/astrologia):** a constelação sob a qual o personagem nasceu.
+- **[Atencedentes](/regras/ficha/antecedentes):** antecedentes do personagem.
+- **[Classes](/regras/ficha/classes):** classe e modo de combate do personagem.
+- **[Alinhamento](/regras/ficha/alinhamento):** natureza e comportamento do personagem.
+
 # Distribuição de pontos
 Os pontos são divididos em colunas, que agrupam tipos específicos de Atributos ou Habilidades. O jogador ganha N pontos para distribuir em cada coluna de cada item da ficha.
 ## Exemplo
