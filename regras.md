@@ -9,6 +9,7 @@ O Amaranth, por ser baseado no Storyteller, tem um conjunto de regras semelhante
 	- **[Atributos](/regras/ficha/atributos):** características da personalidade do personagem.
 	- **[Habilidades](/regras/ficha/habilidades):** habilidades do personagem.
 	- **[Signos](/regras/ficha/signos):** a constelação sob a qual o personagem nasceu.
+	- **[Atencedentes](/regras/ficha/antecedentes):** antecedentes do personagem.
 	- **[Classes](/regras/ficha/classes):** classe e modo de combate do personagem.
 	- **[Alinhamento](/regras/ficha/alinhamento):** natureza e comportamento do personagem.
 - **[Testes](/regras/testes/):** testes e rolagens de jogo.
