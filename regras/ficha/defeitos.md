@@ -31,7 +31,7 @@ Você é uma pessoa muito empática, então ver outros sofrendo parte seu coraç
 ## Ódio (3 pt) 
 Você tem um ódio irracional por algo ou alguém, que o faz tomar péssimas decisões. Mesmo uma menção casual ao objeto de ódio numa conversa já o deixa no limite. Caso você um dia o encontre, você deve fazer um teste de Força de Vontade - 1 (**MENOS UM**), que, caso falhe, você entra em frenesi e simplesmente destrói tudo relacionado ao objeto de ódio (ou que o objeto escape ou se perca da sua vista). O objeto não deve ser algo trivial, e tem precisa ser algo facilmente encontrado durante o jogo.
 
-## Pavio curto (2.pt)##  
+## Pavio curto (2.pt)
 Você se irrita com facilidade, e tem um dado a menos em testes sob pressão.
 
 ## Arrogância (1 pt) 
