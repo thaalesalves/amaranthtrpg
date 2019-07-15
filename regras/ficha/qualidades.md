@@ -123,16 +123,12 @@ Você tem o dom de detectar se magia foi usada ou está sendo usada num raio de 
 ​
 ## Santidade (2 pt.)
 Você tem aparência inocente, e ninguém acredita que você possa causar mal. Mesmo que você seja uma péssima pessoa, vai atrair a confiança dos outros com facilidade.
-​
+
 ## Santuário (2 pt.)
 Alguém o prometeu proteção caso você precisa de um lugar para ficar. Pode ser um parente, um amigo ou um aliado que te deve um favor. Esta pessoa poderá te proteger de muitas ameaças.
-​
+
 ## Fé verdadeira (7 pt.)
 Você foi tocado pelos Oito e Um, e tem o favor de um deus em específico. Você precisa de pelo menos quatro pontos de Força de Vontade para ter esta qualidade, e ganha dois dados em testes que queira pedir ajuda ao seu Deus provedor, uma vez por sessão. Você pode, além disso, fazer um teste de 10 dados para executar ações próximas de milagres, apesar de a natureza do ato ser de escolha do Narrador.
-​
+
 ## Favor Daédrico (2 a 5 pt.)
 Você fez algo por algum Daedra, e agora ele tem um débito com você. É necessário pelo menos 4 pontos de Inteligência e 3 na habilidade usada para ter ajuda do Daedra. Você pode ter o favor de um Daedra menos, como um Pirraça, que lhe dá 2 pontos, de um Dremora Churl, que lhe dá 3 pontos, de um poderoso mago Daédrico, que lhe dá 4 pontos ou de um Príncipe Daédrico, caso tenha 8 pontos na habilidade usada, em Inteligência e seja aprovado pelo Narrador.
-​
-Powered by Wiki.js.
-Início
-Retornar ao topo
