@@ -21,7 +21,7 @@ Tamriel possui uma miríade de raças sencientes. Variam de humanos a elfos a cr
 - **Dwemer:** o povo profundo, elfos que vivem nas profundezas, conhecidos como Anões.
 - **Falmer:** antigos elfos habitantes de Arcéu, conhecidos como Elfos das Neves.
 - **Maormer:** os elfos tropicais, habitantes da ilha de Pyandonea e eternos rivais dos Altmer.
-- **Elfos Canhotos:** antigos rivais dos Yokudanos.
+- **Elfo Canhoto:** antigos rivais dos Yokudanos.
 - **Ayleid:** antigos habitantes de Cyrodiil, elfos com uma sociedade um tanto diversa.
 - **Nede:** antiga raça humana que deu origem a muitas das raças modernas.
 - **Kothringi:** raça humana extinta na Segunda Era depois da Praga Knahaten, os únicos humanos nativos do Pântano Negro.
