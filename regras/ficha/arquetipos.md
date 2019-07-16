@@ -26,6 +26,7 @@ As faces duplas do arquétipo de um personagem, a Natureza e o Comportamento, ap
 # Exilado
 # Explorador
 # Fanático
+# Feudalista
 # Fora da lei
 # Forasteiro
 # Futurista
@@ -47,6 +48,7 @@ As faces duplas do arquétipo de um personagem, a Natureza e o Comportamento, ap
 # Perfeccionista
 # Predador
 # Pregador de peças
+# Ranzinza
 # Rebelde
 # Santo
 # Sensato
