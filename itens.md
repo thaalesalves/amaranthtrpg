@@ -8,3 +8,4 @@
 - **[Runas](/itens/runas):** runas para encantamento.
 - **[Alimentos](/itens/alimentos):** itens de alimentação.
 - **[Diversos](/itens/diversos):** itens diversos.
+- **[Serviços](/itens/servicos):** serviços diversos que podem ser contratados.
