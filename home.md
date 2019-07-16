@@ -8,5 +8,4 @@ O Amaranth é o Sonhador, o regente do Universo atual onde toda a realidade est�
 * **[Raças](/racas/):** raças jogáveis de Tamriel.
 * **[Magia](/regras/magia/):** mecânicas e escolas de magia.
 * **[Alquimia](/regras/alquimia/):** poções e fórmulas alquímicas.
-* **[Astrologia](/regras/ficha/astrologia):** os signos do Aurbis e seus efeitos.
 * **[Itens](/itens/):** itens e equipamentos que podem ser adquiridos.
