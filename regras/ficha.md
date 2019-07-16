@@ -12,7 +12,6 @@ Para mais detalhes, veja os artigos principais
 - **[Habilidades](/regras/ficha/habilidades):** habilidades do personagem.
 - **[Astrologia](/regras/ficha/astrologia):** a constelação sob a qual o personagem nasceu.
 - **[Atencedentes](/regras/ficha/antecedentes):** antecedentes do personagem.
-- **[Classes](/regras/ficha/classes):** classe e modo de combate do personagem.
 - **[Arquétipos](/regras/ficha/arquetipos):** natureza e comportamento do personagem.
 
 # Distribuição de pontos
