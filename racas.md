@@ -16,15 +16,18 @@ Tamriel possui uma miríade de raças sencientes. Variam de humanos a elfos a cr
 - **[Argoniano](/racas/principais/argoniano/):** os homens-lagarto nativos de Argônia, que têm uma ligação mística com as árvores do Hist.
 - **[Khajiit](/racas/principais/khajiit/):** os homens-gato de Elsweyr, filhos de Lorkhaj, com sua relação única com Jone e Jode, as luas que orbitam Nirn.
 # Raças variadas (ainda não jogáveis)
-- Kothringi.
-- Povo do Desfiladeiro.
-- Aldmer.
-- Ayleid.
-- Chimer.
-- Dwemer.
-- Falmer.
-- Elfos Canhotos.
-- Maormer.
+- **Aldmer:** os elfos originais, ancestrais das raças modernas, também chamados de Ehlnofey.
+- **Chimer:** o povo alterado, ancestrais dos Dunmer, criadores da terra de Resdayn.
+- **Dwemer:** o povo profundo, elfos que vivem nas profundezas, conhecidos como Anões.
+- **Falmer:** antigos elfos habitantes de Arcéu, conhecidos como Elfos das Neves.
+- **Maormer:** os elfos tropicais, habitantes da ilha de Pyandonea e eternos rivais dos Altmer.
+- **Elfos Canhotos:** antigos rivais dos Yokudanos.
+- **Ayleid:** antigos habitantes de Cyrodiil, elfos com uma sociedade um tanto diversa.
+- **Nede:** antiga raça humana que deu origem a muitas das raças modernas.
+- **Kothringi:** raça humana extinta na Segunda Era depois da Praga Knahaten, os únicos humanos nativos do Pântano Negro.
+- **Povo do Desfildeiro:** humanos nativos tribais do Desfiladeiro, região da divisão entre Pedra Alta e Arcéu, também chamados de Renegados.
+
+
 - Dreugh.
 - Sload.
 - Goblin.
@@ -43,3 +46,4 @@ Tamriel possui uma miríade de raças sencientes. Variam de humanos a elfos a cr
 - Kith.
 - Skaafin.
 - Imga.
+- Aurorano.
