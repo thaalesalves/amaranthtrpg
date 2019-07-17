@@ -11,6 +11,8 @@ Você tem senso artístico, e tenta criar algo que dure, para você e para as ge
 Você é criativo e artístico. Tem um bom olho para a arte, e sabe apreciar o mundo à sua volta. Você cria aquilo que faz pessoas serem mais do que animais.
 # Autocrata
 Existem duas formas de fazer as coisas: o jeito errado e o seu jeito. Você quer sempre estar no comando, não necessariamente por ter o bem comum em mente, apesar de por vezes isso ser real. Sua autoridade é o que vale acima do resto, seja por bem próprio ou pelo bem comum. Se você fosse um Príncipe Daédrico, seria Molag Bal.
+# Bobão
+O pregador de peças acha o absurdo de tudo. Não importa o quão ruim ou doentio algo é, o pregador de peças sempre acha algo engraçado nisso. Pregadores de peças não conseguem sentir dor ou remorso, então tentam iluminar os espíritos à sua volta. Alguns pregadores de peças tem ideiais mais altos, formas de mostrar suas falhas de forma engraçada. Comediantes, satiristas e críticos sociais são exemplos de pregadores de peças.
 # Bon vivant
 Você sabe que a vida é vazia e não tem significado. Por este exato motivo, você gosta de aproveitar seu tempo de vida. Afinal, a qualquer momento ela pode acabar. Você gosta de acompanhar o passo da música, mas sabe que quando ela parar, terá que enfrentar o mundo real. A realidade é dolorosa demais, então você prefere viver na negação das responsabilidades para simplesmente aproveitar a vida, como um bom seguidor de Sanguine faria.
 # Bravo
@@ -76,29 +78,34 @@ Você sempre foi fascinado pelos outros. Por que pessoas se comportam como se co
 # Masoquista
 Você adora testar os próprios limites, e descobrir quanta dor você aguenta antes de quebrar. Por vezes isso faz você ter ações acidentalmente heroicas, mas faz sempre por si mesmo, pois se delicia com o próprio sofrimento. Você se satisfaz quando é humilhado, quando sofre, quando é rejeitado, ou até mesmo quando sofre dor física. Você tenta doutrinar outras pessoas nesta filofosia, mas você não é um sádico: seu envolvimento é voltado unicamente para sua própria dor.
 # Mártir
+Você sofre pela sua causa, aguentando julgamentos e dores acreditando que seu sofrimento diminuiria o dos outros. Você pode gostar da atenção ou da simpatia que as pessoas mostram, ou você pode ser sincero à causa, salutando a oposição com uma fé inalterada na sua crença. Você é o primeiro a se jogar na frente do perigo, sabendo que seu sacrifício ajudará a vida dos seus parceiros.
 # Místico
+É um mundo estranho, e você quer saber mais sobre ele. Se isso inclui esoterismo como alquimia ou a geografia de planos paralelos, ou até mesmo assuntos mais "mundanos", como as variações da magia ou o tecido da Criação do Aurbis, você não se importa. O que vale é saber. Talvez você não queira revelar seu conhecimento, mas você gosta de ser um estudante do desconhecido. Você é como um Telvanni, ou como o próprio Mannimarco ou mesmo Shalidor. Qualquer outro assunto pode esperar desde que haja magia, metafísica e espiritualidade para segurar sua atenção.
 # Otimista
+"Tudo vai dar certo no final." Esse é seu lema, e você sabe que se continuar sendo alegre e despreocupado, seus problemas nunca estarão com você por muito tempo. Alguns o chamam de tolo, mas eles têm que admitir que você é mais feliz que eles. Com certeza você se depara com dificuldades de vez em quando, mas não tem motivo para se preocupar com antecedência. "Viva devagar, morra a qualquer hora."
 # Paladino
 Você segue seu deus, ou panteão, e só aquilo importa. Você se juntaria aos Cavaleiros dos Nove, ou aos Vigilantes de Stendarr, e daria sua vida pelo que acredita. 
 # Paranoico
 Todo mundo está contra você. Ou é só coisa da sua cabeça? Você age como se tivesse sido tocado por Sheogorath, e coloca coisas onde elas não estão. Quanto mais inocente a pessoa parece, menos ela deve ser, afinal, se a pessoa é boa demais, claramente ela não é nada boa. Tudo é encenação, e todos querem tirar vantagem de você. Sempre tem uma pegadinha, letrinhas pequenas que as pessoas querem que você concorde. Você não confia em ninguém, e assiste a todos como um gavião. 
 # Parceiro
+Você valoriza a amizade acima de todas as coisas, e sempre tenta provar que é digno da confiança das pessoas. Outras coisas podem ser importantes para você, mas suas conexões pessoais estão acima de qualquer outra coisa. Você está disposto a encarar qualquer perigo para ajudar seus amigos quando eles precisarem, mesmo que eles não façam o mesmo por você.
 # Pedagogo
 Você sabe tudo, e é desesperado para que todos saibam disso. Se existe um senso de propósito ou um genuíno desejo de ajudar os outros, você simplesmente quer que sua mensagem seja ouvida - por completo, se necessário. 
 # Perfeccionista
+Você não suporta a imperfeição, nem nos outros nem em você mesmo. Você não tolera aqueles que não fazem tudo que podem para as coisas serem perfeitas e corretas. Apesar de ser restrito com os outros, é consigo mesmo que você pe mais crítico - tudo precisa sempre estar no seu lugar, e você tem sempre que fazer o melhor possível, e ser o melhor possível.
 # Predador
+Você divide o mundo entre caça e caçador, e você prefere ser do tipo caçador. Não existe emoção como a da caça - você pode ter uma presa mais fraca somente para treinar suas habilidades, mas a melhor vítima é aquela que é inteligente, apta, tão boa quanto você. Você pode caçar animais por comida, mas você vive pela caça de criaturas mais inteligentes. Você não necessariamente mata o que você captura, mas você adora provar sua excelência por ter sido bom o suficiente para capturá-la.
 # Pregador de peças
-# Ranzinza
+Você é o pregador de peças divino, o palhaço, aquele que ri mais alto e de tudo. Por acreditar que não existe significado no mundo, não existe motivo para nada, então você se delicia em estragar a vida dos outros. Você sente que isso é quase como sua obrigação, você é um agente de Sithis, um filho de Lorkhan, e precisa causar o caos em todo lugar. Você precisa derrubar as pessoas de seus pedestais e dogmas, e fazê-las engolir palavras de honra e nobreza. Por vezes você trabalha por semanas, meses, ou até anos, formulando seus truques, criando a fundação, e colocando a armadilha para que sua vítima caia nela... e caia com força.
 # Rebelde
 Você não aceita o sistema como ele é. Algo precisa mudar, e você sabe exatamente o que e como fazê-lo. Ou não. Você age a partir do espectro de Mehrunes Dagon, e quer causar a mudança da ordem atual.
 # Santo
 Você sente a dor daqueles à sua volta, e faz de tudo para acabar com o sofrimento deles. Você abre mão do seu tempo, seus pertences e qualquer coisa para aumentar a felicidade de outras pessoas. Isso normalmente o coloca como um mártir. Sua felicidade é secundária, os outros importam mais. Você pode ficar tão obcecado com sua causa que pode acabar em perigo, apesar de nunca fazer nada que coloque outros em perigo. Você segue os ensinamentos de Mara, e está sempre buscando fazer caridade e viver uma vida simples, encorajando outras pessoas a fazerem o mesmo.
 # Sensato
-# Tolo
+Você é o aconselhador, o sábio, o professor. Você viajou por vários lugares e viu muita coisa. Você aprendeu, e está disposto a ensinar. A busca por conhecimento e sabedoria é o principal objetivo da sa vida. Você algo que precisa ser aprendido em toda e qualquer situação. Como o ancião da montanha, você não força seu conhecimento em outras pessoas, mas o compartilha com coração aberto com aqueles que querem ouvi-lo.
 # Trabalhador
 Você é trabalhador, muito esforçado, e não para um minuto para descansar. Gosta de prover para o lar e manter as pessoas à sua volta sempre estáveis e confortáveis. Você segue os valores de trabalho de Zenithar, e está sempre tentando contribuir de forma útil.
 # Vendedor
 Não existe almoço grátis, e qualquer um que acha que existe é um idiota que precisa de uma lição. Você não confia em situações onde não é possível inspecionar a mercadoria e saber o preço de cara, e você sempre tenta saber se tem uma pegadinha ali. Naturalmente, você ganha a vida vendendo algo -  talvez algo que você mesmo produza, ou tem, ou roubou, ou mesmo vende a si mesmo como mercenário - ou de outras formas. Você não dá nada de graça, pois ninguém compra a vaca se ganhar o leite de graça. 
-# Viciado
 # Visionário
 Você é forte o suficiente para ver através do mundano. Você teste limites socialmente aceitos e questiona autoridades: não para destruir a ordem vigente, mas para realizar sonhos. Você questiona o que poderia ser feito, ao invés de questionar o que está sendo feito. Você tem visão ampla, mas é altamente ingênuo, e tem um carisma e visão que podem ameaçar outros, ou ganhá-los de vez, dependendo de como eles se sentem sobre o que você está fazendo.
