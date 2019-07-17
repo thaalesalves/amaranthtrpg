@@ -22,6 +22,7 @@ Esta página reúne informações sobre armaduras. Elas têm um modificador e ti
 |Wamasu|+3|Mestre|+750g|
 |Rubedo|+4|Grão-mestre|+3500g|
 
+# Itens
 ## Armadura leve
 * **Túnicas de couro:** +1 dado de defesa.
 * **Armadura de couro:** +2 dados de defesa.
