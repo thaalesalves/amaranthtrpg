@@ -3,6 +3,7 @@
 
 - **[Armaduras](/itens/armaduras):** armaduras de combate.
 - **[Armas](/itens/armas):** armas para combate.
+- **[Exóticos](/itens/exoticos):** itens únicos, exóticos e extremamente raros.
 - **[Roupas](/itens/roupas):** vestimenta leve.
 - **[Ingredientes](/itens/ingredientes):** ingredientes alquímicos.
 - **[Runas](/itens/runas):** runas para encantamento.
