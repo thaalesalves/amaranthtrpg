@@ -46,6 +46,7 @@ Você é solitário, e não tem ninguém para contar além de si mesmo. Você v�
 # Estóico
 Você aceita os horrores indesviáveis da vida. Você é calmo e sério, e dificilmente demonstra emoção. Isso não significa que você é seco e não tem emoções, apenas que você evita agir de acordo com elas, tentando sempre pensar de forma racional. O máximo que as pessoes verão em você é um sorriso. Pessoas estóicas guardam muitas coisas para si, e uma hora ou outra perdem o controle e acabam estourando.
 # Exilado
+Você foi expulso do seu lugar de origem por qualquer motivo que seja, e não consegue se encaixar em mais nenhum lugar. Você é um andarilho que conhece lugares e pessoas novos todo o tempo, mas nunca para no mesmo lugar por muito tempo, seja porque não gostaram de você ou porque você simplesmente enjoou daquilo. Você sempre busca algo novo.
 # Explorador
 Existe todo um mundo lá fora, e ninguém realmente o conhece. Você somente se contenta quando conhece novos territórios, descobrindo o que está lá fora, e trazendo as novidades para os outros. Você toma riscos para que os outros não precisem tomá-los, mas também adora a emoção de se colocar no caminho do perigo. Ao mesmo tempo, você sabe quando é melhor ser apenas um observador, e você aprendeu a se mexer quietamente quando necessário. Mesmo que sinta medo do desconhecido, você não consegue recusar o chamado dele.
 # Fanático
@@ -59,12 +60,15 @@ Fetchin' n'wah, maldito s'wit! Você não é reconhecido como cidadão de onde q
 # Futurista
 Isso pode ser mais fácil? Então automatize. Você conhece a fundo as técnicas de mecânica moderna dos Dwemer e de Sotha Sil, e sabe como construir robôs altamente futuristas, coisas que para a maior parte dos habitantes de Tamriel seriam inimagináveis.
 # Galante
+Você é tão extravagante quando imoral; alguns o veem como uma espécie de [Crassius Curio](https://en.uesp.net/wiki/Morrowind:Crassius_Curio) - mas você se vê como melhor que isso. Um ator consumado que ama fazer um show sobre tudo, e nada chama mais a sua atenção que uma plateia apreciativa. Você ama as pessoas e ama as impressionar ainda mais. Apesar de de fato você ser um amante superior, você adora o jogo da paquera tanto quanto o ato em si. 
 # Gênio
 Você tem raciocínio rápido, é bom com cálculos e é muito inteligente. Engole livros como se fossem água, e está sempre trabalhando em alguma coisa. Você segue os ensinamentos de Julianos, de Kagrenac e de Sotha Sil, tentando sempre se superar quando o assunto é conhecimento.
 # Heremita
 Você é recluso, e prefere a própria companhia a dos outros. Introspectivo por natureza, você vê tudo de uma forma muito pessoal. Em público, você tende a ser quieto, falando somente quando pedido, a não ser que sua opinião seja de extrema relevância. Como um Barbacinza, as pessoas o veem como um sábio, já que nas raras vezes que fala algo, suas palavras fazem profundo sentido. Apesar do desejo de ficar sozinho, você tem uma vontade enorme de ver e aprender as coisas.
 # Infantil
+A vida adulta é simplesmente uma infância com pelos pelo corpo. Você nunca deixou de ser adolescente, e ainda tem o temperamento de um. Você vê graça em coisas que as pessoas normalmente não veem, e não sabe levar as coisas muito a sério. Seja porque não teve uma infância muito boa, seja porque você não aceita que não é mais criança.
 # Julgador
+Ninguém é melhor que você, e isso precisa estar claro. Você vê os defeitos de toda e cada pessoa que cruza seu caminho, e faz questão de apontá-los. Você sabe tudo sobre todos, e sabe exatamente o que eles fazem de errado. Claro, você é melhor que eles. E todos precisam saber disso.
 # Lobo solitário
 Você é o tipo de pessoas que está sempre sozinho, mesmo numa multidão. Você é o errante, o caçador, o lobo solitário. Apesar de os outros o verem somo solitário, abandonado, isolado ou remoto, na verdade você simplesmente prefere a própria companhia. Existe muitos motivos diferentes para isso: você não entende pessoas, você entende pessoas bem até demais, pessoas não gostam de você, ou gostam mais do que deviam... ou você simplesmente se perde nos próprios pensamentos. Seus motivos são seus e somente seus.
 # Manipulador
@@ -77,9 +81,10 @@ Você adora testar os próprios limites, e descobrir quanta dor você aguenta an
 # Paladino
 Você segue seu deus, ou panteão, e só aquilo importa. Você se juntaria aos Cavaleiros dos Nove, ou aos Vigilantes de Stendarr, e daria sua vida pelo que acredita. 
 # Paranoico
-Todo mundo está contra você. Ou é só coisa da sua cabeça? Você age como se tivesse sido tocado por Sheogorath, e coloca coisas onde elas não estão. 
+Todo mundo está contra você. Ou é só coisa da sua cabeça? Você age como se tivesse sido tocado por Sheogorath, e coloca coisas onde elas não estão. Quanto mais inocente a pessoa parece, menos ela deve ser, afinal, se a pessoa é boa demais, claramente ela não é nada boa. Tudo é encenação, e todos querem tirar vantagem de você. Sempre tem uma pegadinha, letrinhas pequenas que as pessoas querem que você concorde. Você não confia em ninguém, e assiste a todos como um gavião. 
 # Parceiro
 # Pedagogo
+Você sabe tudo, e é desesperado para que todos saibam disso. Se existe um senso de propósito ou um genuíno desejo de ajudar os outros, você simplesmente quer que sua mensagem seja ouvida - por completo, se necessário. 
 # Perfeccionista
 # Predador
 # Pregador de peças
