@@ -1,5 +1,5 @@
 <!-- TITLE: Ingredientes -->
-<!-- SUBTITLE: A quick summary of Ingredientes -->
+<!-- SUBTITLE: Ingredientes alquímicos para poções e venenos -->
 
 |Ingrediente|Tipo|Efeito primário|Efeito secundário|Efeito terciário|Efeito quatenário|Valor|Raridade|
 |--|--|--|--|--|--|--|--|
