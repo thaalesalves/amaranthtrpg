@@ -36,4 +36,4 @@ Esta página reúne informações sobre armas. Elas têm um modificador e tipo d
 * **Arcos:** 4 dados de dano.
 * **Arcos longos:** 6 dados de dano (no mínimo Expert na Perícia de Arco).
 * **Balestras:** 5 dados de dano.
-* **Garruchas:** 6 dados de dano (no mínimo Expert na Perícia de Balestra).
+* **Garruchas:** 6 dados de dano (no mínimo Expert na Perícia de Balestra - ou Perícia específica caso seja decisão do Narrador).
