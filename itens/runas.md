@@ -327,3 +327,47 @@ As runas de Potência determinam o nível dos itens que o glifo será aplicado. 
         </tr>
     </tbody>
 </table>
+
+# Runas de aspecto
+<table style="display: inline-block; width: 45%;">
+    <thead>
+        <tr>
+            <th>Runa</th>
+            <th>Tradução</th>
+            <th>Nível</th>
+            <th>Raridade</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Ta</td>
+            <td>Base</td>
+            <td>Noviço</td>
+            <td>Comum</td>
+        </tr>
+				<tr>
+            <td>Jejota</td>
+            <td>Ótimo</td>
+            <td>Adepto</td>
+            <td>Comum</td>
+        </tr>
+				<tr>
+            <td>Denata</td>
+            <td>Superior</td>
+            <td>Expert</td>
+            <td>Incomum</td>
+        </tr>
+				<tr>
+            <td>Rekuta</td>
+            <td>Artefato</td>
+            <td>Mestre</td>
+            <td>Raro</td>
+        </tr>
+				<tr>
+            <td>Kuta</td>
+            <td>Lendário</td>
+            <td>Grão-mestre</td>
+            <td>Raríssimo</td>
+        </tr>
+		</tbody>
+</table>
