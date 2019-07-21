@@ -9,75 +9,75 @@ O Misticismo é uma das seis escolas da magia, e é a menos entendida pela comun
 * Telecinese é a habilidade de mover itens sem os tocar fisicamente.
 * Aprisionamento de Almas é o mais controverso. Permite que o usuário aprisione a alma de uma criatura em uma gema, e a usa para criar ou recarregar artefatos mágicos. Almas sãp divididas em "brancas" - a alma da maioria das criaturas, e "pretas" - almas de humanos, elfos ou outros seres avançados.
 
-==Feitiços==
-===Absorção de atributo===
-* '''Tipo:''' absorção.
-* '''Custo:''' 5 Magicka.
-* '''Nível:''' Expert.
-* '''Descrição:''' absorve atributos do oponente (não confunda com absorção de habilidades). Dura até ser usado.
+# Feitiços
+## Absorção de atributo
+* **Tipo:** absorção.
+* **Custo:** 5 Magicka.
+* **Nível:** Expert.
+* **Descrição:** absorve atributos do oponente (não confunda com absorção de habilidades). Dura até ser usado.
 
-===Projeção Psíjica===
-* '''Tipo:''' projeção.
-* '''Custo:''' 7 Magicka.
-* '''Nível:''' Expert.
-* '''Descrição:''' faz uma projeção do usuário em algum ponto do Espaço, capaz de falar, ver, sentir e ouvir tudo como se a própria pessoa estivesse lá.
+## Projeção Psíjica
+* **Tipo:** projeção.
+* **Custo:** 7 Magicka.
+* **Nível:** Expert.
+* **Descrição:** faz uma projeção do usuário em algum ponto do Espaço, capaz de falar, ver, sentir e ouvir tudo como se a própria pessoa estivesse lá.
 
-===Aprisionamento de alma===
-* '''Tipo:''' magia de alma.
-* '''Custo:''' 5 Magicka.
-* '''Nível:''' Expert.
-* '''Descrição:''' aprisiona a alma do oponente numa gema d'alma.
+## Aprisionamento de alma
+* **Tipo:** magia de alma.
+* **Custo:** 5 Magicka.
+* **Nível:** Expert.
+* **Descrição:** aprisiona a alma do oponente numa gema d'alma.
 
-===Intervenção divina===
-* '''Tipo:''' teletransporte.
-* '''Custo:''' 10 Magicka.
-* '''Nível:''' Expert.
-* '''Descrição:''' teletransporta o usuário para o templo mais próximo.
+## Intervenção divina
+* **Tipo:** teletransporte.
+* **Custo:** 10 Magicka.
+* **Nível:** Expert.
+* **Descrição:** teletransporta o usuário para o templo mais próximo.
 
-===Desmoralizar===
-* '''Tipo:''' personalidade.
-* '''Custo:''' 10 Magicka.
-* '''Nível:''' Mestre.
-* '''Descrição:''' altera a percepção de si mesmo do alvo, e o faz entrar em colapso emocional. Pode causar medo, desespero, fobias e efeitos diversos. O efeito é permanente.
+## Desmoralizar
+* **Tipo:** personalidade.
+* **Custo:** 10 Magicka.
+* **Nível:** Mestre.
+* **Descrição:** altera a percepção de si mesmo do alvo, e o faz entrar em colapso emocional. Pode causar medo, desespero, fobias e efeitos diversos. O efeito é permanente.
 
-===Detecção de chave===
-* '''Tipo:''' detecção.
-* '''Custo:''' 10 Magicka.
-* '''Nível:''' Grão-mestre.
-* '''Descrição:''' detecta chaves e itens que abrem portas.
+## Detecção de chave
+* **Tipo:** detecção.
+* **Custo:** 10 Magicka.
+* **Nível:** Grão-mestre.
+* **Descrição:** detecta chaves e itens que abrem portas.
 
-===Silenciamento===
-* '''Tipo:''' essência da magia.
-* '''Custo:''' 10 Magicka.
-* '''Nível:''' Grão-mestre.
-* '''Descrição:''' silencia por completo o oponente, fazendo ele perder toda e qualquer habilidade mágica até o fim da cena.
+## Silenciamento
+* **Tipo:** essência da magia.
+* **Custo:** 10 Magicka.
+* **Nível:** Grão-mestre.
+* **Descrição:** silencia por completo o oponente, fazendo ele perder toda e qualquer habilidade mágica até o fim da cena.
 
-===Marcação & Transporte===
-* '''Tipo:''' teletransporte.
-* '''Custo:''' 10 Magicka.
-* '''Nível:''' Grão-mestre.
-* '''Descrição:''' marca um lugar específico no espaço-tempo, e pode ser usado para transportar o usuário a este lugar.
+## Marcação & Transporte
+* **Tipo:** teletransporte.
+* **Custo:** 10 Magicka.
+* **Nível:** Grão-mestre.
+* **Descrição:** marca um lugar específico no espaço-tempo, e pode ser usado para transportar o usuário a este lugar.
 
-===Absorção de feitiço===
-* '''Tipo:''' essência da magia.
-* '''Custo:''' 5 Magicka.
-* '''Nível:''' Grão-mestre.
-* '''Descrição:''' converte feitiços de um oponente em Magicka e regenera o status do usuário. 
+## Absorção de feitiço
+* **Tipo:** essência da magia.
+* **Custo:** 5 Magicka.
+* **Nível:** Grão-mestre.
+* **Descrição:** converte feitiços de um oponente em Magicka e regenera o status do usuário. 
 
-===Aprisionamento de alma superior===
-* '''Tipo:''' magia de alma.
-* '''Custo:''' 10 Magicka.
-* '''Nível:''' Grão-mestre.
-* '''Descrição:''' aprisiona almas superiores, de seres sencientes (i.e., humanos, elfos, Argonianos ou Khajiit).
+## Aprisionamento de alma superior
+* **Tipo:** magia de alma.
+* **Custo:** 10 Magicka.
+* **Nível:** Grão-mestre.
+* **Descrição:** aprisiona almas superiores, de seres sencientes (i.e., humanos, elfos, Argonianos ou Khajiit).
 
-===Detecção de vida===
-* '''Tipo:''' detecção.
-* '''Custo:''' 2 Magicka.
-* '''Nível:''' Expert.
-* '''Descrição:''' detecta seres vivos num raio de cinco metros.
+## Detecção de vida
+* **Tipo:** detecção.
+* **Custo:** 2 Magicka.
+* **Nível:** Expert.
+* **Descrição:** detecta seres vivos num raio de cinco metros.
 
-===Telecinese===
-* '''Tipo:''' movimento.
-* '''Custo:''' 2 Magicka (aumenta dependendo do item).
-* '''Nível:''' Mestre.
-* '''Descrição:''' movimenta um objeto sem tocá-lo. Dificuldade padrão para este teste pode aumentar dependendo do item-alvo.
+## Telecinese
+* **Tipo:** movimento.
+* **Custo:** 2 Magicka (aumenta dependendo do item).
+* **Nível:** Mestre.
+* **Descrição:** movimenta um objeto sem tocá-lo. Dificuldade padrão para este teste pode aumentar dependendo do item-alvo.
