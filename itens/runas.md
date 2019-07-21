@@ -6,25 +6,128 @@ Runas são pedras com propriedades mágicas que podem ser compradas ou encontrad
 # Runas de potência
 As runas de Potência determinam o nível dos itens que o glifo será aplicado. Para cada nível de potência existem dois tipos de runas: as Aditivas e as Subtrativas. Runas aditivas comumente têm o sufixo -ra no nome, enquanto as subtrativas têm o sufixo -de. Por vezes isso pode varias e os sufixos podem aparecer como sílabas nos nomes das runas.
 
-<div style="float:left;width:45%;">
-|Runa|Potência|Tradução|Glifo|Valor|
-|--|--|--|--|--|
-|Jora|1|Desenvolve|Insignificante|50|
-|Porade|1+|Adiciona|Inferior|50|
-|Jera|2|Incrementa|Trivial|50|
-|Jejora|2+|Cresce|Fraco|50|
-|Odra|3|Ganha|Pequeno|50|
-|Pojora|3+|Suplementa|Menor|50|
-|Edora|4|Impulsiona|Moderado|50|
-|Jaera|4+|Avança|Médio|50|
-|Pora|5|Aumenta|Forte|50|
-|Denara|5+|Fortifica|Maior|50|
-|Rera|6|Exagera|Grande|50|
-|Derado|7|Empodera|Grandioso|50|
-|Rekura|8|Magnifica|Esplêndido|50|
-|Kura|9|Intensifica|Monumental|50|
-|Rejera|10|Amplifica|Soberbo|50|
-|Repora|10|Reforça|Verdadeiramente soberbo|50|
-</div>
-<div style="float:right;width:45%;">
-</div>
+<table style="display: inline-block;">
+    <thead>
+        <tr>
+            <th>Runa</th>
+            <th>Potência</th>
+            <th>Tradução</th>
+            <th>Glifo</th>
+            <th>Valor</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Jora</td>
+            <td>1</td>
+            <td>Desenvolve</td>
+            <td>Insignificante</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Porade</td>
+            <td>1+</td>
+            <td>Adiciona</td>
+            <td>Inferior</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Jera</td>
+            <td>2</td>
+            <td>Incrementa</td>
+            <td>Trivial</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Jejora</td>
+            <td>2+</td>
+            <td>Cresce</td>
+            <td>Fraco</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Odra</td>
+            <td>3</td>
+            <td>Ganha</td>
+            <td>Pequeno</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Pojora</td>
+            <td>3+</td>
+            <td>Suplementa</td>
+            <td>Menor</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Edora</td>
+            <td>4</td>
+            <td>Impulsiona</td>
+            <td>Moderado</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Jaera</td>
+            <td>4+</td>
+            <td>Avança</td>
+            <td>Médio</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Pora</td>
+            <td>5</td>
+            <td>Aumenta</td>
+            <td>Forte</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Denara</td>
+            <td>5+</td>
+            <td>Fortifica</td>
+            <td>Maior</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Rera</td>
+            <td>6</td>
+            <td>Exagera</td>
+            <td>Grande</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Derado</td>
+            <td>7</td>
+            <td>Empodera</td>
+            <td>Grandioso</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Rekura</td>
+            <td>8</td>
+            <td>Magnifica</td>
+            <td>Esplêndido</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Kura</td>
+            <td>9</td>
+            <td>Intensifica</td>
+            <td>Monumental</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Rejera</td>
+            <td>10</td>
+            <td>Amplifica</td>
+            <td>Soberbo</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Repora</td>
+            <td>10</td>
+            <td>Reforça</td>
+            <td>Verdadeiramente soberbo</td>
+            <td>50</td>
+        </tr>
+    </tbody>
+</table>
