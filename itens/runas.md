@@ -284,46 +284,46 @@ As runas de Potência determinam o nível dos itens que o glifo será aplicado. 
             <td>Glifo de proteção mágica</td>
         </tr>
         <tr>
-            <td>Idode</td>
-            <td>5+</td>
-            <td>Prejudica</td>
-            <td>Maior</td>
+            <td>Makko</td>
+            <td>Magicka</td>
+            <td>Glifo de Magicka</td>
+            <td>Glifo de absorção de Magicka</td>
         </tr>
         <tr>
-            <td>Pode</td>
-            <td>6</td>
-            <td>Remove</td>
-            <td>Grande</td>
+            <td>Meip</td>
+            <td>Eletricidade</td>
+            <td>Glifo de dano elétrico</td>
+            <td>Glifo de resistência elétrica</td>
         </tr>
         <tr>
-            <td>Kedeko</td>
-            <td>7</td>
-            <td>Drena</td>
-            <td>Grandioso</td>
+            <td>Oko</td>
+            <td>Saúde</td>
+            <td>Glifo de saúde</td>
+            <td>Glifo de absorção de saúde</td>
         </tr>
         <tr>
-            <td>Rede</td>
-            <td>8</td>
-            <td>Priva</td>
-            <td>Esplêndido</td>
+            <td>Okori</td>
+            <td>Poder</td>
+            <td>Glifo de dano de arma</td>
+            <td>Glifo de enfraquecimento</td>
         </tr>
         <tr>
-            <td>Kude</td>
-            <td>9</td>
-            <td>Nega</td>
-            <td>Monumental</td>
+            <td>Oru</td>
+            <td>Alquimista</td>
+            <td>Glifo de potência alquímica</td>
+            <td>Glifo de velocidade alquímica</td>
         </tr>
         <tr>
-            <td>Jehade</td>
-            <td>10</td>
-            <td>Despe</td>
-            <td>Soberbo</td>
+            <td>Rakeipa</td>
+            <td>Fogo</td>
+            <td>Glifo de fogo</td>
+            <td>Glifo de resistência a fogo</td>
         </tr>
         <tr>
-            <td>Itade</td>
-            <td>10</td>
-            <td>Pilha</td>
-            <td>Verdadeiramente soberbo</td>
+            <td>Taderi</td>
+            <td>Dano físico</td>
+            <td>Glifo de dano físico</td>
+            <td>Glifo de resistência a dano físico soberbo</td>
         </tr>
     </tbody>
 </table>
