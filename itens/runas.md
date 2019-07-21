@@ -126,99 +126,99 @@ As runas de Potência determinam o nível dos itens que o glifo será aplicado. 
     </thead>
     <tbody>
         <tr>
-            <td>Jora</td>
+            <td>Jode</td>
             <td>1</td>
-            <td>Desenvolve</td>
+            <td>Reduz</td>
             <td>Insignificante</td>
         </tr>
         <tr>
-            <td>Porade</td>
+            <td>Notade</td>
             <td>1+</td>
-            <td>Adiciona</td>
+            <td>Subtrai</td>
             <td>Inferior</td>
         </tr>
         <tr>
-            <td>Jera</td>
+            <td>Ode</td>
             <td>2</td>
-            <td>Incrementa</td>
+            <td>Encolhe</td>
             <td>Trivial</td>
         </tr>
         <tr>
-            <td>Jejora</td>
+            <td>Tade</td>
             <td>2+</td>
-            <td>Cresce</td>
+            <td>Desincrementa</td>
             <td>Fraco</td>
         </tr>
         <tr>
-            <td>Odra</td>
+            <td>Jayde</td>
             <td>3</td>
-            <td>Ganha</td>
+            <td>Deduz</td>
             <td>Pequeno</td>
         </tr>
         <tr>
-            <td>Pojora</td>
+            <td>Edode</td>
             <td>3+</td>
-            <td>Suplementa</td>
+            <td>Rebaixa</td>
             <td>Menor</td>
         </tr>
         <tr>
-            <td>Edora</td>
+            <td>Pojode</td>
             <td>4</td>
-            <td>Impulsiona</td>
+            <td>Diminui</td>
             <td>Moderado</td>
         </tr>
         <tr>
-            <td>Jaera</td>
+            <td>Rekude</td>
             <td>4+</td>
-            <td>Avança</td>
+            <td>Enfraquece</td>
             <td>Médio</td>
         </tr>
         <tr>
-            <td>Pora</td>
+            <td>Hade</td>
             <td>5</td>
-            <td>Aumenta</td>
+            <td>Atenua</td>
             <td>Forte</td>
         </tr>
         <tr>
-            <td>Denara</td>
+            <td>Idode</td>
             <td>5+</td>
-            <td>Fortifica</td>
+            <td>Prejudica</td>
             <td>Maior</td>
         </tr>
         <tr>
-            <td>Rera</td>
+            <td>Pode</td>
             <td>6</td>
-            <td>Exagera</td>
+            <td>Remove</td>
             <td>Grande</td>
         </tr>
         <tr>
-            <td>Derado</td>
+            <td>Kedeko</td>
             <td>7</td>
-            <td>Empodera</td>
+            <td>Drena</td>
             <td>Grandioso</td>
         </tr>
         <tr>
-            <td>Rekura</td>
+            <td>Rede</td>
             <td>8</td>
-            <td>Magnifica</td>
+            <td>Priva</td>
             <td>Esplêndido</td>
         </tr>
         <tr>
-            <td>Kura</td>
+            <td>Kude</td>
             <td>9</td>
-            <td>Intensifica</td>
+            <td>Nega</td>
             <td>Monumental</td>
         </tr>
         <tr>
-            <td>Rejera</td>
+            <td>Jehade</td>
             <td>10</td>
-            <td>Amplifica</td>
+            <td>Despe</td>
             <td>Soberbo</td>
         </tr>
         <tr>
-            <td>Repora</td>
+            <td>Itade</td>
             <td>10</td>
-            <td>Reforça</td>
+            <td>Pilha</td>
             <td>Verdadeiramente soberbo</td>
         </tr>
     </tbody>
