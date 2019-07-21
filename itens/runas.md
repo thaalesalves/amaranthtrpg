@@ -13,7 +13,6 @@ As runas de Potência determinam o nível dos itens que o glifo será aplicado. 
             <th>Potência</th>
             <th>Tradução</th>
             <th>Glifo</th>
-            <th>Valor</th>
         </tr>
     </thead>
     <tbody>
@@ -22,112 +21,96 @@ As runas de Potência determinam o nível dos itens que o glifo será aplicado. 
             <td>1</td>
             <td>Desenvolve</td>
             <td>Insignificante</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Porade</td>
             <td>1+</td>
             <td>Adiciona</td>
             <td>Inferior</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Jera</td>
             <td>2</td>
             <td>Incrementa</td>
             <td>Trivial</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Jejora</td>
             <td>2+</td>
             <td>Cresce</td>
             <td>Fraco</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Odra</td>
             <td>3</td>
             <td>Ganha</td>
             <td>Pequeno</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Pojora</td>
             <td>3+</td>
             <td>Suplementa</td>
             <td>Menor</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Edora</td>
             <td>4</td>
             <td>Impulsiona</td>
             <td>Moderado</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Jaera</td>
             <td>4+</td>
             <td>Avança</td>
             <td>Médio</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Pora</td>
             <td>5</td>
             <td>Aumenta</td>
             <td>Forte</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Denara</td>
             <td>5+</td>
             <td>Fortifica</td>
             <td>Maior</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Rera</td>
             <td>6</td>
             <td>Exagera</td>
             <td>Grande</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Derado</td>
             <td>7</td>
             <td>Empodera</td>
             <td>Grandioso</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Rekura</td>
             <td>8</td>
             <td>Magnifica</td>
             <td>Esplêndido</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Kura</td>
             <td>9</td>
             <td>Intensifica</td>
             <td>Monumental</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Rejera</td>
             <td>10</td>
             <td>Amplifica</td>
             <td>Soberbo</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Repora</td>
             <td>10</td>
             <td>Reforça</td>
             <td>Verdadeiramente soberbo</td>
-            <td>50</td>
         </tr>
     </tbody>
 </table>
@@ -139,7 +122,6 @@ As runas de Potência determinam o nível dos itens que o glifo será aplicado. 
             <th>Potência</th>
             <th>Tradução</th>
             <th>Glifo</th>
-            <th>Valor</th>
         </tr>
     </thead>
     <tbody>
@@ -148,112 +130,96 @@ As runas de Potência determinam o nível dos itens que o glifo será aplicado. 
             <td>1</td>
             <td>Desenvolve</td>
             <td>Insignificante</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Porade</td>
             <td>1+</td>
             <td>Adiciona</td>
             <td>Inferior</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Jera</td>
             <td>2</td>
             <td>Incrementa</td>
             <td>Trivial</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Jejora</td>
             <td>2+</td>
             <td>Cresce</td>
             <td>Fraco</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Odra</td>
             <td>3</td>
             <td>Ganha</td>
             <td>Pequeno</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Pojora</td>
             <td>3+</td>
             <td>Suplementa</td>
             <td>Menor</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Edora</td>
             <td>4</td>
             <td>Impulsiona</td>
             <td>Moderado</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Jaera</td>
             <td>4+</td>
             <td>Avança</td>
             <td>Médio</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Pora</td>
             <td>5</td>
             <td>Aumenta</td>
             <td>Forte</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Denara</td>
             <td>5+</td>
             <td>Fortifica</td>
             <td>Maior</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Rera</td>
             <td>6</td>
             <td>Exagera</td>
             <td>Grande</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Derado</td>
             <td>7</td>
             <td>Empodera</td>
             <td>Grandioso</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Rekura</td>
             <td>8</td>
             <td>Magnifica</td>
             <td>Esplêndido</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Kura</td>
             <td>9</td>
             <td>Intensifica</td>
             <td>Monumental</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Rejera</td>
             <td>10</td>
             <td>Amplifica</td>
             <td>Soberbo</td>
-            <td>50</td>
         </tr>
         <tr>
             <td>Repora</td>
             <td>10</td>
             <td>Reforça</td>
             <td>Verdadeiramente soberbo</td>
-            <td>50</td>
         </tr>
     </tbody>
 </table>
