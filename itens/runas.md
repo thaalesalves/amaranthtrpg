@@ -223,3 +223,107 @@ As runas de Potência determinam o nível dos itens que o glifo será aplicado. 
         </tr>
     </tbody>
 </table>
+
+# Runas de essência
+<table style="display: inline-block; width: 45%;">
+    <thead>
+        <tr>
+            <th>Runa</th>
+            <th>Tradução</th>
+            <th>Aditiva</th>
+            <th>Subtrative</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Dekeipa</td>
+            <td>Gelo</td>
+            <td>Glifo de gelo</td>
+            <td>Glifo de resistência ao gelo</td>
+        </tr>
+        <tr>
+            <td>Deni</td>
+            <td>Vigor</td>
+            <td>Glifo de vigor</td>
+            <td>Glifo de absorção de vigor</td>
+        </tr>
+        <tr>
+            <td>Deteri</td>
+            <td>Armadura</td>
+            <td>Glifo de endurecimento</td>
+            <td>Glifo de enfraquecimento de armadura</td>
+        </tr>
+        <tr>
+            <td>Hakeijo</td>
+            <td>Prisma</td>
+            <td>Glifo da defesa prismática</td>
+            <td>Glifo do ataque prismático</td>
+        </tr>
+        <tr>
+            <td>Haoko</td>
+            <td>Doença</td>
+            <td>Glifo da impureza</td>
+            <td>Glifo da imunidade</td>
+        </tr>
+        <tr>
+            <td>Kaderi</td>
+            <td>Escudo</td>
+            <td>Glifo da surra</td>
+            <td>Glifo da proteção</td>
+        </tr>
+        <tr>
+            <td>Kuoko</td>
+            <td>Veneno</td>
+            <td>Glifo do veneno</td>
+            <td>Glifo de resistência a veneno</td>
+        </tr>
+        <tr>
+            <td>Makderi</td>
+            <td>Dano mágico</td>
+            <td>Glifo de dano mágico</td>
+            <td>Glifo de proteção mágica</td>
+        </tr>
+        <tr>
+            <td>Idode</td>
+            <td>5+</td>
+            <td>Prejudica</td>
+            <td>Maior</td>
+        </tr>
+        <tr>
+            <td>Pode</td>
+            <td>6</td>
+            <td>Remove</td>
+            <td>Grande</td>
+        </tr>
+        <tr>
+            <td>Kedeko</td>
+            <td>7</td>
+            <td>Drena</td>
+            <td>Grandioso</td>
+        </tr>
+        <tr>
+            <td>Rede</td>
+            <td>8</td>
+            <td>Priva</td>
+            <td>Esplêndido</td>
+        </tr>
+        <tr>
+            <td>Kude</td>
+            <td>9</td>
+            <td>Nega</td>
+            <td>Monumental</td>
+        </tr>
+        <tr>
+            <td>Jehade</td>
+            <td>10</td>
+            <td>Despe</td>
+            <td>Soberbo</td>
+        </tr>
+        <tr>
+            <td>Itade</td>
+            <td>10</td>
+            <td>Pilha</td>
+            <td>Verdadeiramente soberbo</td>
+        </tr>
+    </tbody>
+</table>
