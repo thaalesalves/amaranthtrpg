@@ -24,6 +24,14 @@ Em 5E 3, o território Imperial se resumia basicamente a Cyrodiil, já que a ún
 
 # Detalhes técnicos
 ## Área territorial
+<div style="float: right; margin-right: 1%; background: #fbfbfc; border: 2px black solid;">
+	<figure>
+		<center><img src="/uploads/imagens/tamriel-quinta-era-escala.png"
+			height="300"
+			alt="Tamriel">
+		<figcaption style="margin-left: 2%; margin-right: 2%;">Mapa de escala de Tamriel. Cada quadrado representa 100 km²</figcaption></center>
+	</figure>
+
 * **Tamriel:** 9.083.000,00 km²
 * **Arcéu:** 1.000.000,00 km²
 * **Cyrodiil:** 1.850.000,00 km²
@@ -34,11 +42,3 @@ Em 5E 3, o território Imperial se resumia basicamente a Cyrodiil, já que a ún
 * **Elsweyr:** 635.000,00 km² (Anequina e Pelletine juntas)
 * **Argonia:** 1.070.000,00 km²
 * **Alinor:** 735.000,00 km²
-
-<div style="float: right; margin-right: 1%; background: #fbfbfc; border: 2px black solid;">
-	<figure>
-		<center><img src="/uploads/imagens/tamriel-quinta-era-escala.png"
-			height="300"
-			alt="Tamriel">
-		<figcaption style="margin-left: 2%; margin-right: 2%;">Mapa de escala de Tamriel. Cada quadrado representa 100 km²</figcaption></center>
-	</figure>
