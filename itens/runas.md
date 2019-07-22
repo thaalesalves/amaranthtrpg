@@ -8,7 +8,7 @@ As runas de Potência determinam o nível dos itens que o glifo será aplicado. 
 
 <div  style="display: inline-block; width: 45%;">
 <table>
-<caption>Runas aditivas</caption>
+<caption style="font-weight: 700;">Runas aditivas</caption>
     <thead>
         <tr>
             <th>Runa</th>
@@ -120,7 +120,7 @@ As runas de Potência determinam o nível dos itens que o glifo será aplicado. 
 
 <div  style="display: inline-block; width: 45%;">
 <table>
-<caption>Runas aditivas</caption>
+<caption style="font-weight: 700;">Runas subtrativas</caption>
     <thead>
         <tr>
             <th>Runa</th>
