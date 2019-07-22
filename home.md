@@ -9,3 +9,4 @@ O Amaranth é o Sonhador, o regente do Universo atual onde toda a realidade est�
 * **[Magia](/regras/magia/):** mecânicas e escolas de magia.
 * **[Alquimia](/regras/alquimia/):** poções e fórmulas alquímicas.
 * **[Itens](/itens/):** itens e equipamentos que podem ser adquiridos.
+* **[Campanhas](/campanhas/):** algumas campanhas prontas para jogar no universo.
