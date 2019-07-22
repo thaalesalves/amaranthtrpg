@@ -1,4 +1,4 @@
-<!-- TITLE: Invasão de Oblivion -->
+<!-- TITLE: A Crise de Oblivion -->
 <!-- SUBTITLE: Mehrunes Dagon planeja tomar Mundus para si -->
 
 O Imperador Uriel Septim VIII foi assassinado pela Aurora Mítica, grupo cultista do Príncipe Daédrico Mehrunes Dagon, liderado por Mankar Camoran. Antes de assassinar o Imperador, os cultistas assassinaram toda a família Septim, deixando o Trono de Rubi sem herdeiro. As brasas do dragão se apagaram sem um imperador Draconato para acendê-las, e o pacto feito com Akatosh por Alessia foi quebrado novamente, deixando Mundus sem sua proteção contra invasões Daédricas.
