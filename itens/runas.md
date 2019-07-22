@@ -6,7 +6,8 @@ Runas são pedras com propriedades mágicas que podem ser compradas ou encontrad
 # Runas de potência
 As runas de Potência determinam o nível dos itens que o glifo será aplicado. Para cada nível de potência existem dois tipos de runas: as Aditivas e as Subtrativas. Runas aditivas comumente têm o sufixo -ra no nome, enquanto as subtrativas têm o sufixo -de. Por vezes isso pode varias e os sufixos podem aparecer como sílabas nos nomes das runas.
 
-<table style="display: inline-block; width: 45%;">
+<div  style="display: inline-block; width: 45%;">
+<table>
     <thead>
         <tr>
             <th>Runa</th>
@@ -114,8 +115,10 @@ As runas de Potência determinam o nível dos itens que o glifo será aplicado. 
         </tr>
     </tbody>
 </table>
+</div>
 
-<table style="display: inline-block; width: 45%;">
+<div  style="display: inline-block; width: 45%;">
+<table>
     <thead>
         <tr>
             <th>Runa</th>
@@ -223,9 +226,11 @@ As runas de Potência determinam o nível dos itens que o glifo será aplicado. 
         </tr>
     </tbody>
 </table>
+</div>
 
 # Runas de essência
-<table style="display: inline-block; width: 45%;">
+<div  style="display: inline-block; width: 45%;">
+<table>
     <thead>
         <tr>
             <th>Runa</th>
@@ -371,3 +376,4 @@ As runas de Potência determinam o nível dos itens que o glifo será aplicado. 
         </tr>
 		</tbody>
 </table>
+</div>
