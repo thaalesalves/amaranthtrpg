@@ -332,9 +332,11 @@ As runas de Potência determinam o nível dos itens que o glifo será aplicado. 
         </tr>
     </tbody>
 </table>
+</div>
 
 # Runas de aspecto
-<table style="display: inline-block; width: 45%;">
+<div  style="display: inline-block; width: 45%;">
+<table>
     <thead>
         <tr>
             <th>Runa</th>
