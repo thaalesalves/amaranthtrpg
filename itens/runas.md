@@ -361,19 +361,19 @@ As runas de Potência determinam o nível dos itens que o glifo será aplicado. 
             <td>Comum</td>
         </tr>
 				<tr>
-            <td style="font-weight: 700; color: #A02EF7 !important;">Denata</td>
+            <td style="font-weight: 700; color: #3A92FF !important;">Denata</td>
             <td>Superior</td>
             <td>Expert</td>
             <td>Incomum</td>
         </tr>
 				<tr>
-            <td style="font-weight: 700; color: #CCAA1A !important;">Rekuta</td>
+            <td style="font-weight: 700; color: #A02EF7 !important;">Rekuta</td>
             <td>Artefato</td>
             <td>Mestre</td>
             <td>Raro</td>
         </tr>
 				<tr>
-            <td>Kuta</td>
+            <td style="font-weight: 700; color: #CCAA1A !important;">Kuta</td>
             <td>Lendário</td>
             <td>Grão-mestre</td>
             <td>Raríssimo</td>
