@@ -31,6 +31,7 @@ Em 5E 3, o território Imperial se resumia basicamente a Cyrodiil, já que a ún
 			alt="Tamriel">
 		<figcaption style="margin-left: 2%; margin-right: 2%;">Mapa de escala de Tamriel. Cada quadrado representa 100 km²</figcaption></center>
 	</figure>
+</div>
 
 * **Tamriel:** 9.083.000,00 km²
 * **Arcéu:** 1.000.000,00 km²
