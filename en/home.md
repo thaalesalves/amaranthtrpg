@@ -2,7 +2,7 @@
 title: Amaranth
 description: Welcome to Amaranth, an adaptation of White Wolf's Storyteller to Elder Scrolls!
 published: true
-date: 2020-01-07T22:28:00.363Z
+date: 2020-01-07T22:28:36.795Z
 tags: 
 ---
 
