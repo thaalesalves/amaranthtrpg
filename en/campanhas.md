@@ -2,7 +2,7 @@
 title: Campaigns
 description: Premade campaigns and settings for adventures
 published: true
-date: 2020-01-12T16:27:43.929Z
+date: 2020-01-12T16:28:30.564Z
 tags: 
 ---
 
@@ -15,5 +15,5 @@ tags:
 
 ## Headcanon campaigns
 * **[Fall of the Empire](/campanhas/queda_imperio):** 5E 3: events that follow *The Elder Scrolls V: Skyrim*, post civil war.
-* **[Fall of the Alessians](/campanhas/queda_alessiana):** 1E 640: headcanon based on [Vigilant](https://www.nexusmods.com/skyrim/mods/67103) para Skyrim. 
+* **[Fall of the Alessians](/campanhas/queda_alessiana):** 1E 640: headcanon based on [Vigilant](https://www.nexusmods.com/skyrim/mods/67103) for Skyrim. 
 * **[Stormcrown](/campanhas/coroa-tormenta):** 2E 850: Cuhlecain fights for the Ruby Throne with his army.
