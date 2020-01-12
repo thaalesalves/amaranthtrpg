@@ -2,7 +2,7 @@
 title: Campanhas
 description: Campanhas e settings pré-prontos para aventuras
 published: true
-date: 2020-01-12T16:21:18.399Z
+date: 2020-01-12T16:29:03.541Z
 tags: 
 ---
 
@@ -15,6 +15,5 @@ tags:
 
 ## Campanhas de headcanon
 * **[Queda do Império](/campanhas/queda_imperio):** 5E 3: eventos que seguem os acontecimentos de *The Elder Scrolls V: Skyrim*, pós-guerra civil.
-* **[Terra Nova](/campanhas/terra_nova):** 4E 205: headcanon que usam da *metalore* para misturar o nosso universo com TES. Acontecem 4 anos depois de *The Elder Scrolls V: Skyrim*.
 * **[Queda Alessiana](/campanhas/queda_alessiana):** 1E 640: headcanon baseado no mod [Vigilant](https://www.nexusmods.com/skyrim/mods/67103) para Skyrim. 
 * **[Coroa-Tormenta](/campanhas/coroa-tormenta):** 2E 850: Cuhlecain briga para tomar o Trono de Rubi com seu exército.
