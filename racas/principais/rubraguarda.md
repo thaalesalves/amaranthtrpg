@@ -1,5 +1,4 @@
-<!-- TITLE: Rubraguarda -->
-<!-- SUBTITLE: Os Ra Gada de Martelfell -->
+# Rubraguarda
 
 <div style="float: right; margin-right: 1%; background: #fbfbfc; border: 2px black solid;">
 	<figure>

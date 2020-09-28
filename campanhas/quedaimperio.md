@@ -1,16 +1,4 @@
-<!-- TITLE: Queda do Império -->
-<!-- SUBTITLE: O Terceiro Império de Cyrodiil está no seu fim, e Tamriel está instável -->
-
-# História
-
-<div style="float: right; margin-right: 1%; background: #fbfbfc; border: 2px black solid;">
-	<figure>
-		<center><img src="/uploads/imagens/tamriel-quinta-era.png"
-			height="300"
-			alt="Tamriel">
-		<figcaption style="margin-left: 2%; margin-right: 2%;">Mapa político atual de Tamriel</figcaption></center>
-	</figure>
-</div>
+# Campanha: A Queda do Império
 
 Em 4E 201, a Rebelião Tempesmanto conseguiu atingir seu objetivo de retirar as forças Imperiais de Arcéu, e, depois de quase 700 anos sendo um Estado-cliente do Terceiro Império, puderam novamente sentir o gosto da independência, seguindo o exemplo de Martelfell, que, em 4E 175, assinou o Segundo Tratado de Stros M'kai para acabar com a invasão do Thalmor que já durava dez anos. Assim como Martelfell, Arcéu, sentindo-se traída pelo fato de o Imperador Titus Mede II ter assinado o Tratado Ouro-Branco, retirou-se do Império e declarou-se uma nação independente após ganhar a civil.
 

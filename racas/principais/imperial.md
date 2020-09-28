@@ -1,5 +1,4 @@
-<!-- TITLE: Imperial -->
-<!-- SUBTITLE: Os bem-ditos Imperiais de Cyrodiil -->
+# Imperial
 
 <div style="float: right; margin-right: 1%; background: #fbfbfc; border: 2px black solid;">
   <figure>

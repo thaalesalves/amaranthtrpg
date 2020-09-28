@@ -1,5 +1,4 @@
-<!-- TITLE: Altmer -->
-<!-- SUBTITLE: Os Altos Elfos das Ilhas do Semprestio -->
+# Altmer (Altos Elfos)
 
 <div style="float: right; margin-right: 1%; background: #fbfbfc; border: 2px black solid;">
 	<figure>

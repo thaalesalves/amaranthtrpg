@@ -1,5 +1,4 @@
-<!-- TITLE: Antecedentes -->
-<!-- SUBTITLE: Detalhes da vida passada do personagem -->
+# Antecedentes
 
 Esta página reúne os Antecedentes gerais que personagens podem ter, além da descrição de cada ponto.
 

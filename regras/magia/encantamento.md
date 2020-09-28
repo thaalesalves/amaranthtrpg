@@ -1,5 +1,4 @@
-<!-- TITLE: Encantamento -->
-<!-- SUBTITLE: A arte de atribuir propriedades mágicas a objetos -->
+# Encantamento
 
 Encantamento é o ato de dotar objetos com propriedades mágicas através do uso de almas, quase sempre com o uso de gemas d'alma. O poder de um item encantado diminui com o uso, e mais almas são necessárias para recarregá-los. A força de um item encantado é diretamente envolvida com a magnitude da alma usada.
 

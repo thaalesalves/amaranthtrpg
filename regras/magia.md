@@ -1,5 +1,4 @@
-<!-- TITLE: Magia -->
-<!-- SUBTITLE: As escolas da magia Arcana de Tamriel -->
+# Magia
 
 A Magia é dividida em áreas de estudo que tratam de tipos específicos de feitiço. Escolas e feitiços mudaram muito ao decorrer da história de Tamriel.
 

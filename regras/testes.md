@@ -1,5 +1,4 @@
-<!-- TITLE: Testes -->
-<!-- SUBTITLE: Testes e rolagens do Amaranth -->
+# Testes
 
 O Amaranth é baseado no Storyteller, o sistema criado pela White Wolf para jogos do Mundo das Trevas, e também é usado em Street Fighter. Para Elder Scrolls, temos outros sistemas, com um grande foco em combate, como o [UESRPG](https://www.reddit.com/r/UESRPG/), um sistema baseado em d100, e o [UESTRPG](https://uestrpg.wixsite.com/home), uma versão do D&D5e adaptada para Elder Scrolls. Ambos sistemas funcionam bem, mas muitos jogadores têm preferência pelo Storyteller, um sistema mais simples com foco em interpretação. Por isso, foi criado o Amaranth: uma versão do V20 (de _Vampiro: a Máscara_) adaptada para Elder Scrolls.
 

@@ -1,5 +1,4 @@
-<!-- TITLE: Armaduras -->
-<!-- SUBTITLE: Itens de proteção em combate -->
+# Armaduras
 
 Esta página reúne informações sobre armaduras. Elas têm um modificador e tipo de proteção básicos, e o esses valores aumentam de acordo com o material que elas foram feitas.
 

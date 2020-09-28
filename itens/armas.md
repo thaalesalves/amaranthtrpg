@@ -1,5 +1,4 @@
-<!-- TITLE: Armas -->
-<!-- SUBTITLE: Itens de ataque em combate -->
+# Armas
 
 Esta página reúne informações sobre armas. Elas têm um modificador e tipo de dano básicos, e o esses valores aumentam de acordo com o material que elas foram feitas. Encantamentos podem fazer os valores aumentarem ou diminuírem.
 

@@ -1,0 +1,12 @@
+* [Home](/)
+ * [Regras](/regras)
+ * [Raças](/racas)
+ * [Magia](/regras/magia)
+ * [Alquimia](/regras/alquimia)
+ * [Itens](/itens)
+ * [Campanhas](/campanhas)
+-----
+* [UESP](https://uesp.net)
+* [UESP em Português](https://pt.uesp.net)
+* [Imperial Library](https://imperial-library.info)
+* [Reddit](https://reddit.com/r/teslore)

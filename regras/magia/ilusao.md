@@ -1,5 +1,4 @@
-<!-- TITLE: Ilusão -->
-<!-- SUBTITLE: A arte de modificar o que as pessoas veem -->
+# Ilusão
 
 Ilusão é uma das seis escolas de magia. É similar a Alteração no que diz respeito a alterar o mundo ao redor do usuário, mas na Ilusão esses efeitos não se tornam reais. Apesar de as mudanças com a Alteração mudarem o que se vê, estas afetam o mundo em si, e Ilusão simplesmente altera o que se vê. A habilidade de alterar a vontade de um alvo é parte desta escola, apesar de no passado já ter sido considerada parte da arte da Conjuração.
 * Feitiços de visibilidade vêm em duas formas: invisibilidade e camaleão. O primeiro remove o usuário da vista mas se desfaz uma vez que o usuário se move. O último fornece um grau de transparência ao alvo determinado pelo usuário. Pode variar de pequenas porções de transparência, que ainda permitam que o alvo seja visto, até total invisibilidade, mas que não se desfaz com o movimento do alvo, tendo maiores requerimentos para se usar.

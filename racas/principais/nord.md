@@ -1,5 +1,4 @@
-<!-- TITLE: Nord -->
-<!-- SUBTITLE: Os filhos de Kyne de Arcéu -->
+# Nord
 
 <div style="float: right; margin-right: 1%; background: #fbfbfc; border: 2px black solid;">
 	<figure>

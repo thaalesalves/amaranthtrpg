@@ -1,5 +1,4 @@
-<!-- TITLE: Restauração -->
-<!-- SUBTITLE: A arte da cura mágica -->
+# Restaraução
 
 Resturação é uma das seis escolas de magia, focada em curar, restaurar e fortificar atributos do corpo e habilidades, curar doenças e se proteger de outras influências malignas. Apesar da incrível utilidade de feitiços de Restauração, o conhecimento deles parece ter sido tomado recentemente: até a Segunda Era, mesmo feitiços de cura de doenças eram raros. Por conta da natureza benevolente desta escola, ela é especialmente popular entre religiosos.
 

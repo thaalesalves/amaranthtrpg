@@ -1,5 +1,4 @@
-<!-- TITLE: Atributos -->
-<!-- SUBTITLE: Atributos físicos, sociais e mentais do personagem -->
+# Atributos
 
 Os atributos são as características de personalidade do personagem. São divididos em três categorias: Físicos, Sociais e Mentais.
 

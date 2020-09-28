@@ -1,6 +1,3 @@
-<!-- TITLE: Raças -->
-<!-- SUBTITLE: Raças jogáveis com o Amaranth -->
-
 # Raças
 Tamriel possui uma miríade de raças sencientes. Variam de humanos a elfos a criaturas bestiais e gigantescas. Algumas raças conhecidas são, na verdade, conjuntos de sub-raças. Os Khajiit, por exemplo, possuem 16 variações dependendo da fase da lua, e os Imperiais são separados em outras duas sub-raças. 
 

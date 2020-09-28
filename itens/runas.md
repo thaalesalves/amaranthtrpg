@@ -1,5 +1,4 @@
-<!-- TITLE: Runas -->
-<!-- SUBTITLE: Pedras mágicas para criação de encantamentos -->
+# Runas
 
 Runas são pedras com propriedades mágicas que podem ser compradas ou encontradas por Tamriel. São divididas em três categorias: Potência, Essência e Aspecto. É necessária uma runa de cada tipo para criar um glifo, que conterá o encantamento desejado e poderá ser usado em itens como armas, armadura, roupas ou joias. 
 

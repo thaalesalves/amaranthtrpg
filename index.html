@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>Amaranth</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -16,38 +16,21 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      search: 'auto', // default
-  
-      search : [
-        '/',
-      ],
-  
-      // complete configuration parameters
+      loadSidebar: true,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md',
+      },
       search: {
         maxAge: 86400000, // Expiration time, the default one day
-        paths: [], // or 'auto'
         placeholder: 'Pesquisar',
-  
-        // Localization
-        placeholder: {
-          '/': 'Pesquisar'
-        },
-  
         noData: 'Nada encontrado!',
-  
-        // Localization
-        noData: {
-          '/': 'Nada encontrado!'
-        },
-  
-        // Headline depth, 1 - 6
-        depth: 2,
-  
-        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+        depth: 10,
+        hideOtherSidebarContent: false,
       }
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 </html>

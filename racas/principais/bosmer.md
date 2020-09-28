@@ -1,5 +1,4 @@
-<!-- TITLE: Bosmer -->
-<!-- SUBTITLE: Os Elfos da Floresta de Valen -->
+# Bosmer (Elfo da Floresta)
 
 <div style="float: right; margin-right: 1%; background: #fbfbfc; border: 2px black solid;">
 	<figure>

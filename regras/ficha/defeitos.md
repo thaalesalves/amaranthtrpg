@@ -1,5 +1,4 @@
-<!-- TITLE: Defeitos -->
-<!-- SUBTITLE: Traços negativos de personalidade do personagem -->
+# Defeitos
 
 Defeitos são características do personagem que têm um lado negativo, mas que dão mais pontos freebie para serem usados na ficha. Os defeitos variam de cegueira até um destino sombrio.
 

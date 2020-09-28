@@ -1,16 +1,14 @@
----
-title: Fusão Planar
-description: O plano de Molag Bal para mesclar o Ancoradouro Frio com Nirn
-published: true
-date: 2020-01-12T16:58:55.773Z
-tags: 
----
+# Campanha: Fusão Planar
 
 A Fusão Planar começou em 2E 582. Portais e Âncoras Negras apareceram por Tamriel, prendendo-se ao chão e vagarosamente puxando partes de Nirn para mais perto dos portais, fazendo-as flutuar. Os portais eram todos metafisicamente ligados a uma construção colossal no Ancoradouro Frio, chamado de a Grande Algema. Dentro do Ancoradouro Frio, ouvia-se falar do Arquiteto Louco, o suposto engenheiro por trás da construção da Escada sem Fim, um forte construído para ser o centro da Fusão Planar. Diz-se que essas estruturas são movidas a partir do consumo das energias vitais de mortais abduzidos para o plano de Molag Bal.
 
 Partes de Tamriel que atingiam os portais se tornavam pequenos reinos próprios, como parte do Ancoradouro Frio, antes de se juntarem ao Vórtice Planar, onde Tamriel e o Ancoradouro Frio convergiam. Apesar de frágil, o Vórtice pode ser acessado somente da Escada sem Fim. A maior das Âncoras se abriu no céu da Cidade Imperial, puxando a Torre Ouro-Branco para dentro do Ancoradouro Frio.
 
 Com Cyrodiil em ruínas e dividida pela Guerra das Alianças, poucos sobraram para lutar contra o Daedra que invadiam. Meridia e sua servente, Vê-Todas-As-Cores, assassinaram o líder da Guilda dos Lutadores para assumir o posto de grão-mestre. Sob comando Daédrico e financiado pela riqueza dos seguidores de Meridia, a Guilda começou a recusar contratos e focou seus esforços na destruição das Âncoras Negras e na oposição a Molag Bal. 
+
+Com a queda da Dinastia Reman no fim da Primeira Era, as Brasas do Dragão se apagaram, sem um Imperador para acendá-las. Com a falta de um líder, três facções rivais - o Primeiro Domínio Aldmeri, a Conveção de Qued'Adaga e o Pacto Coração-Ébano usam a oportunidade para expandir seu território às custas dos rivais e dos residentes da Província Imperial de Cyrodiil. A família Tharn, do infame Jagar Tharn, forja uma aliança com o necromante Mannimarco para que ele ajude o Exército Imperial com a reanimação dos soldados mortos e com a transformação do então Imperador Varen Aquilarios em um Draconato, para acendar as Brasas do Dragão e trazer paz a Tamriel novamente. Mas Mannimarco trai seus aliados Imperiais e ajuda o Príncipe Daédrico Molag Bal a invadir Tamriel e incorporá-la a seu plano. 
+
+O resultado da traição de Mannimarco foi um evento histórico que ficou conhecido como a Ruptura das Almas, que ocasionou na morte de milhares de pessoas, além da tomada de suas almas para energizar as máquinas necessárias para concluir a Fusão Planar, que uniria os planos de Mundus e Ancoradouro Frio. Com a concusão do ritual, desastres ocorreram pelos quatro cantos de Nirn. Magos morreram ou ficaram loucos, a Montanha Vermelha entrou em erupção em Brisavinda, terremotos tremeram Arcéu, e tempestades gigantescas devastaram as costas de Elsweyr e da Floresta de Valen. A Constelação da Serpente cresceu tanto que ameaçou todas as outras contelações dos Signos. 
 
 # Campanhas
 ## Guilda dos Lutadores

@@ -1,5 +1,4 @@
-<!-- TITLE: Alteração -->
-<!-- SUBTITLE: A arte de alterar o mundo físico -->
+# Alteração
 
 Alteração é uma das seis escolas de magia. Feitiços desta escola mudam o mundo ao redor do usuário, e verdades físicas passam a ser inválidas. É por vezes confundida com magia de Ilusão, já que ambas escolas procuram mudar verdades normais. A magia de Ilusão, entretanto, não é sujeito a às leis da natureza como a Alteração é. O poder da Alteração vem do fato de que a natureza das coisas é alterada, e passa a se aplicar na realidade, e a Ilusão afeta apenas o usuário e o alvo.
 

@@ -1,5 +1,4 @@
-<!-- TITLE: Qualidades -->
-<!-- SUBTITLE: Traços positivos de personalidade do personagem -->
+# Qualidades
 ​
 Qualidades são características do personagem que têm pontos positivos, e que custam pontos freebie para serem usados na ficha. As qualidades variam de habilidades até um destino de luz.
 ​

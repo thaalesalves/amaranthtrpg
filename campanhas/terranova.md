@@ -1,5 +1,4 @@
-<!-- TITLE: Terra Nova -->
-<!-- SUBTITLE: Viagens trans-kálpicas e trans-amarânticas -->
+# Campanha: Terra Nova
 
 **Aviso:** esse headcanon usa bastante metalore, que é um pouco... viajada. As referências terão links para artigos relacionados, e é uma leitura extensa, mas interessante. 
 

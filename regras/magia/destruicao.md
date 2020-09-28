@@ -1,5 +1,4 @@
-<!-- TITLE: Destruição -->
-<!-- SUBTITLE: A arte do combate mágico -->
+# Destruição
 
 A Escola de Destruição é uma das seis escolas da magia. Diz respeito a ataques de dano a todo tipo de matéria, tanto viva quanto inorgânica. Maestria da magia da Destruição traz certa quantidade de perigo. A escola da Destruição é dividida em cinco tipo básicos: dano elemental, dano de drenagem, vulnerabilidade e desintegração.
 

@@ -1,5 +1,4 @@
-<!-- TITLE: Dunmer -->
-<!-- SUBTITLE: Os Elfos Negros de Brisavinda -->
+# Dunmer (Elfos Negros)
 
 <div style="float: right; margin-right: 1%; background: #fbfbfc; border: 2px black solid;">
 	<figure>

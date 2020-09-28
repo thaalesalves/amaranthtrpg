@@ -1,5 +1,4 @@
-<!-- TITLE: Ficha -->
-<!-- SUBTITLE: A ficha do Amaranth -->
+# Ficha
 
 É baseada, assim como as regras gerais, na edição de vigésimo aniversário do *Mundo das Trevas*, com o *Storyteller*, da *White Wolf*, com algumas alterações. Puxa elementos de vários subsistemas do Storyteller, como o V20, W20 e o M20 (as edições de vigésimo aniversário de *World of Darkness*). Os atributos e habilidades estão sendo revistos um a um para se adequarem ao universo Elder Scrolls, e, ao invés de a base de pontos para atributos e habilidades ser de 5, foram adaptadas para 10. Ou seja, os personagens têm um range maior de habilidades, com cada ponto significando menos do que significava antes.
 

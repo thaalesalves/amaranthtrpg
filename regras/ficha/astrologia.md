@@ -1,5 +1,4 @@
-<!-- TITLE: Astrologia -->
-<!-- SUBTITLE: Constelações do Aurbis -->
+# Astrologia
 
 Existem treze constelações no Aurbis, que regem determinadas áreas da realidade. São três guardiões: o Guerreiro, o Mago e o Ladrão, que protegem três segmentos diferentes. São doze signos fixos, que representam os doze meses do calendário Tamriélico. O décimo-terceiro signo, a Serpente, não tem guardião ou mês específico, e vaga pelo céu, ameaçando os outros signos. Na Segunda Era média, essa interação causou a queda dos três guardiões em Nirn, que agiram como Celestiais, suas formas mortais. 
 

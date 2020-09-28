@@ -1,5 +1,4 @@
-<!-- TITLE: Orsimer -->
-<!-- SUBTITLE: Os Orcs, antigo povo da pária, agora de Orsinium -->
+# Orsimer (Orc)
 
 <div style="float: right; margin-right: 1%; background: #fbfbfc; border: 2px black solid;">
 	<figure>

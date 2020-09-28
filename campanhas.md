@@ -1,10 +1,4 @@
----
-title: Campanhas
-description: Campanhas e settings pré-prontos para aventuras
-published: true
-date: 2020-01-12T16:29:03.541Z
-tags: 
----
+# Campanhas
 
 ## Campanhas baseadas nos jogos
 * **[Guerra das Alianças](/campanhas/guerra_aliancas):** 2E 582: contemporâneo a *The Elder Scrolls Online*. A guerra entre as Alianças de Tamriel para tomar o Trono de Rubi.
