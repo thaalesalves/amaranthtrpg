@@ -36,6 +36,6 @@ Como mencionado, é necessário um solvente para produzir poções, e a qualidad
 #### Óleos
 * **Noviço:** Gordura (Veneno I)
 * **Adepto:** Pus (Veneno II)
-* **Expert:** Terebintino (Veneno III)
+* **Expert:** Bile (Veneno III)
 * **Mestre:** Alcatrão (Veneno IV)
 * **Grão-mestre:** Alkahest (Veneno V)
