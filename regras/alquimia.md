@@ -34,8 +34,8 @@ Como mencionado, é necessário um solvente para produzir poções, e a qualidad
 * **Grão-mestre:** Lágrimas de Lorkhan (Essência de XXXX)
 
 #### Óleos
-* **Noviço:** Gordura (Veneno I)
-* **Adepto:** Pus (Veneno II)
-* **Expert:** Bile (Veneno III)
-* **Mestre:** Alcatrão (Veneno IV)
-* **Grão-mestre:** Alkahest (Veneno V)
+* **Noviço:** Gordura (Trago de Veneno de XXXX)
+* **Adepto:** Pus (Extrato de Veneno de XXXX)
+* **Expert:** Bile (Veneno Fraco de XXXX)
+* **Mestre:** Alcatrão (Veneno Potente de XXXX)
+* **Grão-mestre:** Alkahest (Veneno Virulento de XXXX)
