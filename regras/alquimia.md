@@ -18,10 +18,10 @@ O Amaranth usa a lista de ingredientes padrão dos jogos da série, e usando a m
 - **[Venenos do ESO](https://en.uesp.net/wiki/Online:Poisons):** infusões alquímicas com efeitos negativos contidas no The Elder Scrolls Online
 
 ### Ingredientes
-- **[Ingredientes do TESIII: Morrowind](https://en.uesp.net/wiki/Morrowind:Alchemy_Effects):**
-- **[Ingredientes do TESIV: Oblivion](https://en.uesp.net/wiki/Oblivion:Ingredients):**
-- **[Ingredientes do TESV: Skyrim](https://en.uesp.net/wiki/Skyrim:Ingredients):**
-- **[Ingredientes do ESO](https://en.uesp.net/wiki/Online:Alchemy_Ingredients):**
+- **[Ingredientes do TESIII: Morrowind](https://en.uesp.net/wiki/Morrowind:Alchemy_Effects):** lista de ingredients do The Elder Scrolls III: Morrowind
+- **[Ingredientes do TESIV: Oblivion](https://en.uesp.net/wiki/Oblivion:Ingredients):** lista de ingredients do The Elder Scrolls IV: Oblivion
+- **[Ingredientes do TESV: Skyrim](https://en.uesp.net/wiki/Skyrim:Ingredients):** lista de ingredients do The Elder Scrolls V: Skyrim
+- **[Ingredientes do ESO](https://en.uesp.net/wiki/Online:Alchemy_Ingredients):** lista de ingredients do The Elder Scrolls Online
 
 ### Solventes
 Como mencionado, é necessário um solvente para produzir poções, e a qualidade do solvente usado influencia no resultado final. A lista de solventes do Amaranth é baseada na do Elder Scrolls online (vide lista de ingredientes do ESO no link acima), mas adaptada para os níveis que o Amaranth fornece. Para fazer uma poção, usa-se água como solvente. Para fazer um veneno, usa-se óleo. A possibilidade de uso de cada solvente também é baseada no nível de alquimia do personagem.
