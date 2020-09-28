@@ -9,7 +9,7 @@ Os moldes de alquimia para o Amaranth foram baseados diretamente nas mecânicas 
 ## Poções, venenos e ingredients
 O Amaranth usa a lista de ingredientes padrão dos jogos da série, e usando a mecânica acima, os jogadores podem juntar ingredientes e criar infusões. A lista de poções dos jogos também pode ser aproveitada, mas fica a carga do narrador decidir como e qual poção será gerada a partir dos ingredientes que o jogador usar.
 
-### Infusões:
+### Infusões
 - **[Poções do TESIII: Morrowind](https://en.uesp.net/wiki/Morrowind:Potions):** infusões alquímicas com efeitos positivos contidas no The Elder Scrolls III: Morrowind
 - **[Venenos do TESIII: Morrowind](https://en.uesp.net/wiki/Morrowind:Poison):** infusões alquímicas com efeitos negativos contidas no The Elder Scrolls III: Morrowind
 - **[Poções & Venenos do TESIV: Oblivion](https://en.uesp.net/wiki/Oblivion:Potions):** infusões alquímicas contidas no The Elder Scrolls IV: Oblivion
@@ -17,7 +17,7 @@ O Amaranth usa a lista de ingredientes padrão dos jogos da série, e usando a m
 - **[Poções do ESO](https://en.uesp.net/wiki/Online:Potions):** infusões alquímicas com efeitos positivos contidas no The Elder Scrolls Online
 - **[Venenos do ESO](https://en.uesp.net/wiki/Online:Poisons):** infusões alquímicas com efeitos negativos contidas no The Elder Scrolls Online
 
-### Ingredientes:
+### Ingredientes
 - **[Ingredientes do TESIII: Morrowind](https://en.uesp.net/wiki/Morrowind:Alchemy_Effects):**
 - **[Ingredientes do TESIV: Oblivion](https://en.uesp.net/wiki/Oblivion:Ingredients):**
 - **[Ingredientes do TESV: Skyrim](https://en.uesp.net/wiki/Skyrim:Ingredients):**
@@ -26,14 +26,14 @@ O Amaranth usa a lista de ingredientes padrão dos jogos da série, e usando a m
 ### Solventes
 Como mencionado, é necessário um solvente para produzir poções, e a qualidade do solvente usado influencia no resultado final. A lista de solventes do Amaranth é baseada na do Elder Scrolls online (vide lista de ingredientes do ESO no link acima), mas adaptada para os níveis que o Amaranth fornece. Para fazer uma poção, usa-se água como solvente. Para fazer um veneno, usa-se óleo. A possibilidade de uso de cada solvente também é baseada no nível de alquimia do personagem.
 
-Águas:
+#### Águas
 * **Noviço:** Água natural (Trago de XXXX)
 * **Adepto:** Água limpa (Extrato de XXXX)
 * **Expert:** Água filtrada (Solução de XXXX)
 * **Mestre:** Água purificada (Elixir de XXXX)
 * **Grão-mestre:** Lágrimas de Lorkhan (Essência de XXXX)
 
-Óleos:
+#### Óleos
 * **Noviço:** Gordura (Veneno I)
 * **Adepto:** Pus (Veneno II)
 * **Expert:** Terebintino (Veneno III)
