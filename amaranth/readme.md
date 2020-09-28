@@ -4,9 +4,9 @@ O Amaranth é o Sonhador, o regente do Universo atual onde toda a realidade est�
 Este sistema está sendo desenvolvido por **[Thales Alves](https://pt.uesp.net/wiki/User:Thaalesalves)** e Leonardo Spinola, usando a tradução não-oficial da **[UESP](https://pt.uesp.net/wiki/UESPWiki:Glossário)**. Caso tenha sugestões ou queira ajudar no desenvolvimento dele, entre em contato com a gente! 
 
 # Categorias
-* **[Regras](/regras/):** regras gerais do sistema.
-* **[Raças](/racas/):** raças jogáveis de Tamriel.
-* **[Magia](/regras/magia/):** mecânicas e escolas de magia.
-* **[Alquimia](/regras/alquimia/):** poções e fórmulas alquímicas.
-* **[Itens](/itens/):** itens e equipamentos que podem ser adquiridos.
-* **[Campanhas](/campanhas/):** algumas campanhas prontas para jogar no universo.
+* **[Regras](/regras):** regras gerais do sistema.
+* **[Raças](/racas):** raças jogáveis de Tamriel.
+* **[Magia](/regras/magia):** mecânicas e escolas de magia.
+* **[Alquimia](/regras/alquimia):** poções e fórmulas alquímicas.
+* **[Itens](/itens):** itens e equipamentos que podem ser adquiridos.
+* **[Campanhas](/campanhas):** algumas campanhas prontas para jogar no universo.
