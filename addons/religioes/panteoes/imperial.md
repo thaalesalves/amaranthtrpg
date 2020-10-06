@@ -67,7 +67,7 @@ Do not hoard wealth or indulge physically
 
 ### Zenithar
 **[Zenithar](https://en.uesp.net/wiki/Lore:Zenithar)**, o Deus do Trabalho e do Comércio, Provedor da Tranquilidade, é frequentemente visto como Z'en, do **[panteão Bosmeri](/addons/religioes/panteoes/Bosmeri**. No Império, entretanto, é mais cultuado entre mercadores e nobres, sendo a deidade da riqueza, do trabalho, comércio e comunicação. Seus seguidores dizem que, apesar de suas origens mistoreiosas, Zenither é o deus que "vai sempre vencer". Seus sacerdotes pregam o caminho da paz e da prosperidade através do trabalho honesto, e não através da guerra, da carnificina ou do roubo. 
-* **Principal templo:** A Grande Capela de Zenithar (**[Leyawiin](https://en.uesp.net/wiki/Lore:Leyawiin)**, Cyrodiil)
+* **Principal templo:** Grande Capela de Zenithar (**[Leyawiin](https://en.uesp.net/wiki/Lore:Leyawiin)**, Cyrodiil)
 
 #### Bençãos
 * **Básica:** Bônus em Carisma. Economia? 
