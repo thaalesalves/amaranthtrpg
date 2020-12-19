@@ -1,0 +1,8 @@
+* [Home](/)
+* [Regras](/regras)
+* [Raças](/racas)
+* [Magia](/regras/magia)
+* [Alquimia](/regras/alquimia)
+* [Itens](/itens)
+* [Add-ons](/addons)
+* [Campanhas](/campanhas)
