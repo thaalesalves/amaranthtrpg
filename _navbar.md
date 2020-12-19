@@ -57,8 +57,8 @@
         * [Guilda dos Mercenários](/addons/guildas/guilda_mercenarios)
         * [Guilda dos Cenaristas](/addons/guildas/guilda_cenaristas)
 * [Campanhas](/campanhas)
------
-* [UESP](https://uesp.net)
-* [UESP em Português](https://pt.uesp.net)
-* [Imperial Library](https://imperial-library.info)
-* [Reddit](https://reddit.com/r/teslore)
+* Links Importantes
+    * [UESP](https://uesp.net)
+    * [UESP em Português](https://pt.uesp.net)
+    * [Imperial Library](https://imperial-library.info)
+    * [Reddit](https://reddit.com/r/teslore)
