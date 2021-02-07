@@ -30,6 +30,11 @@ A rolagem para determinar o golpe é feita simplesmente pela soma de pontos do A
 * Primeira rolagem: 2, 8, 10, 5, 8. Foram quatro sucessos. Ele acertou.
 * Segunda rolagem: 6, 5, 10, 2, 7, 9, 4, 6. Foram rolados os 5 dados das habilidades do personagem + 3 sucessos da rolagem anterior (já que um dos sucessos tem que ser subtraído). Foram quatro sucessos. Para determinar o dano, é necessário rolar a reação do oponente.
 
+## Ataques furtivos
+O atacante tem a iniciativa ganha. É feito um teste de Agilidade + Furtividade para medir o quão bem tudo correu, e contar a quantidade de sucessos. No caso de sucesso, o atacante rola o teste padrão de ataque (Perícia + Arma + sucessos - 1) com uma dificuldade de -2 (ou seja, se a dificuldade padrão é 6, este teste terá 4 como dificuldade). Rola-se, então, o modificador de armadura do oponente, sem o atributo relacionado, com dificuldade de +2. 
+
+No caso de falha, o atacante perde a ação e o oponente ganha o contra-ataque. Rola-se a mesma coisa, com -2 de dificuldade para o ataque e +2 para armadura.
+
 ## Iniciativa
 A iniciativa é determinada a partir da rolagem dos dados de Força de Vontade + Agilidade, e a pessoa com menores valores na rolagem declara primeiro o que vai fazer, e a com maiores valores declara por último. A hora da ação é invertida: após cada um declarar o que vai fazer, o que teve a melhor rolagem age primeiro, e o com menor número é o último a agir. No caso de mais de uma pessoa tirar os mesmos números, a pessoa com modificador de iniciativa mais alto vai primeiro.
 
@@ -46,11 +51,6 @@ A iniciativa é determinada a partir da rolagem dos dados de Força de Vontade +
 
 ## Conhecimento
 O seu personagem pode ter conhecimentos específicos da lore, e alguns personagens, como Sotha Sil, Vivec, Jubal lun-Sul, Divayth Fyr e Lorkhan, são capazes de quebrar a quarta parede, pois tem um alto conhecimento sobre o Universo, o Aurbis, o Sonho, Amaranth e Godhead em si. O nível de conhecimento do universo vai ser medido a partir de um teste de Inteligência + Lore, dependendo da dificuldade imposta pelo Narrador.
-
-## Ataques furtivos
-O atacante tem a iniciativa ganha. É feito um teste de Agilidade + Furtividade para medir o quão bem tudo correu, e contar a quantidade de sucessos. No caso de sucesso, o atacante rola o teste padrão de ataque (Perícia + Arma + sucessos - 1) com uma dificuldade de -2 (ou seja, se a dificuldade padrão é 6, este teste terá 4 como dificuldade). Rola-se, então, o modificador de armadura do oponente, sem o atributo relacionado, com dificuldade de +2. 
-
-No caso de falha, o atacante perde a ação e o oponente ganha o contra-ataque. Rola-se a mesma coisa, com -2 de dificuldade para o ataque e +2 para armadura.
 
 ## Alquimia
 Os moldes de alquimia para o Amaranth foram baseados diretamente nas mecânicas do *Elder Scrolls Online* e *Elder Scrolls V: Skyrim*, onde o jogador precisa de pelo menos dois ingredientes para fazer a infusão. A pureza da água ou do óleo determinam também a qualidade da poção ou veneno, respectivamente. Receitas são necessárias para fazer as infusões, pois é preciso saber os efeitos de cada ingrediente. O personagem pode arriscar misturar tudo para ver no que dá ou usar as receitas que ele adquire. Caso não tenha a receita, a dificuldade da rolagem é de +2, e caso não tenha, fica a dificuldade padrão. Caso a infusão tenha quatro ingredientes e não tenha a receita, a dificuldade é de +4. É usado o seu modificador de Inteligência + Alquimia, e depois Água/Óleo + Ingredientes. O primeiro teste serve para ver o quão bem o personagem de saiu na ação, e o segundo para ver se a ação de fato se concretizou.
