@@ -2,7 +2,7 @@
 
 É baseada, assim como as regras gerais, na edição de vigésimo aniversário do *Mundo das Trevas*, com o *Storyteller*, da *White Wolf*, com algumas alterações. Puxa elementos de vários subsistemas do Storyteller, como o V20, W20 e o M20 (as edições de vigésimo aniversário de *World of Darkness*). Os atributos e habilidades estão sendo revistos um a um para se adequarem ao universo Elder Scrolls, e, ao invés de a base de pontos para atributos e habilidades ser de 5, foram adaptadas para 10. Ou seja, os personagens têm um range maior de habilidades, com cada ponto significando menos do que significava antes.
 
-O Storyteller tem uma distribuição de pontos característica, que deve ser seguida. Cada signo e personalidade têm suas particularidades e, portanto, alguns pontos a mais ou a menos, mas existe uma base fixa padrão. Baixe a ficha [aqui](/uploads/arquivos/amaranth-pt.pdf).
+O Storyteller tem uma distribuição de pontos característica, que deve ser seguida. Cada signo e personalidade têm suas particularidades e, portanto, alguns pontos a mais ou a menos, mas existe uma base fixa padrão. Baixe a ficha [aqui](https://amaranth.thalesalv.es/uploads/arquivos/amaranth-pt.pdf).
 
 Para mais detalhes, veja os artigos principais
 - **[Defeitos](/regras/ficha/defeitos):** traços físicos ou de personalidade que o dão mais freebies.
