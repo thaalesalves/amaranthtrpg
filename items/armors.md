@@ -1,42 +1,42 @@
-# Armaduras
+# Armors
 
-Esta página reúne informações sobre armaduras. Elas têm um modificador e tipo de proteção básicos, e o esses valores aumentam de acordo com o material que elas foram feitas.
+This page has information about armors. They have a modifier and a base protection, and these values are increased according to the material used to craft them.
 
-# Materiais
+# Materials
 ## Metais
-|Material|Modificador|Nível|Valor
+|Material|Modifier|Level|Value
 |---|---|---|---|
-|Ferro|+0|Noviço|+50g|
-|Aço|+1|Adepto|+100g|
-|Ébano|+2|Expert|+300g|
-|Galatita|+3|Mestre|+750g|
-|Rubedita|+4|Grão-mestre|+3500g|
+|Iron|+0|Novice|+50g|
+|Steel|+1|Adept|+100g|
+|Ebony|+2|Expert|+300g|
+|Galatite|+3|Master|+750g|
+|Rubedite|+4|Grandmaster|+3500g|
 
 ## Couros
-|Material|Modificador|Nível|Preço
+|Material|Modifier|Level|Value
 |---|---|---|---|
-|Boi|+0|Noviço|+50g|
-|Kagouti|+1|Adepto|+100g|
-|Salamandra|+2|Expert|+300g|
-|Wamasu|+3|Mestre|+750g|
-|Rubedo|+4|Grão-mestre|+3500g|
+|Cowhide|+0|Novice|+50g|
+|Kagouti hide|+1|Adept|+100g|
+|Salamandra hide|+2|Expert|+300g|
+|Wamasu hide|+3|Master|+750g|
+|Rubedo leather|+4|Grandmaster|+3500g|
 
-# Itens
-## Armadura leve
-* **Túnicas de couro:** +1 dado de defesa.
-* **Armadura de couro:** +2 dados de defesa.
-* **Capuz de couro:** +1 dado de defesa.
+# Items
+## Light armor
+* **Leather tunic:** +1 die for defense.
+* **Leather armor:** +2 dice for defense.
+* **Leather hood:** +1 die for defense.
 
-## Armadura média
-Se usa o modificador de armadura leve para calcular a média. O Narrador pode optar por criar este talento separadamente.
-* **Armadura ornamentada com metal:** +3 dados de defesa.
-* **Cota de malha de metal:** +4 dados de defesa.
-* **Cota de malha de metal ornamentada com couro:** +5 dados de defesa.
-* **Capacete de couro com face aberta:** +1 dado de defesa.
-* **Capacete de couro com face fechada:** +2 dados de defesa.
+## Medium armor
+Uses light armor's modifier to calculate the medium. The Narrator can choose to use this talent separately.
+* **Metal ornate armor:** +3 dice for defense.
+* **Metal chain mail:** +4 dice for defense.
+* **Leather ornate metal chain mail:** +5 dice for defense.
+* **Open leather helmet:** +1 die for defense.
+* **Closed leather helmet:** +2 dice for defense.
 
-## Armadura pesada
-* **Cota de placa de metal:** +6 dados de defesa (+1 Resistência enquanto estiver vestida).
-* **Cota de placa segmentada de metal:** +6 dados de defesa (+1 Agilidade enquanto estiver vestida).
-* **Elmo de metal com face aberta:** +3 dados de defesa.
-* **Elmo de metal com face fechada:** +4 dados de defesa.
+## Heavy armor
+* **Metal plate armor:** +6 dice for defense (+1 Endurance while equipped).
+* **Segmentated metal plate armor:** +6 dice for defense (+1 Agility while equipped).
+* **Open metal helmet:** +3 dice for defense.
+* **Closed metal helmet:** +4 dice for defense.

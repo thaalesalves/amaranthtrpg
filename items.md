@@ -1,6 +1,6 @@
 # Items
 
-- **[Armor](/items/armor):** combat armors
+- **[Armor](/items/armors):** combat armors
 - **[Weapons](/items/weapons):** combat weapons
 - **[Excotic Items](/items/exotic):** unique and exotic items
 - **[Clothing](/items/clothing):** general lighting clothing with no armor stats

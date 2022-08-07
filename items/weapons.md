@@ -1,38 +1,40 @@
-# Armas
+# Weapons
 
-Esta página reúne informações sobre armas. Elas têm um modificador e tipo de dano básicos, e o esses valores aumentam de acordo com o material que elas foram feitas. Encantamentos podem fazer os valores aumentarem ou diminuírem.
+This page has information on weapons. They have a modifier and base damage, and these values are increased according to the material used to craft the items.
 
 # Materiais
 ## Metais
-|Material|Modificador|Nível|Valor
+|Material|Modifier|Level|Value
 |---|---|---|---|
-|Ferro|+0|Noviço|+50g|
-|Aço|+1|Adepto|+100g|
-|Ébano|+2|Expert|+300g|
-|Galatita|+3|Mestre|+750g|
-|Rubedita|+4|Grão-mestre|+3500g|
+|Iron|+0|Novice|+50g|
+|Steel|+1|Adept|+100g|
+|Ebony|+2|Expert|+300g|
+|Galatite|+3|Master|+750g|
+|Rubedite|+4|Grandmaster|+3500g|
 
 ## Madeiras
-|Material|Modificador|Nível|Valor
+|Material|Modifier|Level|Value
 |---|---|---|---|
-|Bordo|+0|Noviço|+50g|
-|Carvalho|+1|Adepto|+100g|
-|Faia|+2|Expert|+300g|
-|Mogno|+3|Mestre|+750g|
-|Freixo|+4|Grão-mestre|+3500g|
+|Maple|+0|Novice|+50g|
+|Oak|+1|Adept|+100g|
+|Beech|+2|Expert|+300g|
+|Mahogany|+3|Master|+750g|
+|Ash|+4|Grandmaster|+3500g|
 
-# Itens
-## Uma-mão
-* **Adagas:** 1 dado de dano.
-* **Espadas:** 2 dados de dano.
-* **Machados:** 2 dados de dano.
-* **Lanças:** 3 dados de dano.
-## Duas-mãos
-* **Espadas:** 3 dados de dano.
-* **Machados:** 3 dados de dano.
-* **Martelos:** 4 dados de dano.
-## Pontaria
-* **Arcos:** 4 dados de dano.
-* **Arcos longos:** 6 dados de dano (no mínimo Expert na Perícia de Arco).
-* **Balestras:** 5 dados de dano.
-* **Garruchas:** 6 dados de dano (no mínimo Expert na Perícia de Balestra - ou Perícia específica caso seja decisão do Narrador).
+# Items
+## One-handed
+* **Daggers:** 1 die for damage.
+* **Swords:** 2 dice for damage.
+* **Axes:** 2 dice for damage.
+* **Spears:** 3 dice for damage.
+
+## Two-handed
+* **Swords:** 3 dice for damage.
+* **Axes:** 3 dice for damage.
+* **Hammers:** 4 dice for damage.
+
+## Marksmanship
+* **Bows:** 4 dice for damage.
+* **Longbows:** 6 dice for damage (requires at least Expert in the Archery Skill).
+* **Crossbows:** 5 dice for damage.
+* **Flintlocks:** 6 dice for damage (requires at least Expert in the Crossbow - or similar Skill, if the Narrator requires).
