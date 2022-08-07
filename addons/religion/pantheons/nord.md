@@ -1,4 +1,4 @@
-# Panteão Nórdico
+# Nord Pantheon
 O Panteão Nórdico é o grupo de deuses cultuado originalmente pelos **[Nords](https://pt.uesp.net/wiki/Lore:Nord)** antes da normalização do culto Imperial. Foi cultuado pelos antigos Nords de Atmora, e também pelos antigos Nedes, e teve forte influência na criação do **[Panteão Imperial](/addons/religioes/panteoes/imperial)** pela Santa Alessia, misturando conceitos dos deuses Aldmeri com os deuses Nórdicos para criar o Panteão dos Oito. Tem perdido fieis nos últimos milênios, apesar de ainda ter forte influência na cultura e na história Nórdica e ter fieis espalhados por Arcéu até os dias modernos.
 
 ### Alduin

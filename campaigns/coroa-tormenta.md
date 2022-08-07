@@ -1,1 +1,0 @@
-# Campanha: Coroa-Tormenta

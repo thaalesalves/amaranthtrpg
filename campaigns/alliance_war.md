@@ -1,4 +1,4 @@
-# Campanha: A Guerra das Alianças
+# The Alliance War
 
 Em 2E 430, o Segundo Império sofreu um golpe fatal e começou a ruir. Desde então, as nova províncias de Tamriel têm se isolado de interferências externas. Isso mudou em 2E 579, quando uma explosão arcana gigantesca ocorreu na Cidade Imperial, mandando ondas de energia por toda Nirn. O Imperador Varen Aquilarios de Cyrodiil pereceu, deixando sua esposa Clivia Tharn e seu sogro Abnur Tharn, Chanceler do Conselho Ancião, como líderes de Cyrodiil. O crescen número de Daedra começou a ser visto por toda Tamriel, e a constelação da Serpente cresceu até dominar o céu noturno.
 

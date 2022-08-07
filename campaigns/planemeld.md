@@ -1,4 +1,4 @@
-# Campanha: Fusão Planar
+# The Planemeld
 
 A Fusão Planar começou em 2E 582. Portais e Âncoras Negras apareceram por Tamriel, prendendo-se ao chão e vagarosamente puxando partes de Nirn para mais perto dos portais, fazendo-as flutuar. Os portais eram todos metafisicamente ligados a uma construção colossal no Ancoradouro Frio, chamado de a Grande Algema. Dentro do Ancoradouro Frio, ouvia-se falar do Arquiteto Louco, o suposto engenheiro por trás da construção da Escada sem Fim, um forte construído para ser o centro da Fusão Planar. Diz-se que essas estruturas são movidas a partir do consumo das energias vitais de mortais abduzidos para o plano de Molag Bal.
 

@@ -1,4 +1,4 @@
-# Campanha: Terra Nova
+# Terra Nova
 
 **Aviso:** esse headcanon usa bastante metalore, que é um pouco... viajada. As referências terão links para artigos relacionados, e é uma leitura extensa, mas interessante. 
 

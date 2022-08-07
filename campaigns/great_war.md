@@ -1,4 +1,4 @@
-# Campanha: A Grande Guerra
+# The Great War
 
 Conhecida pelos habitantes de Semprestio como a Primeira Guerra Contra o Império, teve início em 4E 171. Após a Crise de Oblivion, em 3E 433, o Império ficou sem forças, e começou a cair por dentro. O último Imperador Draconato, Martin Septim, estava morto, e mais uma dinastia com sangue de dragão se desfez. Ocato de Primália assumiu o posto de Potentado e passou a comandar o Império da melhor forma possível, quando, em 4E 10 foi assassinado. Ainda hoje não se sabe quem ordenou a morte do Potentado, mas se sabe que foi para derrubar de vez a Dinastia Septim e toda sua influência - afinal, o último Potentado, que era o resquício da Dinastia Reman da Primeira Era, também fora assassinado para que o Trono de Rubi fosse tomado. Novamente, o Império entrou em estado de emergência, período que ficou conhecido como o Interregno Coroa-Tormenta, em referência a Tiber Septim, fundador do Terceiro Império. 
 
