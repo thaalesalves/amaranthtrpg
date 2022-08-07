@@ -109,7 +109,7 @@ Você tem uma habilidade sobrenatural de detectar presença Daédrica onde você
 Sempre que visitar Oblivion, você ganha atenção dos habitantes, de forma positiva. Normalmente estariam simplesmente curiosos sobre você, e isso pode ser usado ao seu favor, mas se algo como um Xivkyn tiver curiosidade sobre você... isso pode ser um problema.
 ​
 ## Bem maior (1 pt.)
-Você tem um objetivo maior que qualquer outra coisa, que o direciona na vida. Você não se importa muito com problemas menores, casuais, pois seu objetivo maior é tudo. Por vezes, você vai agir de forma contra-intuitiva pensando ser a melhor forma de atingir seu objetivo, mas isso pode ser bom. Você ganha dois dados em tudo que tenha a ver com este objetivo. Decida qual é este objetivo, e tenha aprovação do Narrador. Caso você já tenha o defeito de [Obsessão](/regras/ficha/defeitos/obsessao), você não pode ter esta qualidade.
+Você tem um objetivo maior que qualquer outra coisa, que o direciona na vida. Você não se importa muito com problemas menores, casuais, pois seu objetivo maior é tudo. Por vezes, você vai agir de forma contra-intuitiva pensando ser a melhor forma de atingir seu objetivo, mas isso pode ser bom. Você ganha dois dados em tudo que tenha a ver com este objetivo. Decida qual é este objetivo, e tenha aprovação do Narrador. Caso você já tenha o defeito de [Obsessão](/rules/sheet/flaws/obsessao), você não pode ter esta qualidade.
 ​
 ## Amigo mago (1 pt.)
 Você tem um amigo ou aliado que é um mago. Apesar de você poder chamá-lo quando precisar, ele também pode o chamar em tempos de necessidade. Este mago provavelmente é um aluno do Colégio de Invernália ou da Universidade Arcana, mas pode ser praticante de qualquer escola de magia, desde que seja explicado.

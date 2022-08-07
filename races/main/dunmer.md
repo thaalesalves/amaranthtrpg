@@ -2,7 +2,7 @@
 
 <div style="float: right; margin-right: 1%; background: #fbfbfc; border: 2px black solid;">
 	<figure>
-		<center><img src="/uploads/racas/dunmer.png"
+		<center><img src="/uploads/races/dunmer.png"
 			height="300"
 			alt="Dunmer">
 		<figcaption style="margin-left: 2%; margin-right: 2%;">Ilustração de um homem Dunmer típico.</figcaption></center>

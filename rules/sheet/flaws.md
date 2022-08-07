@@ -19,7 +19,7 @@ Você ''tem'' que saber. Parece que foi tocado por Hermaeus Mora, pois sua curio
 Existe algo terrível em seu passado, algo que você tem que esconder. Talvez você tenha sido um ativo cultista de Molag Bal, ou talvez tenha sido a própria Raposa Cinza. Caso este segredo seja descoberto, você provavelmente acabará preso ou morto... ou pior.
 
 ## Deficiência (3 pt) 
-Você nasceu com um transtorno mental, e deve escolher um da [lista](/regras/ficha/defeitos/deficiencias).
+Você nasceu com um transtorno mental, e deve escolher um da [lista](/rules/sheet/flaws/deficiencias).
 
 ## Obsessão (3 pt) 
 Você é obcecado com o impossível. Certos objetivos impossíveis direcionam todos os seus esforços, apesar de você nunca atingir nenhum. Fazer os Grisermantes e os demais Dunmer se darem bem, acabar com a escravidão causada pelos Telvanni ou terminar as brigas políticas dos Bretões -- o que quer que seja, é sua maior prioridade da vida, acima de quaisquer lealdeades ou objetivos.

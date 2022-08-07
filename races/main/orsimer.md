@@ -2,7 +2,7 @@
 
 <div style="float: right; margin-right: 1%; background: #fbfbfc; border: 2px black solid;">
 	<figure>
-		<center><img src="/uploads/racas/orc.png"
+		<center><img src="/uploads/races/orc.png"
 			height="300"
 			alt="Orsimer">
 		<figcaption style="margin-left: 2%; margin-right: 2%;">Ilustração de um homem Orsimer típico.</figcaption></center>

@@ -2,7 +2,7 @@
 
 <div style="float: right; margin-right: 1%; background: #fbfbfc; border: 2px black solid;">
   <figure>
-    <center><img src="/uploads/racas/imperial.png"
+    <center><img src="/uploads/races/imperial.png"
       height="300"
       alt="Imperial">
     <figcaption style="margin-left: 2%; margin-right: 2%;">Ilustração de um homem Imperial típico.</figcaption></center>

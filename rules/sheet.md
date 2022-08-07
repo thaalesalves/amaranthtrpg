@@ -5,13 +5,13 @@
 O Storyteller tem uma distribuição de pontos característica, que deve ser seguida. Cada signo e personalidade têm suas particularidades e, portanto, alguns pontos a mais ou a menos, mas existe uma base fixa padrão. Baixe a ficha [aqui](https://amaranth.thalesalv.es/uploads/arquivos/amaranth-pt.pdf).
 
 Para mais detalhes, veja os artigos principais
-- **[Defeitos](/regras/ficha/defeitos):** traços físicos ou de personalidade que o dão mais freebies.
-- **[Qualidades](/regras/ficha/qualidades):** traços físicos ou de personalidade que custam pontos.
-- **[Atributos](/regras/ficha/atributos):** características da personalidade do personagem.
-- **[Habilidades](/regras/ficha/habilidades):** habilidades do personagem.
-- **[Astrologia](/regras/ficha/astrologia):** a constelação sob a qual o personagem nasceu.
-- **[Atencedentes](/regras/ficha/antecedentes):** antecedentes do personagem.
-- **[Arquétipos](/regras/ficha/arquetipos):** natureza e comportamento do personagem.
+- **[Flaws](/rules/sheet/flaws):** traços físicos ou de personalidade que o dão mais freebies.
+- **[Merits](/rules/sheet/merits):** traços físicos ou de personalidade que custam pontos.
+- **[Attributes](/rules/sheet/attributes):** características da personalidade do personagem.
+- **[Abilities](/rules/sheet/abilities):** habilidades do personagem.
+- **[Astrology](/rules/sheet/astrology):** a constelação sob a qual o personagem nasceu.
+- **[Atencedentes](/rules/sheet/backgrounds):** antecedentes do personagem.
+- **[Archetypes](/rules/sheet/archetypes):** natureza e comportamento do personagem.
 
 # Distribuição de pontos
 Os pontos são divididos em colunas, que agrupam tipos específicos de Atributos ou Habilidades. O jogador ganha N pontos para distribuir em cada coluna de cada item da ficha.
@@ -40,20 +40,20 @@ Os pontos distribuídos também têm seus próprios níveis, e você pode ou nã
 Atente-se a estes títulos ao selecionar seu equipamento. O personagem não será capaz de usar itens acima de seu nível.
 
 # Atributos
-Atributos são características da personalidade do personagem. São dividas em 3 categorias: Físicas, Sociais e Mentais. Saiba mais no [artigo principal](/regras/ficha/atributos/).
+Atributos são características da personalidade do personagem. São dividas em 3 categorias: Físicas, Sociais e Mentais. Saiba mais no [artigo principal](/rules/sheet/attributes/).
 
 # Habilidades
-Habilidades são características referentes ao que o personagem sabe fazer. São dividas em 3 categorias: Talentos, Perícias e Conhecimentos. Saiba mais no [artigo principal](/regras/ficha/habilidades/).
+Habilidades são características referentes ao que o personagem sabe fazer. São dividas em 3 categorias: Talentos, Perícias e Conhecimentos. Saiba mais no [artigo principal](/rules/sheet/abilities/).
 
 # Vantagens
 ## Feitiços
-São magias concentradas para proteger, causar dano ou alterar o mundo à volta. Veja o [artigo principal](/magia/feiticos).
+São magias concentradas para proteger, causar dano ou alterar o mundo à volta. Veja o [artigo principal](/magic/feiticos).
 
 ## Antecedentes
-Características que trazem vantagens para seus personagens baseados na história dele. Veja o [artigo principal](/regras/ficha/antecedentes).
+Características que trazem vantagens para seus personagens baseados na história dele. Veja o [artigo principal](/rules/sheet/backgrounds).
 
 ## Defeitos & qualidades
-Traços de personalidade, físicos, sociais ou mentais de seu personagem. Veja o artigo principal [de qualidades](/regras/ficha/qualidades) e o [de defeitos](/regras/ficha/defeitos).
+Traços de personalidade, físicos, sociais ou mentais de seu personagem. Veja o artigo principal [de qualidades](/rules/sheet/merits) e o [de defeitos](/rules/sheet/flaws).
 
 ## Magicka
 Magicka é a força que torna possível a existência da magia arcana. É dito que a Magicka chega em Mundus através de Magnus, o Sol, e arquiteto de Mundus. É possível até 50 pontos de Magicka, que são usados para fazer ações mágicas. É determinada a partir da soma dos pontos de Força de Vontade e Magia do personagem (que se torna o seu limite máximo ao recarregar, a não ser que haja aumento permanente de alguma forma). Recarrega fora de combate, ao descansar.
@@ -79,7 +79,7 @@ Nas caixas de marcação, é necessário especificar o outro tipo de dano.
 * **Inconsciente:** Teste de Resistência + Atlética. Com sucesso, consegue levantar, mas leva -2 de iniciativa no próximo turno. Com falha, usa próxima ação para levantar, e também leva -2 de iniciativa no próximo turno. Falha crítica permite que se levante no próximo turno, mas leva 1 de dano Contusivo.
 
 # Freebies
-Freebies são pontos adicionais que você ganha durante a criação de personagem. São usados para comprar pontos para os atributos. Vide [seção de níveis de ficha](/regras/ficha#niveis-de-ficha) para saber quantos freebies você tem de acordo com o nível de personagem estabelecido pelo Narrador.
+Freebies são pontos adicionais que você ganha durante a criação de personagem. São usados para comprar pontos para os atributos. Vide [seção de níveis de ficha](/rules/sheet#niveis-de-ficha) para saber quantos freebies você tem de acordo com o nível de personagem estabelecido pelo Narrador.
 
 |Traço|Custo|
 |---|---|

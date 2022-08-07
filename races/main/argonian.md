@@ -2,7 +2,7 @@
 
 <div style="float: right; margin-right: 1%; background: #fbfbfc; border: 2px black solid;">
 	<figure>
-		<center><img src="/uploads/racas/argoniano.png"
+		<center><img src="/uploads/races/argonian.png"
 			height="300"
 			alt="Argoniano">
 		<figcaption style="margin-left: 2%; margin-right: 2%;">Ilustração de um homem Argoniano típico.</figcaption></center>
