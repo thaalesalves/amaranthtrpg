@@ -1,46 +1,45 @@
-# Raças
-Tamriel possui uma miríade de raças sencientes. Variam de humanos a elfos a criaturas bestiais e gigantescas. Algumas raças conhecidas são, na verdade, conjuntos de sub-raças. Os Khajiit, por exemplo, possuem 16 variações dependendo da fase da lua, e os Imperiais são separados em outras duas sub-raças. 
+# Races
+Tamriel has a myriad of sentient races. They vary from humans to elves to bestial and giant creatures. Some known races are, in actuality, subsets of larger races. The Khajiit, for example, have 16 different breeds depending on the Moons' phases, and Imperials are separated into two other sub-races.
 
-# Raças principais
-- **[Bretão](/racas/principais/bretao):** conhecidos como os Manmer, mistura de elfos e humanos.
-- **[Imperial](/racas/principais/imperial):** os bem-ditos Imperiais, humanos que governam Tamriel há milênios.
-- **[Nord](/racas/principais/nord):** os habitantes do Norte, conhecidos como Filhos do Céu, e os mais antigos humanos de Tamriel.
-- **[Rubraguarda](/racas/principais/rubraguarda):** os humanos vindos originalmente do continente perdido de Yokuda.
-- **[Altmer](/racas/principais/altmer):** a mais antiga e pura raça de elfos, descendentes diretos os antigos Aldmer, também chamados de Altos Elfos.
-- **[Bosmer](/racas/principais/bosmer):** filhos de Y'ffre, conhecidos como Elfos da Floresta, a única raça élfica não-Aldmeri.
-- **[Dunmer](/racas/principais/dunmer):** os nativos de Brisavinda, a terra das cinzas, também chamados de Elfos Negros.
-- **[Orsimer](/racas/principais/orsimer):** raça élfica que traça sua origem à separação dos Aldmer e dos Chimer, e são conhecidos como Orcs.
-- **[Argoniano](/racas/principais/argoniano):** os homens-lagarto nativos de Argônia, que têm uma ligação mística com as árvores do Hist.
-- **[Khajiit](/racas/principais/khajiit):** os homens-gato de Elsweyr, filhos de Lorkhaj, com sua relação única com Jone e Jode, as luas que orbitam Nirn.
-# Raças variadas (ainda não jogáveis)
-- **Aldmer:** os elfos originais, ancestrais das raças modernas, também chamados de Ehlnofey.
-- **Chimer:** o povo alterado, ancestrais dos Dunmer, criadores da terra de Resdayn.
-- **Dwemer:** o povo profundo, elfos que vivem nas profundezas, conhecidos como Anões.
-- **Falmer:** antigos elfos habitantes de Arcéu, conhecidos como Elfos das Neves.
-- **Maormer:** os elfos tropicais, habitantes da ilha de Pyandonea e eternos rivais dos Altmer.
-- **Elfo Canhoto:** antigos rivais dos Yokudanos.
-- **Ayleid:** antigos habitantes de Cyrodiil, elfos com uma sociedade um tanto diversa.
-- **Nede:** antiga raça humana que deu origem a muitas das raças modernas.
-- **Kothringi:** raça humana extinta na Segunda Era depois da Praga Knahaten, os únicos humanos nativos do Pântano Negro.
-- **Povo do Desfildeiro:** humanos nativos tribais do Desfiladeiro, região da divisão entre Pedra Alta e Arcéu, também chamados de Renegados.
+# Main races
+- **[Breton](/races/main/breton):** known as the Manmer, a human race that comes from elven miscigenation
+- **[Imperial](/races/main/imperial):** the cosmopolitan Imperials, humans that have ruled over Tamriel for millenia
+- **[Nord](/races/main/nord):** the inhabitants of the North, known as the Children of the Sky, and the oldest humans in Tamriel
+- **[Redguard](/races/main/redguard):** human inhabitants of Hammerfell, descendend from the Ra Gada of the lost continent of Yokuda
+- **[Altmer](/races/main/altmer):** the oldest and purest race of elves, direct descendants of the Aldmer, also known as High Elves
+- **[Bosmer](/races/main/bosmer):** children of Y'ffre, known as the Wood Elves, the only non-Aldmeri elven race
+- **[Dunmer](/races/main/dunmer):** natives of Morrowind, the Land of the Ashes, also known as Dark Elves
+- **[Orsimer](/races/main/orsimer):** elven race that originated from Malacath during the exodus of the Chimer from Aldmeris, also known as Orc
+- **[Argonian](/races/main/argonian):** the Lizard-Men from Argonia, beastfolk that have a special link to the Hist Tree
+- **[Khajiit](/races/main/khajiit):** the Cat-Men of Elsweyr, children of Lorkhaj, with their special link to Jone and Jode, the Moons that orbit Nirn
 
-
-- Dreugh.
-- Sload.
-- Goblin.
-- Lâmia.
-- Lilmothiit.
-- Minotauro.
-- Centauro.
-- Kyn.
-- Tsaesci.
-- Ka Po' Tun.
-- Kamal.
-- Tang Mo.
-- Aureal.
-- Mazken.
-- Xiviliai.
-- Kith.
-- Skaafin.
-- Imga.
-- Aurorano.
+# Other races (not yet playable)
+- **Aldmer:** the original elves, ancestors of the current races, also known as Elhnofey
+- **Chimer:** the changed folk, ancestors to the Dunmer, and creators of the land of Resdayn
+- **Dwemer:** the deep-folk, elves that lived deep in the mountains, also known as Dwarves
+- **Falmer:** the old inhabitants of Skyrim, also known as Snow Elves
+- **Maormer:** the tropical elves, inhabitants of the Island of Pyandonea, and eternal rivals of the Altmer
+- **Left-handed Elf:** inhabitants of the continent of Yokuda, and the Ra Gada's biggest enemies
+- **Ayleid:** old inhabitants of Cyrodiil, the Ayleids are elves with a very diverse society
+- **Nede:** old humans that were the starting point of many mordern race
+- **Kothringi:** humans extinct during the Second Era's Knahaten Plague, the only native human inhabitants of the Black Marsh
+- **Reachmen:** humans natives to the Reach, the region that divides High Rock and Skyrim, known in the Fourth Era as the Forsworn
+- Dreugh
+- Sload
+- Goblin
+- Lamia
+- Lilmothiit
+- Minotaur
+- Centaur
+- Kyn
+- Tsaesci
+- Ka Po' Tun
+- Kamal
+- Tang Mo
+- Aureal
+- Mazken
+- Xiviliai
+- Kith
+- Skaafin
+- Imga
+- Auroran

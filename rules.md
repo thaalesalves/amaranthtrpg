@@ -1,13 +1,13 @@
-# Regras
+# Rules
 
-O Amaranth, por ser baseado no Storyteller, tem um conjunto de regras semelhante. Mas tem suas particularidades, e elas tornam a experiência de jogo um pouco diferente.
+Amaranth and Whitewolf's games (Vampire, Werewolf, Mage and others) have a similar set of rules, since they're based on Storyteller. It ahs its own set of particular rules, and those make playing with Amaranth a different experience.
 
-- **[Ficha](/regras/ficha):** ficha de jogo e seus elementos.
-	- **[Defeitos](/regras/ficha/defeitos):** traços físicos ou de personalidade que o dão mais freebies.
-	- **[Qualidades](/regras/ficha/qualidades):** traços físicos ou de personalidade que custam pontos.
-	- **[Atributos](/regras/ficha/atributos):** características da personalidade do personagem.
-	- **[Habilidades](/regras/ficha/habilidades):** habilidades do personagem.
-	- **[Astrologia](/regras/ficha/astrologia):** a constelação sob a qual o personagem nasceu.
-	- **[Atencedentes](/regras/ficha/antecedentes):** antecedentes do personagem.
-	- **[Arquétipos](/regras/ficha/arquetipos):** natureza e comportamento do personagem.
-- **[Testes](/regras/testes):** testes e rolagens de jogo.
+- **[Sheet](/rules/sheet):** character sheet and its elements.
+	- **[Flaws](/rules/sheet/flaws):** physical or personality traits that give freebie points (and are usually negative).
+	- **[Merits](/rules/sheet/merits):** physical or personality traits that cost freebie points (and are usually positive).
+	- **[Attributes](/rules/sheet/attributes):** características da personalidade do personagem.
+	- **[Abilities](/rules/sheet/abilities):** habilidades do personagem.
+	- **[Astrology](/rules/sheet/astrology):** a constelação sob a qual o personagem nasceu.
+	- **[Backgrounds](/rules/sheet/backgrounds):** antecedentes do personagem.
+	- **[Archetypes](/rules/sheet/archetypes):** natureza e comportamento do personagem.
+- **[Tests](/rules/tests):** testes e rolagens de jogo.
