@@ -1,12 +1,12 @@
 # Amaranth
-O Amaranth é o Sonhador, o regente do Universo atual onde toda a realidade está inserida. Sua forma de ver as coisas, suas ideias, seus pensamentos ecoam pela realidade e influenciam direta e indiretamente tudo que acontece, por mais que a individualidade de todos inseridos ali seja mantida. Enquanto narra sua aventura, considere-se Ald-Anu, o Amarante de Tamriel-atual, que veio depois de Yokuda e antes de Akavir. A importância do Amaranth na lore de Elder Scrolls deu nome a esta adaptação do sistema Storyteller, que implementa sistemas da série de jogos num TRPG baseado em d10.
+The Amaranth is the Dreamer, the conductor of the current Universe where reality is inserted. Their way of seeing things, their ideas, their thoughs echo through reality and influnce directly and indrectly everything that happens, even though one's individuality is still maintained. While you narrate your adventure, consider yourself Ald-Anu, the Amaranth of Tamriel-Actual, the one that came after Yokuda and after Akavir. The importance of the Amaranth in the Elder Scrolls lore is the namesake of this system, a custom adaptation of White Wolf's Storyteller, and implements games from the Elder Scrolls into a simple but fun TRPG based on d10.
 
-Este sistema está sendo desenvolvido por **[Thales Alves](https://pt.uesp.net/wiki/User:Thaalesalves)** e Leonardo Spinola, usando a tradução não-oficial da **[UESP](https://pt.uesp.net/wiki/UESPWiki:Glossário)**. Caso tenha sugestões ou queira ajudar no desenvolvimento dele, entre em contato com a gente! 
+This system is being developed by **[Thales Alves](https://github.com/thaalesalves)** (<font size="2">[UESP](https://uesp.net/wiki/User:Thaalesalves)</font>) and [Leonardo Spinola](https://www.linkedin.com/in/leonardo-spinola-alcantara/). In case you have suggestions or want to help us develop the system, let us know!
 
 # Categorias
-* **[Regras](/regras):** regras gerais do sistema.
-* **[Raças](/racas):** raças jogáveis de Tamriel.
-* **[Magia](/regras/magia):** mecânicas e escolas de magia.
-* **[Alquimia](/regras/alquimia):** poções e fórmulas alquímicas.
-* **[Itens](/itens):** itens e equipamentos que podem ser adquiridos.
-* **[Campanhas](/campanhas):** algumas campanhas prontas para jogar no universo.
+* **[Rules](/rules):** general system rules
+* **[Races](/races):** playable races
+* **[Magic](/rules/magic):** magic mechanics and magic schools
+* **[Alchemy](/rules/alchemy):** potions and alchemical formulas
+* **[Items](/items):** items and equipment that can be used
+* **[Campaigns](/campaigns):** some pre-made campagins for you to play
