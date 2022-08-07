@@ -1,85 +1,80 @@
 # Imperial Pantheon
 
-## Os Oito
-Os **[Divinos](https://pt.uesp.net/wiki/Lore:Divines)** são as deidades Aédricas que formam o panteão oficial do **[Império Cyrodílico](https://pt.uesp.net/wiki/Lore:Império)**, e são cultuados por toda **[Tamriel](https://pt.uesp.net/wiki/Lore:Tamriel)**. Suas posições no panteão foram definidas por **[Santa Alessia](https://pt.uesp.net/wiki/Lore:Alessia)** durante a fundação do Primeiro Império, no resultado da rebelião liderada por ela. Seu povo recém emancipado havia há tempos adotado a religião **[Aldmeri](https://pt.uesp.net/wiki/Lore:Aldmer)** de seus senhores **[Ayleids](https://pt.uesp.net/wiki/Lore:Ayleid)**, mas a rebelião somente foi vencida por conta da ajuda recebida pelos exércitos de **[Arcéu](https://pt.uesp.net/wiki/Lore:Skyrim)**, que cultuavam o **[Panteão Nórdico](/addons/religioes/panteoes/nord)**. Alessia não poderia forçar um ou outro grupo a cultuar um ou outro panteão para evitar que outra guerra se iniciasse e derrubasse o recém fundado Império. Ela, então, desenvolveu uma elegante síntese de ambas as tradições, combinando arquétipos comuns (deusa mãe, deus da morte, etc.), evitando mudanças drásticas. Este novo panteão ficou conhecido como os Oito Divinos, comumente chamado apenas de os Oito.
+## The Eight
+The **[Divines](https://uesp.net/wiki/Lore:Divines)** are the Aedric deities that form the **[Empire](https://uesp.net/wiki/Lore:Empire)**'s official pantheon, and are worshipped throughout all of **[Tamriel](https://uesp.net/wiki/Lore:Tamriel)**. Their positions in the pantheon were defined by **[Saint Alessia](https://uesp.net/wiki/Lore:Alessia)** during the foundation of the First Empire, as a result of the rebellion led by her. Her newly emancipated people had adopted the **[Aldmeri](https://uesp.net/wiki/Lore:Aldmer)** religion long ago from their former masters, the **[Ayleids](https://uesp.net/wiki/Lore:Ayleid)**, but the rebellion was only succesfull because of the help from the armirs of **[Skyrim](https://esp.net/wiki/Lore:Skyrim)**, who worshipped the **[Nordic Pantheon](/addons/religion/pantheons/nord)**. Alessian couldn't force one or the other group to worship one or the other pantheon, in order to avoid yet another war that could potentially collapse the just-founded Empire. She, then, developed an elegant synthesis of both traditions, combining common archetypes (mother-goddess, god of death, etc.), and avoiding drastic changes. This new pantheon became known as the Eight Divines, commonly known as the Eight.
 
 ### Akatosh
-O **[Deus Dragão do Tempo](https://pt.uesp.net/wiki/Lore:Akatosh)** é a divindade chefe do Panteão Imperial, e tem diferentes interpretações nos demais panteões espalhados por Tamriel. Ele representa resistência, invencibilidade e legitimidade duradoura. Segundo o **[Monomito](https://pt.uesp.net/wiki/Lore:O_Monomito)** e o **[Anuado](https://pt.uesp.net/wiki/Lore:O_Anuado_Comentado)**, Akatosh foi o primeiro et'Ada a tomar forma, e os demais espíritos o seguiram, iniciando o Tempo Linear, e, com isso, o [Aurbis](https://pt.uesp.net/wiki/Lore:Aurbis)**.
-* **Principal templo:** Grande Capela de Akatosh em **[Kvatch](https://pt.uesp.net/wiki/Lore:Kvatch)** (**[Cyrodiil](https://pt.uesp.net/wiki/Lore:Cyrodiil)**)
+The **[Dragon God of Time](https://uesp.net/wiki/Lore:Akatosh)** is the chief deity of the Imperial Pantheon, and has different interpretations in the other pantheons of Tamriel. He represents resistance, invencibility and lasting legitimacy. According to the **[Monomyth](https://uesp.net/wiki/Lore:The_Monomyth)** and the **[Anuad](https://uesp.net/wiki/Lore:The_Annotated_Anuad)**, Akatosh was the first **[et'Ada](https://en.uesp.net/wiki/Lore:Gods)** to take form, and the other spirits followed him, creating the Linear Time, and, with it, the **[Aurbis](https://uesp.net/wiki/Lore:Aurbis)**.
+* **Main temple:** The Great Chapel of Akatosh in **[Kvatch](https://uesp.net/wiki/Lore:Kvatch)** (**[Cyrodiil](https://uesp.net/wiki/Lore:Cyrodiil)**)
 
-#### Bençãos
-* **Básica:** Akatosh abençoa seus devotos expandindo sua Magicka (recarga de 5 pontos de Magicka por turno em combate) e sua velocidade (1 dado extra em ações que usem a Habilidade);
-* **Seita:** Na **[Primeira Era](https://en.uesp.net/wiki/Lore:First_Era)**, a **[Ordem Alessiana](https://pt.uesp.net/wiki/Lore:Alessian_Order)** realizava uma verdadeira caça às bruxas contra todos que não cultuassem somente Akatosh. Devido a sua fé inabalável, Rolagens para uso de magia dos membros da Ordem tem suas falhas críticas transformadas em sucessos, mas todos os testes de autocontrole para questões raciais e religiosas tem dificuldade 10.
+#### Blessings
+* **Basic:** Akatosh blesses his followers by expanding their Magicka (recharge of 5 points of Magicka per turn in combat) and their Agility (1 extra die in actions that use this Attribute);
+
+* **Sect:** During the **[First Era](https://en.uesp.net/wiki/Lore:First_Era)**, the **[Alessian Order](https://uesp.net/wiki/Lore:Alessian_Order)** ran a big witchhunt against anyone that didn't worship Akatosh and only Akatosh. Due to their unshakable faith, members of the Alessian Order magic rolls have their critical failures converted into successes, but all the tests for racial and religious situations will have their difficulty raised to 10.
 
 ### Arkay
-**[Arkay](https://pt.uesp.net/wiki/Lore:Arkay)**, o Deus da Roda da Vida, é um dos Divinos, e um deus popular em outros territórios. Arkay é mais importantes em culturas onde seu pai, Akatosh, é menos relacionado ao Tempo, ou onde seus aspectos do Tempo são menos compreensíveis para um leigo. É o deus dos funerais e enterros, e é geralmente associado a ocasiões cíclicas, como o ciclo da vida e da morte. Seus sacerdotes se opõem ativamente à necromancia e todas as formas de mortos-vivos, e qualquer tipo de uso incorreto ou imoral de uma alma mortal. Portanto, qualquer corpo velado por um sacerdote usando os rituais corretos é protegido pela Lei de Arkay, e não pode ser reanimado. Necromantes têm Arkay como arquinimigo, e não poupam esforços para minar seu culto por Tamriel. Por causa da sua associação com a proteção da mortalidade, ele é conhecido como Deus dos Mortais. Arkay também é conhecido por ter ascendido à mortalidade depois de ter sido afetado por uma praga incurável e ter sido transformado num deus por **[Mara](https://pt.uesp.net/wiki/Lore:Mara)**.
-* **Principal templo:** Grande Capela de Arkay (**[Cheydinhal](https://pt.uesp.net/wiki/Lore:Cheydinhal)**, **[Cyrodiil](https://pt.uesp.net/wiki/Lore:Cyrodiil)**)
+**[Arkay](https://uesp.net/wiki/Lore:Arkay)**, the Lord of the Wheel of Life, is one of the Divines and a very popular god in other territories as well. Arkay is more important in cultures where his father, Akatosh, is less related to Time, or where Akatosh's aspects of Time are less comprehensible to the layman. He's the god of funerals and burials, and is normally related to cyclical occasions, such as the cycle of life and death. His priests actively oppose necromancy and all forms of unlife, and any incorrect or immoral use of a mortal soul. Therefore, any person that died and went through through the correct rituals with a Priest of Arkay is protected by Arkay's Law, and cannot be reanimated. Necromancers have Arkay as their archenemy, and don't save efforts to mine his cult throughout Tamriel. Due to his association with the protection of mortality, he's known as the God of Mortals. Arkay is also known for having ascended to godhood after being infected with a deadly and incurable plague, and transformed into a god by **[Mara](https://uesp.net/wiki/Lore:Mara)**.
+* **Main temple:** The Great Chapel of Arkay (**[Cheydinhal](https://uesp.net/wiki/Lore:Cheydinhal)**, **[Cyrodiil](https://uesp.net/wiki/Lore:Cyrodiil)**)
 
-#### Bençãos
-* **Básica:** Regeneração da vida ou vida x maior ou Ao receber golpe fatal, rolar com dificuldade baseada no dano desse golpe para anular o dano recebido, uma vez por dia
-* **Seita:**
+#### Blessings
+* **Basic:** Health regeneration when received a fatal blow. Rolls with difficulty based on this blow's damage to annulate the received damage, once a day.
+* **Sect:**
 
 ### Dibella
-**[Dibella](https://pt.uesp.net/wiki/Lore:Dibella)**, conhecida como a "Dançarina da Paixão", "Vossa Dama Abençoada" ou simplesmente "a Dama", é a deusa da Beleza, o Amor e da Afeição. Também é conhecida como Dama da Arte e da Música, ou Rainha do Paraíso. Dibella é a Beleza formada, e seus seguidores propagam a Beleza através da harmonia, do charme e da graça. A Deusa ensina que mortais devem se entregar ao Amor, e diz que devem abrir seus corações para os "segredos da arte e do armor, e os tesouros da amizade". Dibella não impõe limite no número de amantes que uma pessoa pode ter, mas exige que a qualidade da essência do amor seja um foco, e não a quantidade. 
-* **Principal templo:** Grande Capela de Dibella (**[Bigorna](https://en.uesp.net/wiki/Lore:Anvil)**, Cyrodiil)
+**[Dibella](https://uesp.net/wiki/Lore:Dibella)**, known as the "Passion Dancer", or "Our Blessed Lady", is the goddess of beauty, love and affection. She is also known as the Lady of Art and Music, or Queen of Heaven. Dibella is beauty incarnated, and her followers spread beauty through harmony, both from charm and grace. She teaches that mortals should give themselves to Love, and says that they should open their hearts to "the secrets of art and leave, and the treasures of friendship". Dibella doesn't impose a limit to the number of lovers one can have, but demands that the essence of love should be about quality, and not quantity.
+* **Main temple:** The Great Chapel of Dibella (**[Anvil](https://en.uesp.net/wiki/Lore:Anvil)**, **[Cyrodiil](https://uesp.net/wiki/Lore:Cyrodiil)**)
 
-#### Bençãos
-* **Básica:** Fortifica personalidade (preços, bônus após ações de romance, persuação)
-* **Seita:** A Ordem do Lírio é o braço militante dentre os servos da Divina. Eles enforçam as palavras dela e protegem os templos com suas vidas. É dito que eles são consumidos pela própria propagação da beleza, o que os dá força de vontade para proteger a si e aos templos. (aumenta atributos físicos diminui mentais?)
+#### Blessings
+* **Basic:** Fortifies personality (prices, bonus after romance actions, persuasion) with an extra die.
+* **Sect:** The **[Order of the Lily](https://en.uesp.net/wiki/Lore:House_of_Dibella#Order_of_the_Lily)** is the militant arm between the followers of Dibella. They enforce Her words and protect the temples with their lives. It si said that they are consumed by the propagation of beauty itself, which gives them strength and willpower to protect themselves and their temples. Members of this sect get an extra die for actions that involve Strength and Endurance, but lose one die for actions that involve Perception and Intelligence. 
 
 ### Julianos
-**[Julianos](https://en.uesp.net/wiki/Lore:Julianos)**, Deus da Sabedoria e da Lógica, governa os campos da literatura, do direito, história e da contradição. É normalmente associado à Magia, e é comum ser reverenciado por magos. Jhunal, o pai Nórdico da linguagem e da matemática, perdeu a fama no culto Nórdico depois que se tornou Julianos dos Divinos. Ordems monásticas fundadas por Tiber Septim dedicadas a Julianos são mantenedores dos Pergaminhos Anciãos. É normalmente venerado entre Imperiais e Bretãos. Como Divino, representa a virtude do aprendizado, escolaridade e da justiça.
-* **Principal templo:** Grande Capela de Julianos (**[Skingrad](https://en.uesp.net/wiki/Lore:Skingrad)**, Cyrodiil)
+**[Julianos](https://en.uesp.net/wiki/Lore:Julianos)**, God of Wisdom and Logic, governs the spheres of literature, law, history and contradiction. He's usually associated with magic, and it is often revered by wizards and mages. Jhunal, the Nordic father of language and mathematics, fell out of favor in the nordic cult, after which he became Julianos of the Divines. Monastic orders founded by Tiber Septim and dedicated to Julianos are the keepers of the Elder Scrolls. He is particularly venerated among many Imperials and Bretons. As a Divine, he represents the virtue of learning, scholarship, and justice.
+* **Main temple:** The Great Chapel of Julianos (**[Skingrad](https://en.uesp.net/wiki/Lore:Skingrad)**, **[Cyrodiil](https://uesp.net/wiki/Lore:Cyrodiil)**)
 
-#### Bençãos
-* **Básica:** Bônus manipulação e inteligência.
-* **Seita:** A fazer.
+#### Blessings
+* **Basic:** Extra die in actions that involve Perception, Manipulation and Intelligence. 
+* **Sect:** TODO
 
 ### Kynareth
-**[Kynareth](https://en.uesp.net/wiki/Lore:Kynareth)**, Deusa dos Céus, dos Ventos, dos Elementos
- e dos Espíritos Invisíveis do Ar. É patrona dos marinheiros e viajantes. Kynareth é evocada normalmente durante nascimentos e durante o dia-a-dia para boa sorte. Em algumas lendas, foi a primeira a concordar com o plano divino de **[Lorkhan](https://en.uesp.net/wiki/Lore:Lorkhan)** de criar o plano mortal, e fornece o espaço no Vácuo onde o mesmo foi criado. É também associada com a chuva, fenômeno que não teria ocorrido até a **[remoção do brilho divino de Lorkhan](https://en.uesp.net/wiki/Lore:Sheogorath)**. 
-* **Principal templo:** Templo de Kynareth (**[Passo Branco](https://en.uesp.net/wiki/Lore:Whiterun)**, **[Arcéu](https://en;uesp.net/wiki/Lore:Skyrim)**)
+**[Kynareth](https://en.uesp.net/wiki/Lore:Kynareth)** is the goddess of the heavens, the winds, the elements, and the unseen spirits of the air. She is a member of the Divines and Patron of sailors and travelers. Kynareth is often invoked for auspicious stars at birth and for good fortune in daily life. In some legends, she is the first to agree to **[Lorkhan](https://en.uesp.net/wiki/Lore:Lorkhan)**'s divine plan to create the mortal plane, and provides the space in the void for its creation. Furthermore, she is associated with rain, a phenomenon that is said not to have occurred before **[the removal of Lorkhan's divine spark](https://en.uesp.net/wiki/Lore:Sheogorath)**.
+* **Main temple:** Temple of Kynareth (**[Whiterun](https://en.uesp.net/wiki/Lore:Whiterun)**, **[Skyrim](https://en;uesp.net/wiki/Lore:Skyrim)**)
 
-#### Bençãos
-* **Básica:** Força de vontade e resistência
-* **Seita:** A fazer.
+#### Blessings
+* **Basic:** Extra die in rolls that require use of Endurance and Willpower
+* **Sect:** TODO
 
 ### Mara
-**[Mara](https://en.uesp.net/wiki/Lore:Mara)**, conhecida como **Mãe Mara** ou **Divina Mãe**, é a Deusa do Amor, da Fertilidade, Agricultura e Compaixão. Durante a **[Era Merética](https://en.uesp.net/wiki/Lore:Merethic_Era)**, Mara era cultuada apenas como uma deusa da fertilidade, mas sua esfera divina se expandiu para o amor e a gricultura. Mara é considerada uma deidade quase universal, pois aparece nos panteões de todas as raças de Tamriel, exceto os Khajiit e os Dunmer. Santa Alessia consultou Mara durante sua revolta de escravos contra os Ayleids durante a Primeira Era. A **[Distorção no Oeste](https://en.uesp.net/wiki/Lore:Warp_in_the_West)**, evento também conhecido como Milagre da Paz, ocorrido em 3E 417, é dito ter sido trabalho de Mara, Akatosh e Stendarr.
-* **Principal templo:** Grande Capela de Mara (**[Bravil](https://en;uesp.net/wiki/Lore:Bravil)**, Cyrodiil)
+**[Mara](https://en.uesp.net/wiki/Lore:Mara)**, also known as **Mother Mara**, Mother Mild, and the **Divine Mother**, is the Goddess of Love, Fertility, Agriculture, and Compassion. She is also acclaimed as the Mother-Goddess, and is one of the Divines. In the **[Merethic Era](https://en.uesp.net/wiki/Lore:Merethic_Era)**, Mara was originally worshipped simply as a fertility goddess, but the sphere of the Divine later extended to agriculture and love. Mara is considered a near universal deity as the Divine is featured in the pantheons of all the races of the continent of Tamriel save the Dunmer and Argonians. Saint Alessia consulted with Mara during her slave revolt against the Ayleid in the First Era. The **[Warp in the West](https://en.uesp.net/wiki/Lore:Warp_in_the_West)**, also known as the Peace Miracle, that occured in 3E 417, is said to be the work of Mara, Akatosh and Stendarr.
+* **Main temple:** The Great Chapel of Mara (**[Bravil](https://en;uesp.net/wiki/Lore:Bravil)**, **[Cyrodiil](https://uesp.net/wiki/Lore:Cyrodiil)**)
 
-#### Bençãos
-* **Básica:** Restauração gasta menos magicka, cura mais efetiva
-* **Seita:** A fazer.
+#### Blessings
+* **Basic:** Restoration requires less Magicka, and Medicine gains an extra die.
+* **Sect:** TODO
 
 ### Stendarr
-**[Stendarr](https://en.uesp.net/wiki/Lore:Stendarr)**, também conhecido como **Stendarr o Inabalável**, é do Deus da Piedade, da Caridade, da Sorte Merecida e da Justiça. É o Protetor dos Homens, patrono da Legião Imperial, de magistrados, governantes e cavaleiros.
-* **Principal templo:** Grande Capela de Stendarr (**[Chorrol](https://en;uesp.net/wiki/Lore:Chorrol)**, Cyrodiil)
+**[Stendarr](https://en.uesp.net/wiki/Lore:Stendarr)**, also known as **Stendarr the Steadfast**, is the God of Mercy, Charity, Well-Earned Luck, and Justice. He is also acclaimed as the God of Compassion, and Righteous Rule by Might and Merciful Forbearance. Stendarr is the Apologist of Men, patron of the Imperial Legion, magistrates, rulers, and knights errant, and one of the Divines.
+* **Main temple:** The Great Chapel of Stendarr (**[Chorrol](https://en;uesp.net/wiki/Lore:Chorrol)**, **[Cyrodiil](https://uesp.net/wiki/Lore:Cyrodiil)**)
 
-#### Bençãos
-* **Básica:** Restauração, Invocation of Stendarr grants the wielder the ability to cloak themselves in a righteous aura of blessed light, which has been adapted by the priests and resolutes of Stendarr to form either, a piercing beam resembling a spear, a form of armor or shield, or for use as a tool for healing.
-* **Seita:** Vigilantes de Stendarr
-Stendarr commands all mortals to make themselves vulnerable to his will and follow his precepts:
-Never refuse aid you are capable of providing.
-Go among the infirm and the wounded wherever you find them.
-Offer prayer to Stendarr every day.
-Do not hoard wealth or indulge physically
+#### Blessings
+* **Basic:** Followers of Stendarr get Aura Cloak and Aura Spear as additional spells, allowing them to cloak themselves in a righteous aura of blessed light or to concentrate this light into a piercing beam resembling a spear. Aura Cloak can also be used to get an additional die during the use of the Restoration school of magic.
+* **Sect:** The **[Vigil of Stendarr](https://en.uesp.net/wiki/Lore:Vigil_of_Stendarr)** is Stendarr's order of paladins, devoted to the extermination of Daedra, undead and all form of unnatural beings in Tamriel. Members of this sect get an extra die during rolls against Daedra, undead and all evil supernatural beings.
 
 ### Zenithar
-**[Zenithar](https://en.uesp.net/wiki/Lore:Zenithar)**, o Deus do Trabalho e do Comércio, Provedor da Tranquilidade, é frequentemente visto como Z'en, do **[panteão Bosmeri](/addons/religioes/panteoes/Bosmeri)**. No Império, entretanto, é mais cultuado entre mercadores e nobres, sendo a deidade da riqueza, do trabalho, comércio e comunicação. Seus seguidores dizem que, apesar de suas origens mistoreiosas, Zenither é o deus que "vai sempre vencer". Seus sacerdotes pregam o caminho da paz e da prosperidade através do trabalho honesto, e não através da guerra, da carnificina ou do roubo. 
-* **Principal templo:** Grande Capela de Zenithar (**[Leyawiin](https://en.uesp.net/wiki/Lore:Leyawiin)**, Cyrodiil)
+**[Zenithar](https://en.uesp.net/wiki/Lore:Zenithar)**, the God of Work and Commerce, the Provider of our Ease, is one of the Divines. The Trader God is frequently seen as the same deity as the **[Bosmeri god](/addons/religion/pantheons/Bosmeri)** Z'en. In the Empire, however, Zenithar is considered a more cultivated god of merchants and middle nobility, being the deity of wealth, labor, commerce and communication. His followers say that, despite his mysterious origins, Zenithar is the god that "will always win". His priests preach the ways of peace and prosperity through honest work, and not through war, bloodshed or theft.
+* **Main temple:** The Great Chapel of Zenithar (**[Leyawiin](https://en.uesp.net/wiki/Lore:Leyawiin)**, **[Cyrodiil](https://uesp.net/wiki/Lore:Cyrodiil)**)
 
-#### Bençãos
-* **Básica:** Bônus em Carisma. Economia? 
-* **Seita:** A fazer.
+#### Blessings
+* **Basic:** Extra die in rolls that use Charisma, Perception and Politics.
+* **Sect:** TODO
 
-## O Um
-O Panteão dos Oito viveria por milhares de anos, até a unificação de Tamriel por Tiber Septim e a declaração da Terceira Era. Em seu leito de morte, seus grandes feitos foram tão bem reconhecidos que a divindade foi atingida por ele, o fazendo um dos Divinos. Conhecido como Talos, o Imperador transcendido foi concedido posição entre os deuses, agora contavam Nove Divinos (ou, mais tradicionalmente, os Oito e Um). Talos se tornou patrono do Império e de todos os seus ideais de civilização, assim como daqueles que vão à guerra para defendê-lo. 
+## The One
+The Pantheon of the Eight would live on for thousands of years, until the unification of Tamriel by Tiber Septim and the start of the **[Third Era](https://en.uesp.net/wiki/Lore:Third_Era)**. In his deathbed, his deeds were so well known that he achieved godhood, making him one of the Divines. Known as Talos, the transcended Emperor was given a position between the gods, that now counted Nine (or, more traditionally, the Eight and One). Talos became the patron of the Empire and all of its ideals of civilization, as well as those who go to war to defend it. 
 
 ### Talos
-**[Talos](https://en.uesp.net/wiki/Lore:Tiber_Septim)**, herdeiro dos Reis Divididos, é o mais importante deus-herói da Humanidade. Em sua forma mortal, conhecida como Tiber Septim, ele conquistou toda Tamriel e iniciou a **[Terceira Era](https://en.uesp.net/wiki/Lore:Third_Era)** (e, com ela, o Terceiro Império). Depois de sua morte, seu espírito ascendeu aos Céus para se tornar o Nono Divino, sob o nome recebido pelos Nords: Talos. Também chamado de Ysmir, o "Dragão do Norte". Cultos menos promenintes, como o Culto a Talos, foram inspirados por sua apoteose. Na Quarta Era, o culto a Talos foi proibido como resultado do Tratado Ouro-Branco. Entretanto, muitos Nords ainda o cultuam apesar dos termos estritos do Tratado.
-* **Principal templo:** Grande Capela de Talos (**[Bruma](https://en.uesp.net/wiki/Lore:Bruma)**, Cyrodiil) - sem templos existentes após o Tratado Ouro-Branco.
+**[Talos](https://en.uesp.net/wiki/Lore:Talos)**, Heir to the Seat of Sundered Kings, is the most important hero-god of Mankind. In his mortal form, known as Tiber Septim, he conquered all of Tamriel and ushered in the **[Third Era](https://en.uesp.net/wiki/Lore:Third_Era)** (and the **[Third Empire](https://en.uesp.net/wiki/Lore:Third_Empire)**). After death, his spirit ascended to the heavens to become the ninth and youngest divine, under the name given to him by the Nords: Talos. Also called Ysmir, "Dragon of the North". Less prominent sects, such as the Talos Cult, have been inspired by his apotheosis. In the **[Fourth Era](https://en.uesp.net/wiki/Lore:Fourth_Era)**, worship of Talos was banned as a result of the White-Gold Concordat. However, many of the Nords of Skyrim continued to revere him despite these strict terms. His aspect Ysmir, "Dragon of the North" is invoked as the patron to questing heroes.
+* **Main temple:** (before the Great War) The Great Chapel of Talos (**[Bruma](https://en.uesp.net/wiki/Lore:Bruma)**, **[Cyrodiil](https://uesp.net/wiki/Lore:Cyrodiil)**) - (after the Great War) Temple of Talos (**[Windhelm](https://en.uesp.net/wiki/Lore:Windhelm)**, **[Skyrim](https://uesp.net/wiki/Lore:Skyrim)**)
 
-#### Bençãos
-* **Básica:** Proeminência em combate
-* **Seita:** ódio aos orcs/raças não-humanas
+#### Blessings
+* **Basic:** Extra die to actions that involve Strength, Endurance and Heavy Armor. Lose one die in actions that involve Intelligence, Perception and magic-related rolls. Ódio irracional contra personagens élficos, especialmente Altmer.
+* **Sect:** TODO

@@ -1,1 +1,0 @@
-# Irmandade Sombria

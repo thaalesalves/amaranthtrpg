@@ -1,1 +1,1 @@
-# Culto Skaal
+# Skaal Cult

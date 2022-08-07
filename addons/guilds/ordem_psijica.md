@@ -1,1 +1,0 @@
-# Ordem Psíjica
