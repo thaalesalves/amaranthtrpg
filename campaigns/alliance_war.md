@@ -1,23 +1,22 @@
 # The Alliance War
+In 2E 430, the Second Empire went through a coup and started to ruin. Since then, the new provinces of Tamriel have been isolating themselves from external interference. This changed in 2E 579, when a big arcane explosion happened in the Imperial City, sending energy waves all over Nirn. Emperor Varen Aquilarios of Cyrodiil persihed, leaving his wife Clivia Tharn and his father-in-law Abnur Tharn, Chancellor of the Elder Council, as leaders of Cyrodiil. The growing number of Daedra started being noticeable around Tamriel, and the constellation of the Serpent grew until it dominated the night sky.
 
-Em 2E 430, o Segundo Império sofreu um golpe fatal e começou a ruir. Desde então, as nova províncias de Tamriel têm se isolado de interferências externas. Isso mudou em 2E 579, quando uma explosão arcana gigantesca ocorreu na Cidade Imperial, mandando ondas de energia por toda Nirn. O Imperador Varen Aquilarios de Cyrodiil pereceu, deixando sua esposa Clivia Tharn e seu sogro Abnur Tharn, Chanceler do Conselho Ancião, como líderes de Cyrodiil. O crescen número de Daedra começou a ser visto por toda Tamriel, e a constelação da Serpente cresceu até dominar o céu noturno.
+The attack of Molag Bal against Mundus took the interest of the Alliances, as the only way to stop him from invading the mortal plane would be to conquer the Ruby Throne and light the Dragonfires to restablish the Convenant of Alessia and protect Mundus from Oblivion. 
 
-A obra de Molag Bal, num plano para dominar Nirn, cresceu o interesse das Alianças no Trono de Rubi, dado que a única forma de impedir o ataque de Tamriel seria reacendendo as Chamas do Dragão. As Alianças são formadas a partir de pactos feitos entre as rivais províncias de Tamriel, todas com interesse em tomar o Trono de Rubi.
+Even with a large scale attack from Daedric forces, the fight for the Ruby Throne keeps going. Spionage, open battles, racism, genocide. Everything happens in Tamriel. Even in closed territories there are fights happened. Elves from Auridon, for example, cannot go to the Summerset Isle without bureaucracy. Inhabitants of Auridon resent those from Summerset, the many kingdoms in Valenwood fight each other, with the Silvenar and the Camoran King having united with the Aldmeri Dominion - with the city of Elden Root being the capital of all the Dominion, which caused even more resentments between Bosmer and Altmer, sicne the latter think Alinor should be celebrated as the capital of the Dominion. The Wilderking did not join the Dominion, and the region of Greenshade remains independent, with the Green Pact reigning supreme over it.
 
-Mesmo com uma invasão Daédrica acontecendo em larga escala, a briga pelo Trono de Rubi continua. Espionagem, batalhas abertas, racismo, genocídios. Tudo acontece em Tamriel. Mesmo em territórios internos existe conflitos, como a Ilha do Semprestio sendo fechada, e nem mesmo Altmer das demais ilhas do Arquipélago do Semprestio podem entrar sem uma grande burocracia. Os habitantes de Auridon ressentem os de Semprestio, os vários reinos internos da Floresta de Valen brigam entre si, com o território do Silvenar e da Dinastia Camoran tendo se unido ao Domínio Aldmeri - com a cidade de Raiz Enciã tendo sido usada como capital de todo o Domínio, o que causou ainda mais ressentimento por parte dos Altmer, que achavam que Alinor deveria ser a capital do Domínio. O Rei Silvestre não se uniu ao Domínio, e a região de Verdejante permanece independente, com o domínio total do Verde. 
+Tensions grown in Morrowind, with the Telvanni having refused to join the Ebonheart Pact, that united Nords, Dunmer and Argonians. Slavery was banned in all the territories of the Pact, but the Telvanni refused to leave their cheap labor, and remain in a slavery regime. The Argonians are in conflict in the south, since many of them stopped worshipping Sithis with the coming of cities and society, and the local population worries about sacred relics that have been stolen.
 
-Tensões aumentam em Brisavinda, com os Telvanni tendo se recusado a participar do Pacto Coração-Ébano, que uniu Nords, Dunmer e Argonianos. A escravatura foi abolida em todo o território do Pacto, mas os Telvanni se recusaram a abrir mão de sua mão-de-obra barata, e permanecem num regime escravocrata. Os Argonianos estão em conflito no sul pois muitos deixaram de cultuar Sithis com a vinda da sociedade e cidades organizadas, e a população se preocupa com relíquias sagradas que foram roubadas. 
+In the northeast, in High Rock, the political fights between the Breton kings are everywhere, as usual. Royal families fight over land, dukes and kings war over cities, and bad influences from Daedra causa all kinds of conflicts in the province.
 
-No noroeste, em Pedra Alta, a briga política entre reis Bretões rola solta, como de costume. Famílias reais entram em conflito por território, duques e reis fazem guerras para tomar conta de cidades, e más influências Daédricas causam todo tipo de conflito na província. 
+# Alliances
+## Ebonheart Pact
 
-# Alianças
-## Pacto Coração-Ébano
+## Aldmeri Dominion
 
-## Domínio Aldmeri
+## Daggerfall Covenant
 
-## Convenção Qued'Adaga
-
-# Campanhas
-## Poleiro de Khenarthi
-## Ilha do Rochedo Congelado
+# Campaigns
+## Khenarthi's Roost
+## Bleakrock Isle
 ## Stros M'kai
