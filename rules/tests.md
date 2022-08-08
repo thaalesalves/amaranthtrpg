@@ -17,7 +17,7 @@ São feitas duas rolagens: uma para determinar o quão bem o ataque sucedeu (Atr
 
 A rolagem para determinar o golpe é feita simplesmente pela soma de pontos do Atributo e do Talento envolvidos na ação. A segunda rolagem é baseada na soma dos pontos de Conhecimento + pontos da Arma usada; adicione na conta a quantidade de sucessos tidos na primeira rolagem e subtraia 1. 
 
-**Exemplo:** Naughtius Maximus tem 3 pontos de Força de Vontade e 2 de Destruição, e vai fazer um ataque de míssil elemental de fogo, que tem a base de dano de 3.
+**Exemplo:** Mike Rotch tem 3 pontos de Força de Vontade e 2 de Destruição, e vai fazer um ataque de míssil elemental de fogo, que tem a base de dano de 3.
 * Primeira rolagem: 10, 6, 3, 6, 7. Foram cinco sucessos. Ele acertou.
 * Segunda rolagem: 5, 7, 9, 9, 7, 9, 9, 2, 5. Foram rolados os 5 dados das habilidades do personagem + 4 sucessos da rolagem anterior (já que um dos sucessos tem que ser subtraído). Foram seis sucessos. Para determinar o dano, é necessário rolar a reação do oponente.
 
@@ -26,7 +26,7 @@ São feitas duas rolagens: uma para determinar o quão bem o ataque sucedeu (Atr
 
 A rolagem para determinar o golpe é feita simplesmente pela soma de pontos do Atributo e do Talento envolvidos na ação. A segunda rolagem é baseada na soma dos pontos de Perícia + pontos da Arma usada; adicione na conta a quantidade de sucessos tidos na primeira rolagem e subtraia 1. 
 
-**Exemplo:** Biggus Dickus tem 3 pontos de Agilidade e 2 de Uma-mão, e vai fazer um ataque de espada. Ele, na segunda coluna, tem 3 pontos de Lâmina, e a espada usada tem como base 5 pontos.
+**Exemplo:** Hugh Jazz tem 3 pontos de Agilidade e 2 de Uma-mão, e vai fazer um ataque de espada. Ele, na segunda coluna, tem 3 pontos de Lâmina, e a espada usada tem como base 5 pontos.
 * Primeira rolagem: 2, 8, 10, 5, 8. Foram quatro sucessos. Ele acertou.
 * Segunda rolagem: 6, 5, 10, 2, 7, 9, 4, 6. Foram rolados os 5 dados das habilidades do personagem + 3 sucessos da rolagem anterior (já que um dos sucessos tem que ser subtraído). Foram quatro sucessos. Para determinar o dano, é necessário rolar a reação do oponente.
 
@@ -47,17 +47,17 @@ A iniciativa é determinada a partir da rolagem dos dados de Força de Vontade +
 ## Arrombamento de fechaduras
 É feita uma rolagem, baseada na soma dos seus modificadores de Furtividade + Arrombamento. 
 
-**Exemplo:** Fernandinus Beiramare quer arrombar a porta de uma casa no Distrito do Plaza de Talos na Cidade Imperial, e tem 4 de Furtividade e 3 de Arrombamento, e, rolando os 7 dados, obteve **(8, 4, 2, 5, 9, 9, 6)**. Se ele conseguiu ou não vai depender da dificuldade do teste e da quantidade de sucessos necessária, coisas que são determinadas pelo Narrador durante a trama.
+**Exemplo:** Volin Habar quer arrombar a porta de uma casa no Distrito do Plaza de Talos na Cidade Imperial, e tem 4 de Furtividade e 3 de Arrombamento, e, rolando os 7 dados, obteve **(8, 4, 2, 5, 9, 9, 6)**. Se ele conseguiu ou não vai depender da dificuldade do teste e da quantidade de sucessos necessária, coisas que são determinadas pelo Narrador durante a trama.
 
 ## Conhecimento
-O seu personagem pode ter conhecimentos específicos da lore, e alguns personagens, como Sotha Sil, Vivec, Jubal lun-Sul, Divayth Fyr e Lorkhan, são capazes de quebrar a quarta parede, pois tem um alto conhecimento sobre o Universo, o Aurbis, o Sonho, Amaranth e Godhead em si. O nível de conhecimento do universo vai ser medido a partir de um teste de Inteligência + Lore, dependendo da dificuldade imposta pelo Narrador.
+O seu personagem pode ter conhecimentos específicos da lore, e alguns personagens, como Sotha Sil, Vivec, Jubal lun-Sul, Divayth Fyr e Lorkhan, são capazes de quebrar a quarta parede, pois tem um alto conhecimento sobre o Universo, o Aurbis, o Sonho, Amaranth e o Godhead em si. O nível de conhecimento do universo vai ser medido a partir de um teste de Inteligência + Lore, dependendo da dificuldade imposta pelo Narrador.
 
 ## Alquimia
 Os moldes de alquimia para o Amaranth foram baseados diretamente nas mecânicas do *Elder Scrolls Online* e *Elder Scrolls V: Skyrim*, onde o jogador precisa de pelo menos dois ingredientes para fazer a infusão. A pureza da água ou do óleo determinam também a qualidade da poção ou veneno, respectivamente. Receitas são necessárias para fazer as infusões, pois é preciso saber os efeitos de cada ingrediente. O personagem pode arriscar misturar tudo para ver no que dá ou usar as receitas que ele adquire. Caso não tenha a receita, a dificuldade da rolagem é de +2, e caso não tenha, fica a dificuldade padrão. Caso a infusão tenha quatro ingredientes e não tenha a receita, a dificuldade é de +4. É usado o seu modificador de Inteligência + Alquimia, e depois Água/Óleo + Ingredientes. O primeiro teste serve para ver o quão bem o personagem de saiu na ação, e o segundo para ver se a ação de fato se concretizou.
 
-**Exemplo:** Incontinentia Buttocks precisa fazer uma poção de cura. Ela tem um pouco de água puríssima retirada das águas azuis do Ancoradouro Frio, uma Ambrósia e um Olho de Dentes de Sabre. Ela faz um teste de sua habilidade alquímica + sua inteligência, que teve **(5, 4, 6, 7, 10)**. Foram quatro sucessos. Ela se saiu bem. O próximo teste é dos ingredientes + a água. Serão rolados 3 dados pela água + 1 dado por ingrediente. No caso, 5 dados. **(2, 8, 6, 10, 7)**. Cinco sucessos. Ela conseguiu criar sua poção de cura.
+**Exemplo:** Annelise Durine precisa fazer uma poção de cura. Ela tem um pouco de água puríssima retirada das águas azuis do Ancoradouro Frio, uma Ambrósia e um Olho de Dentes de Sabre. Ela faz um teste de sua habilidade alquímica + sua inteligência, que teve **(5, 4, 6, 7, 10)**. Foram quatro sucessos. Ela se saiu bem. O próximo teste é dos ingredientes + a água. Serão rolados 3 dados pela água + 1 dado por ingrediente. No caso, 5 dados. **(2, 8, 6, 10, 7)**. Cinco sucessos. Ela conseguiu criar sua poção de cura.
 
 ## Encantamento
 Os moldes de encantamento para o Amaranth foram baseados diretamente nas mecânicas do *Elder Scrolls Online* e *Elder Scrolls V: Skyrim*, onde o jogador precisa de runas com determinado efeito para criar os encantos, além de uma Gema d'Alma específica. São três categorias de runas: Potência, Essência e Aspecto. Para que um encanto seja criado, as runas precisam se alinhar, isto é, a combinação entre elas precisa fazer sentido. A runa de Aspecto determina o quão forte o encanto será, e dá mais ou menos dados no teste. 
 
-**Exemplo:** Álvaro Doubledoor quer criar um encantamento de fogo para sua espada. Ele tem 2 pontos de Encantamento, e uma Jejora (potência - inicial), uma Rakeipa (essência - fogo) e uma Kuta (aspecto - lendário). Ele não sabe como usar uma runa de aspecto lendária pois não tem a habilidade para isso, mas consguiu comprar uma Jejota (aspecto - fino). Ele rola seus modificadores de Inteligência + Encantamento **(6, 8, 4, 8)**, e depois suas runas, que são quatro dados **(8, 8, 6, 9)**. Ele consguiu criar o encanto com maestria. 
+**Exemplo:** Léx Craiment quer criar um encantamento de fogo para sua espada. Ele tem 2 pontos de Encantamento, e uma Jejora (potência - inicial), uma Rakeipa (essência - fogo) e uma Kuta (aspecto - lendário). Ele não sabe como usar uma runa de aspecto lendária pois não tem a habilidade para isso, mas consguiu comprar uma Jejota (aspecto - fino). Ele rola seus modificadores de Inteligência + Encantamento **(6, 8, 4, 8)**, e depois suas runas, que são quatro dados **(8, 8, 6, 9)**. Ele consguiu criar o encanto com maestria. 
