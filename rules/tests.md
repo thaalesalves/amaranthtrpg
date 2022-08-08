@@ -2,7 +2,7 @@
 
 O Amaranth é baseado no Storyteller, o sistema criado pela White Wolf para jogos do Mundo das Trevas, e também é usado em Street Fighter. Para Elder Scrolls, temos outros sistemas, com um grande foco em combate, como o [UESRPG](https://www.reddit.com/r/UESRPG/), um sistema baseado em d100, e o [UESTRPG](https://uestrpg.wixsite.com/home), uma versão do D&D5e adaptada para Elder Scrolls. Ambos sistemas funcionam bem, mas muitos jogadores têm preferência pelo Storyteller, um sistema mais simples com foco em interpretação. Por isso, foi criado o Amaranth: uma versão do V20 (de _Vampiro: a Máscara_) adaptada para Elder Scrolls.
 
-# Testes
+## Rolagens
 Testes são rolagens de dados. Cada ação ou reação pode ter como requerimento a rolagem de um determinado número de dados para saber se o personagem conseguiu ou não realizar o que queria. Quando será necessário rolar o dado é de decisão do mestre, mas temos algumas regras padrão para seguir. Claro, essas regras podem ser moldadas ou alteradas de acordo com a necessidade ou desejo do mestre.
 
 ## Dificuldade

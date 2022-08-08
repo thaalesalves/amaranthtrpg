@@ -12,6 +12,9 @@
 </head>
 
 <body>
+  <!-- PLUGINS THAT NEED TO LOAD BEFORE -->
+  <script src="/plugins/pagename.js"></script>
+
   <div id="app"></div>
   <script>
     window.$docsify = {
@@ -19,6 +22,7 @@
       loadSidebar: true,
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md',
+        '/.*/_navbar.md': '/_navbar.md',
       },
       search: {
         maxAge: 86400000,
@@ -26,7 +30,30 @@
         noData: 'Nothing found!',
         depth: 10,
         hideOtherSidebarContent: false,
-      }
+      },
+      plugins: [
+        titlePlugin({
+          suffix: ' | Amaranth'
+        })
+      ],
+      share: {
+        reddit: true,
+        linkedin: true,
+        facebook: true,
+        twitter: true,
+        whatsapp: true,
+        telegram: true,
+      },
+      progress: {
+        position: "bottom",
+        color: "var(--theme-color,#42b983)",
+        height: "3px",
+      },
+      timeUpdater: {
+        text: "> <strong>Last update:</strong> {docsify-updated}",
+        formatUpdated: "{YYYY}-{MM}-{DD} at {HH}:{mm}",
+        whereToPlace: "top",
+      },
     }
   </script>
 
@@ -34,7 +61,10 @@
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify-wikilink@1"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-wikilink@1"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
+  <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
 </body>
 
 </html>
