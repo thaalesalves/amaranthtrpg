@@ -5,7 +5,7 @@
 		<center><img src="/uploads/races/khajiit.png"
 			height="300"
 			alt="Khajiit">
-		<figcaption style="margin-left: 2%; margin-right: 2%;">Ilustração de um homem Khajiit Suthay-raht típico.</figcaption></center>
+		<figcaption style="color:black; margin-left: 2%; margin-right: 2%;">Ilustração de um homem Khajiit Suthay-raht típico.</figcaption></center>
 	</figure>
 </div>
 

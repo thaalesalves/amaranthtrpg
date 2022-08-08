@@ -1,15 +1,15 @@
-# Raças principais
+# Main races
 
-Esta categoria reúne as 10 principais raças de Tamriel, que são as mais civilizadas e comuns, além de serem as presentes e jogáveis em todos os principais jogos da série.
+This page has information about the 10 main races of Tamriel, which are the most common and civilized ones, as well as the only playable races in most games of the franchise.
 
-# Raças
-- **[Bretão](/races/main/breton):** conhecidos como os Manmer, mistura de elfos e humanos.
-- **[Imperial](/races/main/imperial):** os bem-ditos Imperiais, humanos que governam Tamriel há milênios.
-- **[Nord](/races/main/nord):** os habitantes do Norte, conhecidos como Filhos do Céu, e os mais antigos humanos de Tamriel.
-- **[Rubraguarda](/races/main/redguard):** os humanos vindos originalmente do continente perdido de Yokuda.
-- **[Altmer](/races/main/altmer):** a mais antiga e pura raça de elfos, descendentes diretos os antigos Aldmer, também chamados de Altos Elfos.
-- **[Bosmer](/races/main/bosmer):** filhos de Y'ffre, conhecidos como Elfos da Floresta, a única raça élfica não-Aldmeri.
-- **[Dunmer](/races/main/dunmer):** os nativos de Brisavinda, a terra das cinzas, também chamados de Elfos Negros.
-- **[Orsimer](/races/main/orsimer):** raça élfica que traça sua origem à separação dos Aldmer e dos Chimer, e são conhecidos como Orcs.
-- **[Argoniano](/races/main/argonian):** os homens-lagarto nativos de Argônia, que têm uma ligação mística com as árvores do Hist.
-- **[Khajiit](/races/main/khajiit):** os homens-gato de Elsweyr, filhos de Lorkhaj, com sua relação única com Jone e Jode, as luas que orbitam Nirn.
+# Races
+- **[Breton](/races/main/breton):** known as the Manmer, a mix of Man and Mer
+- **[Imperial](/races/main/imperial):** the well-spoken Imperials, the human race that have ruled Tamriel for millenia
+- **[Nord](/races/main/nord):** the inhabitants of the North, known as the Children of the Sky, and the oldest human race in Tamriel
+- **[Redguard](/races/main/redguard):** descendants of the Ra Gada, humans that came from the lost land of Yokuda
+- **[Altmer](/races/main/altmer):** the oldest and purest elven race in Tamriel, direct descendants of the Aldmer, also known as High Elves
+- **[Bosmer](/races/main/bosmer):** the children of Y'ffre, also known as Wood Elves, the only non-Aldmeri elven race
+- **[Dunmer](/races/main/dunmer):** natives of Morrowind, the land of ash, also known as Dark Elves
+- **[Orsimer](/races/main/orsimer):** elven race whose origins trace back to the exodus of the Chimer from the Aldmer, most commonly known as Orcs
+- **[Argonian](/races/main/argonian):** the lizard-men from Argonia, that have a special connection to the Hist Trees
+- **[Khajiit](/races/main/khajiit):** the cat-men of Elsweyr, children of Lorkhaj, whose link to the Moons Jone and Jode dictate their characteristics

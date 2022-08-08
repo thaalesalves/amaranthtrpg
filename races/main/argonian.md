@@ -1,15 +1,15 @@
-# Argoniano
+# Argonian
 
 <div style="float: right; margin-right: 1%; background: #fbfbfc; border: 2px black solid;">
 	<figure>
 		<center><img src="/uploads/races/argonian.png"
 			height="300"
-			alt="Argoniano">
-		<figcaption style="margin-left: 2%; margin-right: 2%;">Ilustração de um homem Argoniano típico.</figcaption></center>
+			alt="Argonian">
+		<figcaption style="color:black; margin-left: 2%; margin-right: 2%;">Illustration of a typical male Argonian</figcaption></center>
 	</figure>
 </div>
 
-**[Argonianos](https://pt.uesp.net/wiki/Lore:Argoniano)** (em sua língua nativa, Jel, são chamados de **Saxhleel**, ou **Povo da Raiz**) são os nativos reptilianos de Pântano Negro, um vasto pantanal no sudeste de Tamriel. As outras raças preferem chamá-los de “lagartos” ou “Povo Lagarto”, especialmente quando querem ser desdenhosos. Eles são conhecidos como os principais especialistas em guerrilha por todo Coração Estrelado, uma reputação dada por defenderem suas fronteiras de inimigos durante incontáveis séculos. Argonianos tem uma expectativa de vida similar a dos humanos. De acordo com o estudioso da Primeira Era Brendan, o Persistente: “os Argonianos, ao longo da história Tamriélica, talvez tenham sido os mais incompreendidos, difamados e injuriados de todas as raças sencientes. Porém, aqueles que tiveram um tempo para experimentar a cultura Argoniana obtiveram uma maior apreciação por esse nobre e lindo povo”. Entretanto, deve notar-se que ele desapareceu na sua expedição final nos pântanos profundos da terra natal deles.
+**[Argonians](https://uesp.net/wiki/Lore:Argonian)** (**Saxhleel**, or **People of the Root** in their native language of Jel) are the reptilian natives of **[Black Marsh](https://uesp.net/wiki/Lore:Black_Marsh)**, a vast swampland province in southeastern **[Tamriel](https://uesp.net/wiki/Lore:Tamriel)**. The other races often refer to them as "lizards" or the "Lizard Folk" instead, especially when meaning to be derogatory. They are known as the foremost experts in guerrilla warfare throughout Tamriel, a reputation brought upon them by defending their borders from enemies for countless centuries. They have a connection to the Hist, a race of sentient trees.
 
-# Características
-Os Argonianos são conhecidos por sua agilidade e resistência em ambientes difíceis e até tóxicos para as demais raças. Os nascidos sob o signo da Sombra são conhecidos como Escamas Sombrias, e são entregues à Irmandade Sombria quando bebês, e criados sob os ensinamentos da Irmandade. São cultuadores assíduos de Sithis, e toda sua cultura se baseia no Caos do Vácuo, além de serem magos natos usando o Hist ou as artes arcanas. Ganham **+1 ponto** em Resistência **ou** Agilidade, e **+1 ponto** em Furtividade, Punguismo, Restauração, Lança, Alquimia **ou** Destruição. Devido a sua natureza tribal e ritualística, ganham **+1 ponto** em Rituais, e **+1 ponto** em algum feitiço de Restauração ou Destruição, dependendo de qual escola tiver mais pontos na ficha do personagem. A **Seiva do Hist** lhes dá a habilidade de respirar debaixo d'água.
+# Characteristics
+Argonians are known for their agility and endurance in hard and even toxic environments. Those born under the sign of the Shadow are known as **[Shadowscales](https://en.uesp.net/wiki/Lore:Shadowscales)**, and are given to the **[Dark Brotherhood](https://en.uesp.net/wiki/Lore:Dark_Brotherhood)** as babies, and raised under the teachings of the Brotherhood. They're worshippers of **[Sithis](https://en.uesp.net/wiki/Lore:Sithis)**, and all their culture is based on the Chaos of the Void, as well as being great mages using the Hist or the arcane arts. They get **+1 point** in Endurance **or** Agility, and **+1 point** in Stealth, Pickpocket, Restoration, Spear, Alchemy **or** Destruction. Due to their ritualistic and tribal nature, they get **+1 point** in Rituals, and **+1 point** in some spell from the Destruction or Restoration school, depending on which one the character's more prominent with. **Hist Sap** gives them the ability to breath under water.

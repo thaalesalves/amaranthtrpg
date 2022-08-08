@@ -5,7 +5,7 @@
 		<center><img src="/uploads/races/orc.png"
 			height="300"
 			alt="Orsimer">
-		<figcaption style="margin-left: 2%; margin-right: 2%;">Ilustração de um homem Orsimer típico.</figcaption></center>
+		<figcaption style="color:black; margin-left: 2%; margin-right: 2%;">Ilustração de um homem Orsimer típico.</figcaption></center>
 	</figure>
 </div>
 
