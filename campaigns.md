@@ -1,6 +1,6 @@
 # Campaigns
 
-## Campaigns vased on games
+## Campaigns based on games
 * **[The Alliance War](/campaigns/alliance_war):** 2E 582: contemporary to *The Elder Scrolls Online*. The war between the Alliances of Tamriel for the Ruby Throne
 * **[The Planemeld](/campaigns/planemeld):** 2E 582: contemporary to *The Elder Scrolls Online*. Molag Bal's invation of Nirn to dominate the plane(t) and merge it with his Coldharbour
 * **[The Oblivion Crisis](/campaigns/oblivion_crisis):** 3E 433: contemporary to *The Elder Scrolls IV: Oblivion*. Mehrunes Dagon's invasion of Mundus to take over the plane(t)
