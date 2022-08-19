@@ -28,10 +28,10 @@ As mentioned above, it is necessary to have a solvent to produce the brews, and 
 
 #### Waters
 * **Novice:** Natural water (Sip of XXXX)
-* **Adept:** Clear water (Tincture of XXXX)
-* **Expert:** Cleansed water (Potion of XXXX)
-* **Master:** Filtered water (Distillate of XXXX)
-* **Grandmaster:** Purified water (Essence of XXXX)
+* **Adept:** Clear water (Serum of XXXX)
+* **Expert:** Cleansed water (Draught of XXXX)
+* **Master:** Filtered water (Solution of XXXX)
+* **Grandmaster:** Purified water (Elixir of XXXX)
 
 #### Oils
 * **Novice:** Grease (Sip of Poison of XXXX)
