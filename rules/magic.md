@@ -1,11 +1,11 @@
-# Magia
+# Magic
 
-A Magia é dividida em áreas de estudo que tratam de tipos específicos de feitiço. Escolas e feitiços mudaram muito ao decorrer da história de Tamriel.
+Magic is divided in areas of knowledge that deal with specific types of spells. Schools and spells have changed a lot throughout Tamriel's history.
 
-- **[Alteration](/rules/magic/alteration):** a arte de manipular o mundo físico através da magia arcana
-- **[Conjuration](/rules/magic/conjuration):** a arte de evocar entidades e objetos de outros planos
-- **[Destruction](/rules/magic/destruction):** a arte do combate mágico
-- **[Enchanting](/rules/magic/enchanting):** a arte de colocar propriedades extra em materiais inorgânicos
-- **[Illusion](/rules/magic/illusion):** a arte de alterar o que os outros veem
-- **[Mysticism](/rules/magic/mysticism):** a arte de manipular o universo e a magia em si
-- **[Restoration](/rules/magic/restoration):** a arte da cura mágica
+- **[Alteration](/rules/magic/alteration):** the art of manipulating the physical world through arcane magic
+- **[Conjuration](/rules/magic/conjuration):** the art of summoning entities and objects from other planes of existance
+- **[Destruction](/rules/magic/destruction):** the art of magical combat
+- **[Enchanting](/rules/magic/enchanting):** the art of adding extra properties to inorganic materials
+- **[Illusion](/rules/magic/illusion):** the art of manipulating what people can see, feel or perceive
+- **[Mysticism](/rules/magic/mysticism):** the art of manipulating the universe and magic itself
+- **[Restoration](/rules/magic/restoration):** the art of magical cure

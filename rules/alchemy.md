@@ -1,41 +1,41 @@
-# Alquimia
-Criada pelos [Direnni](https://uesp.net/wiki/Lore:De_Rerum_Dirennis) de Pedra Alta, a Alquimia é a arte de misturar, ferver e destilar várias substâncias para obter propriedades magialquímicas e criar poções e venenos.
+# Alchemy
+Created by the [Direnni](https://uesp.net/wiki/Lore:De_Rerum_Dirennis) of **[High Rock](https://en.uesp.net/wiki/Lore:High_Rock)**, **[Alchemy](https://en.uesp.net/wiki/Lore:Alchemy)** is the art of mixing, boiling, distilling and brewing various substances to obtain their concentrated magi-alchemical properties to create potions and poisons.
 
-## Criando poções & venenos
-Os moldes de alquimia para o Amaranth foram baseados diretamente nas mecânicas do *Elder Scrolls Online* e *Elder Scrolls V: Skyrim*, onde o jogador precisa de pelo menos dois ingredientes para fazer a infusão. A pureza do solvente (água ou óleo) usado determina também a qualidade da poção ou veneno, respectivamente. Receitas são necessárias para fazer as infusões, pois é preciso saber os efeitos de cada ingrediente. O personagem pode arriscar misturar tudo para ver no que dá ou usar as receitas que ele adquire. Caso não tenha a receita, a dificuldade da rolagem é de +2, e caso não tenha, fica a dificuldade padrão. Caso a infusão tenha quatro ingredientes e não tenha a receita, a dificuldade é de +4. É usado o seu modificador de Inteligência + Alquimia, e depois Água/Óleo + Ingredientes. O primeiro teste serve para ver o quão bem o personagem de saiu na ação, e o segundo para ver se a ação de fato se concretizou.
+## Brewing potions and poisons
+Alchemy in Amaranth was directly based on the mechanics used by **Elder Scrolls Online** and **The Elder Scrolls V: Skyrim**, where the player needs at least two ingredients to make the infusion. The purity of the water or oil used to brew the potion determine the quality of the potion or poison prepared, respectively. Recipes are necessary to create the infusions, since it is necessary to know the effects of each ingredient. The character may also risk mixing random ingredients to see the results. In case the character does not have a recipe to a potion, the difficulty of the rolls is increased by +2. In case they do have a recipe, then the roll has the default difficulty. In case the infusion has four ingredients but doesn't have a recipe, the difficulty is then increased by +4. The modifiers used for the roll are Ingelligence + Alchemy, and then Water/Oil + Ingredients. The first test defines how well the action succeeded, and the second determines if the action has in fact been done.
 
-**Exemplo:** Incontinentia Buttocks precisa fazer uma poção de cura. Ela tem um pouco de água puríssima retirada das águas azuis do Ancoradouro Frio, uma Ambrósia e um Olho de Dentes de Sabre. Ela faz um teste de sua habilidade alquímica + sua inteligência, que teve **(5, 4, 6, 7, 10)**. Foram quatro sucessos. Ela se saiu bem. O próximo teste é dos ingredientes + a água. Serão rolados 3 dados pela água + 1 dado por ingrediente. No caso, 5 dados. **(2, 8, 6, 10, 7)**. Cinco sucessos. Ela conseguiu criar sua poção de cura.
+**Example:** Annelise Durine needs a health potion. She has some **Cleansed Water** she got from **[Colharbour](https://en.uesp.net/wiki/Lore:Colharbour)**, an **Ambrosia** and an **Eye of Sabre Cat**. She rolls her Alchemy + Intelligence, and gets **(5, 4, 6, 7, 10)**. Four successes. She did well. The next text is for the Ingredients + Water. 3 dice will be rolled for the water (as Cleansed Water is the third type of water), +1 die per ingredient, summing up to 5 dice. **(2, 8, 6, 10, 7)**. Five successes. She succeeded in creating her health potion.
 
-## Poções, venenos e ingredients
-O Amaranth usa a lista de ingredientes padrão dos jogos da série, e usando a mecânica acima, os jogadores podem juntar ingredientes e criar infusões. A lista de poções dos jogos também pode ser aproveitada, mas fica a carga do narrador decidir como e qual poção será gerada a partir dos ingredientes que o jogador usar.
+## Potions, poisons and ingredients
+Amaranth uses the default ingredients from the series, but in the mechanic described above. The Narrator is free to create their own ingredients, but the default ones may be used as well.
 
-### Infusões
-- **[Poções do TESIII: Morrowind](https://en.uesp.net/wiki/Morrowind:Potions):** infusões alquímicas com efeitos positivos contidas no The Elder Scrolls III: Morrowind
-- **[Venenos do TESIII: Morrowind](https://en.uesp.net/wiki/Morrowind:Poison):** infusões alquímicas com efeitos negativos contidas no The Elder Scrolls III: Morrowind
-- **[Poções & Venenos do TESIV: Oblivion](https://en.uesp.net/wiki/Oblivion:Potions):** infusões alquímicas contidas no The Elder Scrolls IV: Oblivion
-- **[Poções & Venenos do TESV: Skyrim](https://en.uesp.net/wiki/Skyrim:Potions):** infusões alquímicas contidas no The Elder Scrolls V: Skyrim
-- **[Poções do ESO](https://en.uesp.net/wiki/Online:Potions):** infusões alquímicas com efeitos positivos contidas no The Elder Scrolls Online
-- **[Venenos do ESO](https://en.uesp.net/wiki/Online:Poisons):** infusões alquímicas com efeitos negativos contidas no The Elder Scrolls Online
+### Infusions
+- **[Potions from TESIII: Morrowind](https://en.uesp.net/wiki/Morrowind:Potions)**
+- **[Poisons from TESIII: Morrowind](https://en.uesp.net/wiki/Morrowind:Poison)**
+- **[Potions & Poisons from TESIV: Oblivion](https://en.uesp.net/wiki/Oblivion:Potions)**
+- **[Potions & Poisons from TESV: Skyrim](https://en.uesp.net/wiki/Skyrim:Potions)**
+- **[Potions from ESO](https://en.uesp.net/wiki/Online:Potions)**
+- **[Poisons from ESO](https://en.uesp.net/wiki/Online:Poisons)**
 
-### Ingredientes
-- **[Ingredientes do TESIII: Morrowind](https://en.uesp.net/wiki/Morrowind:Alchemy_Effects):** lista de ingredients do The Elder Scrolls III: Morrowind
-- **[Ingredientes do TESIV: Oblivion](https://en.uesp.net/wiki/Oblivion:Ingredients):** lista de ingredients do The Elder Scrolls IV: Oblivion
-- **[Ingredientes do TESV: Skyrim](https://en.uesp.net/wiki/Skyrim:Ingredients):** lista de ingredients do The Elder Scrolls V: Skyrim
-- **[Ingredientes do ESO](https://en.uesp.net/wiki/Online:Alchemy_Ingredients):** lista de ingredients do The Elder Scrolls Online
+### Ingredients
+- **[Ingredients from TESIII: Morrowind](https://en.uesp.net/wiki/Morrowind:Alchemy_Effects)**
+- **[Ingredients from TESIV: Oblivion](https://en.uesp.net/wiki/Oblivion:Ingredients)**
+- **[Ingredients from TESV: Skyrim](https://en.uesp.net/wiki/Skyrim:Ingredients)**
+- **[Ingredients from ESO](https://en.uesp.net/wiki/Online:Alchemy_Ingredients)**
 
-### Solventes
-Como mencionado, é necessário um solvente para produzir poções, e a qualidade do solvente usado influencia no resultado final. A lista de solventes do Amaranth é baseada na do Elder Scrolls online (vide lista de ingredientes do ESO no link acima), mas adaptada para os níveis que o Amaranth fornece. Para fazer uma poção, usa-se água como solvente. Para fazer um veneno, usa-se óleo. A possibilidade de uso de cada solvente também é baseada no nível de alquimia do personagem.
+### Solvents
+As mentioned above, it is necessary to have a solvent to produce the brews, and the solvent's quality will determine the final result. The list of solvents Amaranth uses is based on that from Elder Scrolls Online, but adapted to the levels Amaranth provides. To brew a potion, water will be required as a solvent. For a poison, oil is used as the solvent. The possibility of use of each solvent is based on the character's Alchemy level.
 
-#### Águas
-* **Noviço:** Água natural (Trago de XXXX)
-* **Adepto:** Água limpa (Extrato de XXXX)
-* **Expert:** Água filtrada (Solução de XXXX)
-* **Mestre:** Água purificada (Elixir de XXXX)
-* **Grão-mestre:** Lágrimas de Lorkhan (Essência de XXXX)
+#### Waters
+* **Novice:** Natural water (Sip of XXXX)
+* **Adept:** Clear water (Tincture of XXXX)
+* **Expert:** Cleansed water (Potion of XXXX)
+* **Master:** Filtered water (Distillate of XXXX)
+* **Grandmaster:** Purified water (Essence of XXXX)
 
-#### Óleos
-* **Noviço:** Gordura (Trago de Veneno de XXXX)
-* **Adepto:** Pus (Extrato de Veneno de XXXX)
-* **Expert:** Bile (Veneno Fraco de XXXX)
-* **Mestre:** Alcatrão (Veneno Potente de XXXX)
-* **Grão-mestre:** Alkahest (Veneno Virulento de XXXX)
+#### Oils
+* **Novice:** Grease (Sip of Poison of XXXX)
+* **Adept:** Pus (Watery Poison of XXXX)
+* **Expert:** Bile (Weak Poison of XXXX)
+* **Master:** Tarblack (Strong Poison of XXXX)
+* **Grandmaster:** Alkahest (Virulent Poison of XXXX)

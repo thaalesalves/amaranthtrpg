@@ -1,105 +1,112 @@
-# Ficha
+# Character sheet
 
-É baseada, assim como as regras gerais, na edição de vigésimo aniversário do *Mundo das Trevas*, com o *Storyteller*, da *White Wolf*, com algumas alterações. Puxa elementos de vários subsistemas do Storyteller, como o V20, W20 e o M20 (as edições de vigésimo aniversário de *World of Darkness*). Os atributos e habilidades estão sendo revistos um a um para se adequarem ao universo Elder Scrolls, e, ao invés de a base de pontos para atributos e habilidades ser de 5, foram adaptadas para 10. Ou seja, os personagens têm um range maior de habilidades, com cada ponto significando menos do que significava antes.
+Both Amaranth's rules and sheet are based in the **20th anniversary edition** of the **World of Darkness** character sheets, that use **White Wolf's Storyteller** as the base system. Amaranth's sheet has elements and subsystems from V20 (Vampire: the Masquerade), W20 (Werewolf: the Apocalypse) and M20 (Mage: the Ascension). Attributes and abilities are revised to match the Elder Scrolls universe, and the max levels for each one of those is now 10 instead of the usual 5. With that in mind, characters may have a higher range of skills, with each point being less owrth than other Storyteller systems.
 
-O Storyteller tem uma distribuição de pontos característica, que deve ser seguida. Cada signo e personalidade têm suas particularidades e, portanto, alguns pontos a mais ou a menos, mas existe uma base fixa padrão. Baixe a ficha [aqui](https://amaranth.thalesalv.es/uploads/arquivos/amaranth-pt.pdf).
+Storyteller has a characteristic distribution of points that must be followed. Each sign and personality have their own traits and particularities, thus, they might have more or fewer points, although there's a "default" base. The sheet can be found here (both in english and portuguese).
 
-Para mais detalhes, veja os artigos principais
-- **[Flaws](/rules/sheet/flaws):** traços físicos ou de personalidade que o dão mais freebies.
-- **[Merits](/rules/sheet/merits):** traços físicos ou de personalidade que custam pontos.
-- **[Attributes](/rules/sheet/attributes):** características da personalidade do personagem.
-- **[Abilities](/rules/sheet/abilities):** habilidades do personagem.
-- **[Astrology](/rules/sheet/astrology):** a constelação sob a qual o personagem nasceu.
-- **[Atencedentes](/rules/sheet/backgrounds):** antecedentes do personagem.
-- **[Archetypes](/rules/sheet/archetypes):** natureza e comportamento do personagem.
+* **[Character sheet (english) - colored version](/uploads/files/amaranth-en.pdf)**
+* **[Character sheet (english) - B&W version](/uploads/files/amaranth-en-bw.pdf)**
+* **[Ficha de personagem (português) - versão colorida](/uploads/files/amaranth-pt.pdf)**
+* **[Ficha de personagem (português) - versão P&B](/uploads/files/amaranth-pt-pb.pdf)**
 
-# Distribuição de pontos
-Os pontos são divididos em colunas, que agrupam tipos específicos de Atributos ou Habilidades. O jogador ganha N pontos para distribuir em cada coluna de cada item da ficha.
-## Exemplo
-Baldor Melcar, um Bosmer de Raiz Enciã, é um dos magos da Corte do Rei Camoran. Na criação de ficha, ele tem 7/5/3 pontos para Atributos, isto é, 7 pontos para distribuir em uma das colunas, 5 para distribuir em outra e 3 para distribuir em outra. Como ele é um mago, resolveu colocar 7 pontos na coluna de Atributos Mentais, 5 na de Sociais e 3 na de Atributos Físicos. Ganhou, para Habilidades, 13/9/5, e colocou 13 pontos na fileira de Conhecimentos, 9 na de Perícias e 5 na de Talentos, dando mais pontos para a coluna que contém habilidades mágicas, e não dando tanta importância para talentos físicos.
+For more information, read the main articles
+- **['Flaws](/rules/sheet/flaws):** physical or personality traits that give freebie points (and are usually negative)
+- **[Merits](/rules/sheet/merits):** physical or personality traits that cost freebie points (and are usually positive)
+- **[Attributes](/rules/sheet/attributes):** character's personality traits
+- **[Abilities](/rules/sheet/abilities):** character's talents, skills and knowledges
+- **[Astrology](/rules/sheet/astrology):** the constellation the character was born under
+- **[Backgrounds](/rules/sheet/backgrounds):** character's traits that may represent their backstory
+- **[Archetypes](/rules/sheet/archetypes):** character's nature and demeanor'
 
-# Níveis de personagem
-## Níveis de ficha
-Foi criada a partir do níveis de jogo contidos nos jogos de Elder Scrolls. Cada nível tem uma quantidade diferente de pontos para colocar em cada item durante a criação da ficha. É de liberdade do mestre a forma como níveis serão feitos, mas a regra padrão para o sistema segue. O nível básico padrão é Noviço, mas o Narrador pode decidir dar níveis iniciais diferentes caso queira.
+## Point distribution
+Points are divided in columns, which group specific ability or attribute types. The player gains N points that have to be distributed in each column of each item in the sheet.
 
-* **Noviço:** 7/5/3 (Atributos), 13/9/5 (Habilidades), 3 (Feitiços), 5 (Antecedentes), 15 freebies.
-* **Adepto:** 10/8/6 (Atributos), 16/12/8 (Habilidades), 6 (Feitiços), 8 (Antecedentes), 20 freebies.
-* **Expert:** 13/11/9 (Atributos), 19/15/11 (Habilidades), 9 (Feitiços), 11 (Antecedentes), 25 freebies.
-* **Mestre:** 16/14/12 (Atributos), 22/18/14 (Habilidades), 12 (Feitiços), 14 (Antecedentes), 30 freebies.
-* **Grão-mestre:** 19/17/15 (Atributos), 25/21/17 (Habilidades), 15 (Feitiços), 17 (Antecedentes), 35 freebies.
+### Example
+Baldor Melcar, a Bosmer from Elden Root, is one of King Camoran's court mages. In his sheet, he has 7/5/3 points to be distributed between his Attributes, meaning that he may use 7 in one of the columns, 5 in another and 3 on the last one. Being a mage, he chose to use 7 points in the Mental Attributes column, 5 in the Social column and 3 in the Physical column. For his abilities, he has 13/9/5, and used 13 in the Knowledges column, 9 in the Skills column and 5 in the Talents column, giving the larger point group to the column that contains magical abilities, making the physical talents less important.
 
-## Níveis de habilidade
+## Character levels
+### Sheet levels
+Levels in Amaranth are directly based on those seen in Elder Scrolls games. Each level has a different amount of points that may be distributed between the columns during character creation. The Narrator may choose the approach used for levels, but there's still a default rule the system offers. Novice is the most basic level, and the Narrator is free to add, remove or rename these levels at will.
+
+* **Novice:** 7/5/3 (Attributes), 13/9/5 (Abilities), 3 (Spells), 5 (Backgrounds), 15 freebies.
+* **Adept:** 10/8/6 (Attributes), 16/12/8 (Abilities), 6 (Spells), 8 (Backgrounds), 20 freebies.
+* **Expert:** 13/11/9 (Attributes), 19/15/11 (Abilities), 9 (Spells), 11 (Backgrounds), 25 freebies.
+* **Master:** 16/14/12 (Attributes), 22/18/14 (Abilities), 12 (Spells), 14 (Backgrounds), 30 freebies.
+* **Grandmaster:** 19/17/15 (Attributes), 25/21/17 (Abilities), 15 (Spells), 17 (Backgrounds), 35 freebies.
+
+## Ability points
+Distributed points also follow a general rule for leveling, and that determines whether you can use a certain item or spell or not. For example, to use a steel sword, you need to be at least Adept in the Blade Skill. That requires between 3 and 4 points minimum.
 Os pontos distribuídos também têm seus próprios níveis, e você pode ou não usar determinado item ou feitiço baseado nele. Por exemplo, para usar uma espada de aço, você precisa ser Adepto na Perícia de Lâmina. Ou seja, você precisa ter entre 3 e 4 pontos nesta habilidade, no mínimo.
 
-* **Noviço:** 1 a 2 pontos.
-* **Adepto:** 3 a 4 pontos.
-* **Expert:** 5 a 6 pontos.
-* **Mestre:** 7 a 8 pontos.
-* **Grão-mestre:** 9 a 10 pontos.
+* **Novice:** 1 to 2 points.
+* **Adept:** 3 to 4 points.
+* **Expert:** 5 to 6 points.
+* **Master:** 7 to 8 points.
+* **Grandmaster:** 9 to 10 points.
 
-Atente-se a estes títulos ao selecionar seu equipamento. O personagem não será capaz de usar itens acima de seu nível.
+Pay attention to these titles when you select your gear. Your character won't be able to use items above their level.
 
-# Atributos
-Atributos são características da personalidade do personagem. São dividas em 3 categorias: Físicas, Sociais e Mentais. Saiba mais no [artigo principal](/rules/sheet/attributes/).
+# Attributes
+Attributes are the character's personality traits. They're divided into 3 categories: Physical, Social and Mental. Read more in the [main article](/rules/sheet/attributes).
 
-# Habilidades
-Habilidades são características referentes ao que o personagem sabe fazer. São dividas em 3 categorias: Talentos, Perícias e Conhecimentos. Saiba mais no [artigo principal](/rules/sheet/abilities/).
+# Abilities
+Abilities represent what the character can do. They're divided into 3 categories: Talents, Skills and Knowledges. Read more in the [main article](/rules/sheet/abilities).
 
-# Vantagens
-## Feitiços
-São magias concentradas para proteger, causar dano ou alterar o mundo à volta. Veja o [artigo principal](/magic/feiticos).
+# Advantages
+## Spells
+Spells are concentrated magic that allow the character to reach goals, attack, defend themself or change the world around them. Read more in the [main article](/magic/spells).
 
-## Antecedentes
-Características que trazem vantagens para seus personagens baseados na história dele. Veja o [artigo principal](/rules/sheet/backgrounds).
+## Backgrounds
+Traits that bring advantages to a character based on their backstory. Read more in the [main article](/rules/sheet/backgrounds).
 
-## Defeitos & qualidades
-Traços de personalidade, físicos, sociais ou mentais de seu personagem. Veja o artigo principal [de qualidades](/rules/sheet/merits) e o [de defeitos](/rules/sheet/flaws).
+## Merits & flaws
+Personality, physical, social or mental traits a character may haves. Merits cost points, while flaws give you more points. Read more in the main article for [merits](/rules/sheet/merits) or [flaws](/rules/sheet/flaws).
 
 ## Magicka
-Magicka é a força que torna possível a existência da magia arcana. É dito que a Magicka chega em Mundus através de Magnus, o Sol, e arquiteto de Mundus. É possível até 50 pontos de Magicka, que são usados para fazer ações mágicas. É determinada a partir da soma dos pontos de Força de Vontade e Magia do personagem (que se torna o seu limite máximo ao recarregar, a não ser que haja aumento permanente de alguma forma). Recarrega fora de combate, ao descansar.
+**[Magicka](https://en.uesp.net/wiki/Lore:Magic)** is the force that makes the arcane arts possible. It is said that Magicka comes to **[Mundus](https://en.uesp.net/wiki/Lore:Mundus)** through **[Magnus](https://en.uesp.net/wiki/Lore:Magnus)**, the Sun, who is also Mundus' architect. It is possible to have a maximum of 50 Magicka points, and they're used to make magical actions. The character's Magicka pool is determined by the sum of their Willpower and Magic points (and this becomes the maximum limit when recharging Magicka, unless there a permanent increase somehow). Magicka is recharged when the character rests.
 
-## Estâmina
-Estâmina é a energia física do personagem. Usada em golpes e movimentos físicos. É determinada a partir da soma dos pontos de Resistência e Força (que se torna o seu limite máximo ao recarregar, a não ser que haja aumento permanente de alguma forma). Recarrega fora de combate, ao descansar.
+## Stamina
+Stamina is the character's physical energy. It is used in blows and physical movements. It is determined by the sum of Endurance and Strength points (and this becomes the maximum limit when recharging Stamina, unless there a permanent increase somehow). Stamina is recharged when the character rests.
 
-## Dano
-Especifica o tipo de dano que seu personagem tem, que varia de arranhões até incapacitação. A ficha especifica alguns tipos de dano, cada um com sua penalidade, que podem ser Contusivo, Atordoado, Letal, Agravado ou Inconsciente.
-* **Escoriado:** nenhuma penalidade.
-* **Machucado:** penalidade de -1 dado mas sem penalidades de movimentação.
-* **Injuriado:** penalidade de -1 dado com o movimento levemente impedido.
-* **Ferido:** penalidade de -2 dados e o movimento é limitado a andar.
-* **Espancado:** penalidade de -2 dados com o movimento significativamente impedido.
-* **Aleijado:** penalidade de -5 dados e o movimento é quase impossível.
-* **Incapacitado:** inconsciência completa.
+## Damage
+Types of damage a character may have taken, and this varies from bruises to complete incapacitation. The sheet specifies these types, each one with its own penalty, that may be Bashing, Stunning, Lethal, Aggravated or Unconscious.
+* **Bruised:** no penalty.
+* **Hurt:** -1 die but no movement penalty.
+* **Injured:** -1 die with movement slightly restrained.
+* **Wounded:** -2 dice and the character may only walk.
+* **Mauled:** -2 dice and movement's considerably restrained
+* **Crippled:** -5 dice with almost impossible movement.
+* **Incapacitated:** completely unconscious or immovable.
 
-Nas caixas de marcação, é necessário especificar o outro tipo de dano.
-* **Contusivo:** Indicador / na ficha. Usa pontos de stamina para resistir. Regenera rapidamente.
-* **Atordoado:** Ao sofrer dano maior que o modificador de Resistência. Perde as ações deste turno mas pode agir normalmente no próximo. Deve usar a ação atual para resistir o ataque.
-* **Letal:** Indicador X na ficha. Usa pontos de stamina para resistir. Leva um tempo para regenerar.
-* **Agravado:** Indicador * na ficha. Usa Resistência e Stamina para resistir. Leva mais tempo para regenerar.
-* **Inconsciente:** Teste de Resistência + Atlética. Com sucesso, consegue levantar, mas leva -2 de iniciativa no próximo turno. Com falha, usa próxima ação para levantar, e também leva -2 de iniciativa no próximo turno. Falha crítica permite que se levante no próximo turno, mas leva 1 de dano Contusivo.
+In the checkboxes, it is necessary to specify another damage type.
+* **Bashing:** Draw a / in the checkbox. Uses stamina points to resist. Regenerates quickly.
+* **Stunning:** When the damage taken is higher than the Endurance modifier. Loses the actions in the current turn but can act normally in the next. Must use the current action to resist the attack.
+* **Lethal:** Draw an X in the checkbox. Uses stamina points to resist. Takes more time to regenerate.
+* **Aggravated:** Draw a * in the checkbox. Uses Endurance and Stamina to regenerate. Takes longer to regenerate.
+* **Unconscious:** Roll Endurance + Athletics. If the test succeeds, the character can get up, but takes -2 initiative in the next turn. If the roll fails, uses next action to get up, and also takes -2 initiative in the next turn. Critical failures allow the character to get up in the next turn, but they also take 1 in Bashing damage.
 
 # Freebies
-Freebies são pontos adicionais que você ganha durante a criação de personagem. São usados para comprar pontos para os atributos. Vide [seção de níveis de ficha](/rules/sheet#niveis-de-ficha) para saber quantos freebies você tem de acordo com o nível de personagem estabelecido pelo Narrador.
+Freebies are additional points you get during character creation. They're used to buy traits. Read the [sheet levels section](/rules/sheet#sheet-levels) to find out how many freebies you get according to the level established by the Narrator for your character.
 
-|Traço|Custo|
+|Trait|Cost|
 |---|---|
-|**Atributo**|5 freebies por ponto|
-|**Habilidade**|2 freebies por ponto|
-|**Feitiço**|2 freebies por ponto|
-|**Antecedente**|1 freebie por ponto|
-|**Magicka**|10 freebies por ponto|
-|**Stamina**|10 freebies por ponto|
-|**Artefato**|2 freebies por ponto|
+|**Attibute**|5 freebies per point|
+|**Ability**|2 freebies per point|
+|**Spell**|2 freebies per point|
+|**Backgound**|1 freebie per point|
+|**Magicka**|10 freebies per point|
+|**Stamina**|10 freebies per point|
+|**Artifact**|2 freebies per point|
 
-# Experiência
-Ao final de toda sessão, o Narrador vai distribuir pontos de experiência para os jogadores. Os critérios de distribuição são de escolha do mestre, mas podem incluir qualidade da interpretação, lições aprendidas, feitos do personagem e coisas mais. Esses pontos são usados para comprar habilidades, bem como os freebies, mas tem critérios diferentes para precificação.
+# Experience
+At the end of every session, the Narrator will give the players experience points. The criteria for point distribution are defined by the Narrator, but may include interpretation quality, learned lessons, character's deeds and/or more. These points are used to buy traits, just like freebies, but the precification is slightly different.
 
-|Traço|Custo|
+|Trait|Cost|
 |---|---|
-|**Atributo**|stat atual * 4|
-|**Habilidade**|stat atual * 2|
-|**Nova habilidade**|3 pontos|
-|**Magicka**|10|
-|**Stamina**|10|
+|**Attibute**|current stat * 4|
+|**Ability**|current stat * 2|
+|**New ability**|3 points|
+|**Magicka**|10 points|
+|**Stamina**|10 points|
 
-Feitiços não estão na lista pois são adquiridos com NPCs, ou encontrados ou dados pelo Narrador. Não podem ser comprados com EXP. O mesmo vale para Artefatos.
+Spells aren't on this list because they're bought from NPCs, found in the world or given by the Narrator. They cannot be bought with EXP. The same applies to artifacts.
