@@ -10,10 +10,10 @@ Storyteller has a characteristic distribution of points that must be followed. E
 * **[Ficha de personagem (português) - versão P&B](/uploads/files/amaranth-pt-pb.pdf ':ignore')**
 
 For more information, read the main articles
-- **['Flaws](/rules/sheet/flaws):** physical or personality traits that give freebie points (and are usually negative)
+- **[Flaws](/rules/sheet/flaws):** physical or personality traits that give freebie points (and are usually negative)
 - **[Merits](/rules/sheet/merits):** physical or personality traits that cost freebie points (and are usually positive)
 - **[Attributes](/rules/sheet/attributes):** character's personality traits
-- **[Abilities](/rules/sheet/abilities):** character's talents, skills and knowledges
+- **[Abilities](/rules/sheet/abilities):** character's talents, skills and knowledge
 - **[Astrology](/rules/sheet/astrology):** the constellation the character was born under
 - **[Backgrounds](/rules/sheet/backgrounds):** character's traits that may represent their backstory
 - **[Archetypes](/rules/sheet/archetypes):** character's nature and demeanor'
@@ -36,7 +36,6 @@ Levels in Amaranth are directly based on those seen in Elder Scrolls games. Each
 
 ## Ability points
 Distributed points also follow a general rule for leveling, and that determines whether you can use a certain item or spell or not. For example, to use a steel sword, you need to be at least Adept in the Blade Skill. That requires between 3 and 4 points minimum.
-Os pontos distribuídos também têm seus próprios níveis, e você pode ou não usar determinado item ou feitiço baseado nele. Por exemplo, para usar uma espada de aço, você precisa ser Adepto na Perícia de Lâmina. Ou seja, você precisa ter entre 3 e 4 pontos nesta habilidade, no mínimo.
 
 * **Novice:** 1 to 2 points.
 * **Adept:** 3 to 4 points.
@@ -90,20 +89,20 @@ Freebies are additional points you get during character creation. They're used t
 
 |Trait|Cost|
 |---|---|
-|**Attibute**|5 freebies per point|
+|**Attribute**|5 freebies per point|
 |**Ability**|2 freebies per point|
 |**Spell**|2 freebies per point|
-|**Backgound**|1 freebie per point|
+|**Background**|1 freebie per point|
 |**Magicka**|10 freebies per point|
 |**Stamina**|10 freebies per point|
 |**Artifact**|2 freebies per point|
 
 # Experience
-At the end of every session, the Narrator will give the players experience points. The criteria for point distribution are defined by the Narrator, but may include interpretation quality, learned lessons, character's deeds and/or more. These points are used to buy traits, just like freebies, but the precification is slightly different.
+At the end of every session, the Narrator will give the players experience points. The criteria for point distribution are defined by the Narrator, but may include interpretation quality, learned lessons, character's deeds and/or more. These points are used to buy traits, just like freebies, but the pricing is slightly different.
 
 |Trait|Cost|
 |---|---|
-|**Attibute**|current stat * 4|
+|**Attribute**|current stat * 4|
 |**Ability**|current stat * 2|
 |**New ability**|3 points|
 |**Magicka**|10 points|

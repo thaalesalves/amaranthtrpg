@@ -55,7 +55,7 @@ Languages come easy for you. You are able to speak the same amount of languages 
 You inspire those around you and help them make bigger efforts. You get two extra dice in Social tests to encourage, inspire or cause positive reactions in them. Once per scene you get a die for saying an inspiring thing.
 ​
 ### True love (1 pt.)
-You have or may have lost a true love. They are a constant beacon of peace in your own little world of darkness, and to think of them or be near them is soothing. If you are ever near the edge, the thought of leaving your love behind is enough to push you to carry on and survive. If your love is still around, or is mortal, they may require baby steps, or the occasional rescue which can become dampening. This is a fun, but taxing merit. Do not take it lightly. 
+You have or may have lost a true love. They are a constant beacon of peace in your own little world of darkness, and to think of them or be near them is soothing. If you are ever near the edge, the thought of leaving your love behind is enough to push you to carry on and survive. If your love is still around, or is mortal, they may require baby steps, or the occasional rescue which can become dampening. This is a fun, but taxing merit. Do not take it lightly.
 ​
 ### Animal affinity (1 pt.)
 The character has an innate understanding of and rapport with a certain type of animal. All difficulties dealing with that Animal are reduced by two.
@@ -64,10 +64,10 @@ The character has an innate understanding of and rapport with a certain type of 
 You have a certain _je ne sais quoi_... or maybe a _voulez-vous coucher avec moi_ would be a more fitting description? You get two extra dice when trying to attract or seduce others.
 ​
 ### Eidetic memory (2 pt.)
-You have a memory so perfect it's like your brain has direct contanct with Memory or the **[Dreamsleeve](https://en.uesp.net/wiki/Lore:Dreamsleeve)**. Just by quickly looking at something, that something will be engraved into your memory. In stressful situations such as combat, a Mental test of six dice will be required to memorize stuff.
+You have a memory so perfect it's like your brain has direct contact with Memory or the **[Dreamsleeve](https://en.uesp.net/wiki/Lore:Dreamsleeve)**. Just by quickly looking at something, that something will be engraved into your memory. In stressful situations such as combat, a Mental test of six dice will be required to memorize stuff.
 ​
 ### Gracefulness (2 pt.)
-There's a natural grace to yourself. Your movements are hipnotizing, and your words enchant, even when they're harsh words. It's almost impossible for you to be looked at with disdain or disapproval, even when you mess everything up. People respect this talent, and even jealous people will admit you have style. The difficulty for Social tests is decreased by two whenever there's a chance of causing a good impression. This does not applu to brute force threats.
+There's a natural grace to yourself. Your movements are hypnotizing, and your words enchant, even when they're harsh words. It's almost impossible for you to be looked at with disdain or disapproval, even when you mess everything up. People respect this talent, and even jealous people will admit you have style. The difficulty for Social tests is decreased by two whenever there's a chance of causing a good impression. This does not apply to brute force threats.
 ​
 ### Professional liar (2 pt.)
 Lying is natural to you. Even the world's biggest lie sounds like some divine truth when it comes from your mouth. You get two extra dice in any Social test that involves lying or cheating.
@@ -76,11 +76,11 @@ Lying is natural to you. Even the world's biggest lie sounds like some divine tr
 You have the incredible ability of seeing the heart of the situation. All rolls of Intelligence have their difficulty decreased by one. Additionally, situations where three or more successes are required, you will need one fewer to succeed with the action.
 ​
 ## Physical
-### Diversed fighting style (4 pt.)
+### Diverse fighting style (4 pt.)
 Maybe you were a Sword-Singer in the past life, or maybe you were Hunding himself. You are an extremely challenging opponent in fights, and will not be penalized for using exotic or unfamiliar weapons, and also have the ability of detecting weak points in opponents, no matter which martial art or fighting style they use. As a result, you can detect these weak points with a Mental test of ten dice. This is a restrict merit and may only be used with plausible justification in the background story and if the Narrator approves.
 ​
 ### Double jointed (1 pt.)
-You are extremely flexible. Your body bends in ways that others cannot and allows you to squeeze into places others could not. You get an extre die in flexibility tests, like escaping from an enemy that has grabbed you.
+You are extremely flexible. Your body bends in ways that others cannot and allows you to squeeze into places others could not. You get an extra die in flexibility tests, like escaping from an enemy that has grabbed you.
 
 ### Enchanting voice (2 pt.)
 You have pleasant voice, and it takes the attention of those around you. You seduce, intimidate and persuade people through your voice's intonation. Get an extra die for Social tests that involve one of those actions.
@@ -105,7 +105,7 @@ You have become used to pain, and it doesn't bother you anymore. You can ignore 
 ​
 ## Supernatural
 ### Daedric sensor (4 pt.)
-You have a supernatural ability for detecting Daedric presence wherever you are, even when there are hipnotization or illusion spells involved. You might have visions that may show important information about Daedric plans that may be used as clues for something important. You get two extra dice for Daedra detection.
+You have a supernatural ability for detecting Daedric presence wherever you are, even when there are hypnotization or illusion spells involved. You might have visions that may show important information about Daedric plans that may be used as clues for something important. You get two extra dice for Daedra detection.
 ​
 ### Oblivion respect (2 pt.)
 Every time you visit a plane of Oblivion, you get the attention of its inhabitants, in a positive way. They will be curious about you, and this may be used for your advantage. Do take care, though, as if a Xivkyn or a Harvester takes interest in you, it could mean trouble.
@@ -114,7 +114,7 @@ Every time you visit a plane of Oblivion, you get the attention of its inhabitan
 You have an objective greater than any other thing, that gives your life direction. You don't care much about minor, casual problems, since your greater objective is everything. You will sometimes act in a counter-intuitive manner thinking that is the best course of action to achieve your goal, but that could be good. You get two extra dice in every roll related to your greater objective. Choose a greater objective and get the Narrator's approval. If you already have the [Obsession](/rules/sheet/flaws#obsession) flaw, you may not have this merit.
 ​
 ### Mage companion (1 pt.)
-The character is friends with someone who is a Mage. Although you may call on them any time you want, they might also need your help and you will need to go help them. This Mage is probably a student at the College of Winterhold or the Arcane University, but they may be a practitioner of any school of magic, as long as this is justified.
+The character is friends with someone who is a Mage. Although you may call on them any time you want, they might also need your help and you will need to go help them. This Mage is probably a student at the **[College of Winterhold](https://en.uesp.net/wiki/Lore:College_of_Winterhold)** or the **[Arcane University](https://en.uesp.net/wiki/Lore:Arcane_University)**, but they may be a practitioner of any school of magic, as long as this is justified.
 ​
 ### Magical resistance (2 pt.)
 You have a higher resistance to magic than usual, and spells affect you less intensively. Negative magic effect rolls will have their difficulty decreased by one.

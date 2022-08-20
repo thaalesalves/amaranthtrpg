@@ -1,87 +1,87 @@
-# Defeitos
+# Flaws
 
-Defeitos são características do personagem que têm um lado negativo, mas que dão mais pontos freebie para serem usados na ficha. Os defeitos variam de cegueira até um destino sombrio.
+Flaws are negative character traits that give you points to be used in the sheet. Flaws vary from blindness to a dark destiny.
 
-# Defeitos mentais
-## Mente avoada (2 pt)
-Apesar de reter suas habilidades e talentos graças à prática, pequenos detalhes, como nomes, datas, números, endereços e etc, voam facilmente da sua memória. Quando você está sob pressão, lembrar de coisas além do seu nome requerem um teste mental de Inteligência com dificuldade 8.
+## Mental
+### Absent mind (2 pt)
+Although you won't forget your skills and talents thanks to a lot of practice, small details such as names, dates, numbers, addresses, etc. are almost lost on you. When you're under pressure, remembering things beyond your name require a mental test of Intelligence with a difficulty of 8.
 
-## Vício (1 pt. ou 2 pt)
-Você precisa de determinada substância no seu corpo para que funcione plenamente. Você precisa de um teste de dois atributos em tudo que for fazer caso não esteja sob efeito da sua substância por um número de horas igual ao nível de Força de Vontade. Este defeito te dá **1 ponto** caso você tenha um vício lícito como alcoolismo ou fumo; vale **2 pontos** caso seu vício seja ilícito como Skooma ou Açúcar Lunar.
+### Addiction (1 pt. or 2 pt)
+You need the presence of a certain substance in your body for it to function properly. When you're not under the effects of this substance for a time as long as your Willpower level, you need to roll a test of two attributes in everything you do. This flaw gives you ***+1 point** if your addiction is licit, such as alcohol or tobacco; it gives you **+2 points** if your vice is illicit, such as **[Skooma](https://en.uesp.net/wiki/Lore:Skooma)** or **[Moon Sugar](https://en.uesp.net/wiki/Lore:Moon_Sugar)**.
 
-## Compulsão (1 pt. ou 2 pt)
-Uns dizem que é um mau hábito, mas na verdade sua psiquê o força a ter esse comportamento. Uma compulsão de **1 ponto** é algo como limpeza extrema, perfeccionismo, arrogância, exagero ou falar muito. Uma compulsão de **2 pontos** é algo ilegal, imoral ou perigoso, como cleptomania, sadismo ou radicalismo. Através de uma rolagem bem-sucedida de Força de Vontade com dificuldade 8 você consegue contornar sua compulsão.
+### Compulsion (1 pt. or 2 pt)
+Some say it's a bad habit, but your psyche actually forces you to have this behavior. A compulsion that gives you **+1 point** is something like extreme cleanliness or hygiene, perfectionism, arrogance, speaking too much or too loudly. A compulsion of **+2 points** is something illegal, immoral or dangerous, such as kleptomania, sadism or radicalism. Through a successful roll of Willpower with a difficulty of 8 you can resist your compulsion.
 
-## Curiosidade (2 pt)
-Você ''tem'' que saber. Parece que foi tocado por Hermaeus Mora, pois sua curiosidade é irracional. Quebra-cabeças, mistérios e enigmas o puxam e não o soltam. Para contornar a tentação você precisa rolar um teste mental de Força de Vontade com dificuldade 8.
+### Curiosity (2 pt)
+You **have** to know. It's like you were touched by **[Hermaeus Mora](https://en.uesp.net/wiki/Lore:Hermaeus_Mora)**, because your curiosity is irrational. Puzzles, mysteries and enigmas pull you and don't let you go. To resist the tentation you need to do a mental test of Willpower with a difficulty of 8.
 
-## Segredo obscuro (1 pt) 
-Existe algo terrível em seu passado, algo que você tem que esconder. Talvez você tenha sido um ativo cultista de Molag Bal, ou talvez tenha sido a própria Raposa Cinza. Caso este segredo seja descoberto, você provavelmente acabará preso ou morto... ou pior.
+### Dark secret (1 pt)
+There's something terrible in your past, something you simply have to hide. Maybe you used to be an active cultist of **[Molag Bal](https://en.uesp.net/wiki/Lore:Molag_Bal)**, or maybe you're the **[Gray Fox](https://en.uesp.net/wiki/Lore:Gray_Fox)** himself. In any case, if this secret is discovered, you will probably end up dead, arrested... or worse.
 
-## Deficiência (3 pt) 
-Você nasceu com um transtorno mental, e deve escolher um da [lista](/rules/sheet/flaws/deficiencias).
+### Mental deficiency (3 pt)
+You were born with a mental disorder, and must choose one from the [list](/rules/sheet/flaws/deficiencies).
 
-## Obsessão (3 pt) 
-Você é obcecado com o impossível. Certos objetivos impossíveis direcionam todos os seus esforços, apesar de você nunca atingir nenhum. Fazer os Grisermantes e os demais Dunmer se darem bem, acabar com a escravidão causada pelos Telvanni ou terminar as brigas políticas dos Bretões -- o que quer que seja, é sua maior prioridade da vida, acima de quaisquer lealdeades ou objetivos.
+### Obsession (3 pt)
+You are obsessed with the impossible. Certain impossible objectives drive your every effort, even though you have never achieved any of them. Make the **[Ashlanders](https://en.uesp.net/wiki/Lore:Ashlanders)** and the rest of the **[Dunmer](https://en.uesp.net/wiki/Lore:Dunmer)** get along, end the slavery caused by the **[Telvanni](https://en.uesp.net/wiki/Lore:Telvanni)** or put an end to the political fights between the **[Breton](https://en.uesp.net/wiki/Lore:Breton)** **[nations](https://en.uesp.net/wiki/Lore:High_Rock)** -- whatever it is, it's your highest priority, above any other loyalties or objectives.
 
-## Coração mole (1 pt) 
-Você é uma pessoa muito empática, então ver outros sofrendo parte seu coração. Sempre que você vir alguém sofrendo, você perde um dado em testes até o fim da cena.
+### Soft hearted (1 pt)
+You're a very empathic person, so seeing others suffer breaks your heart. Whenever you see someone in pain, you lose a die in tests until the end of the scene.
 
-## Ódio (3 pt) 
-Você tem um ódio irracional por algo ou alguém, que o faz tomar péssimas decisões. Mesmo uma menção casual ao objeto de ódio numa conversa já o deixa no limite. Caso você um dia o encontre, você deve fazer um teste de Força de Vontade - 1 (**MENOS UM**), que, caso falhe, você entra em frenesi e simplesmente destrói tudo relacionado ao objeto de ódio (ou que o objeto escape ou se perca da sua vista). O objeto não deve ser algo trivial, e tem precisa ser algo facilmente encontrado durante o jogo.
+### Hatred (3 pt)
+You have an irrational hatred for something or someone, and this makes you make terrible decisions. Even a casual mention to the object of hatred in a conversation is enough to put you on edge. In case you find it/them, you must roll a Willpower test - 1 (**MINUS ONE**). If it fails, you go intro a frenzy and simply destroy everything related to the object of hatred (unless the object runs away or gets out of your sight). The object of hatred cannot be something trivial, and must be something easily found in the game (i.e., a political faction or a public figure).
 
-## Pavio curto (2.pt)
-Você se irrita com facilidade, e tem um dado a menos em testes sob pressão.
+### Short tempered (2.pt)
+You get irritated very easily, and has one fewer dice in tests when you're under pressure.
 
-## Arrogância (1 pt) 
-Você tem uma autoconfiança absurda, a níveis astronômicos. Você toma riscos que outros não tomariam, porque você é simplesmente foda. Você não costuma aceitar ajuda dos outros, já que pode contar consigo mesmo.
+### Arrogance (1 pt)
+You have an absurdly high self-confidence, to an astronomical level. You take risks others wouldn't, because you are too fucking awesome to doubt yourself even slightly. You normally don't accept help from others, since you can always count on yourself.
 
-## Intolerância (1pt) 
-Você tem um desgosto enorme por alguma coisa, um asco irracional. Você tem um dado a menos em qualquer rolagem que envolva o objeto da sua intolerância. O objeto em questão não pode ser trivial, e deve ser algo que seja facilmente encontrado durante o jogo.
+### Intolerance (1pt)
+You have an irrational disdain for a specific something. You have one fewer dice in any test that involve the object of your intolerance. The object of hatred cannot be something trivial, and must be something easily found in the game.
 
-## Analfabetismo (2 pt) 
-Você nunca aprendeu a ler e a escrever em nenhum idioma. Caso tenha este defeito em seu personagem, você precisará rever a sua ficha para adequá-la a isso.
+### Illiterate (2 pt)
+You have never learned to read or write in any language whatsoever. In case you want this flaw for your character, you need to make sure your backstory fits this. Talk to your Narrator for more information.
 
-## Inaptidão (5pt) 
-De forma resumida? Você é burro. Você nunca aprendeu a aprender. Tem suas habilidades básicas, sabe fazer uma coisa ou outra, mas tem uma dificuldade gigantesca em entender ou aprender coisas.
+### Inaptitude (5pt)
+Bottom line? You're dumb. You never learned to learn. You have basic abilities, know one thing or another, but have a huge difficulty to learn or understand things.
 
-## Loucura (5 pt) 
-Você foi tocado por Sheogorath, o Deus Louco, e agora está completamente maluco. Você tem paranoias constantes, alucinações e até ouve Haskill sussurrando no seu ouvido falando que seu mestre quer mais um copo de chá de erva cidreira e um bloco de queijo. Não é possível resistir aos efeitos da loucura, mas você pode evocar Haskill uma vez por sessão para ajudá-lo a pensar.
+### Madness (5 pt)
+You've been touched by **[Sheogorath](https://en.uesp.net/wiki/Lore:Sheogorath)**, the Mad God, and are now completely insane. You have constant paranoia, hallucinations and can even hear **[Haskill](https://en.uesp.net/wiki/Lore:Haskill)** whispering in your ear saying that your master wants another cup of lemongrass tea and a block of cheese. It is not possible to resist the effects of madness.
 
-# Defeitos físicos
-## Miopia (1 ou 3 pt) 
-Você nasceu com problemas de visão, e tem dificuldades para enxergar. Você perde dois dados em testes que precisem de visão um pouco mais aguçada, como mirar ou procurar pistas. Caso lentes de contato ou óculos corrijam seu problema, você ganha **1 ponto**. Caso seja um problema incorrigível, você ganha **3 pontos**.
+## Physical
+### Myopia (1 or 3 pt)
+You were born with sight problems, and have difficulty to see. You lose two die in tests that require a better vision in longer distances, such as aiming or noticing clues high up in trees. In case glasses or magic fix your problem, you get **+1 point**. In case it's an unfixable problem, you get **+3 points**.
 
-## Cegueira (5 pt) 
-Seja de nascença seja por causa de batalha, você é completamente cego. Você falha em todos os testes que precisem de visão.
+### Blindness (5 pt)
+Whether you were born with this problem or it was caused by battles, you are completely blind. You fail every test that require vision.
 
-## Daltonismo (1 pt) 
-Você vê as coisas em tons de cinza. Cores não existem para você.
+### Monochromacy (1 pt)
+You see everything in gray scale. Colors do not exist for you.
 
-## Surdez (4 pt) 
-Você não ouve, seja porque nasceu assim ou por algo que ocorreu durante sua vida. Você falha qualquer teste que envolva ouvir. Você sofre o efeito de Surpresa com qualquer um que se aproxima de você de fora do seu campo de visão. Você provavelmente tem algum impedimento de fala, já que sua habilidade de se ouvir afeta sua habilidade de fala.
+### Deafness (4 pt)
+You cannot hear, because you either were born like this or something happened in your life that caused you to be deaf. You fail every test that requires hearing. You suffer from the Surprise effect with anyone that approaches you out of your field of view. You probably have a speech impediment as well, since your hearing ability directly affects your speaking.
 
-## Desfiguração (2 pt) 
-Você tem cicatrizes ou deformações visíveis, seja de nascimento ou de feridas. Pessoas têm facilidade em se lembrar de você e te achar na multidão. Você perde dois dados em todos os testes sociais, com exceção de testes de intimidação, e você não pode ter quaisquer traços de impressão social.
+### Disfiguration (2 pt)
+You have visible scars or deformities, coming from birth or wounds. People remember you easily and may find you in a crowd. You lose two dice in every social test, with the exception of intimidation tests, and you cannot have any social impression traits.
 
-## Mudez (4 pt) 
-Seja por feridas ou por nascimento, você não pode falar. Você precisa de papel e caneta, ou ter um bom nível de linguística com alguma linguagem de sinais, ou algum tipo de magia para se comunicar.
+### Muteness (4 pt)
+Because you were born like this or because of something that happened in your life, you cannot speak. You need a pen and paper, or have a good level of linguistics with a sign language, or even some kind of magic, to be able to communicate with others.
 
-## Maneta (3 pt) 
-Algo aconteceu e você perdeu um braço ou uma mão. Você já se acostumou com isso, então seu braço restante é considerado o principal -- mas você perde dois dados em testes que mãos sejam necessárias.
+### One-armed (3 pt)
+Something happened and you lost an arm or a hand. You've become used to this condition, so your remaining member is considered the main on -- but you lose two dice on tests where hands are necessary.
 
-## Caolho (2 pt) 
-Você perdeu um olho. Todos os testes que precisam de percepção, como combate à distância, têm dois dados a menos.
+### One-eyed (2 pt)
+You lost an eye. Every roll that requires perception or sight, like ranged combat, has two fewer dice.
 
-# Defeitos sobrenaturais
-## Inaptidão arcana (5 pt) 
-Você não foi tocado por Magnus ao nascer. Ou foi, mas de forma negativa. Você é incapaz de fazer feitiços e Magicka, a força natural de Aetherius, não flui em você. Seu modificador de Magicka cai para zero, e você também não pode ter pontos temporários.
+## Supernatural
+### Arcane inaptitude (5 pt)
+You have not been touched by **[Magnus](https://en.uesp.net/wiki/Lore:Magnus)** when you were born. Or rather, you were, but in a negative way. You are incapable of casting spells, and Magicka, **[Aetherius](https://en.uesp.net/wiki/Lore:Aetherius)**'s natural force, does not flow in you. Your Magicka modifier falls to zero, and you are also unable to have temporary points.
 
-## Destino sombrio (5 pt) 
-Você sabe como sua história vai terminar: mal. Premonições e visões do seu destino macabro o assombraram por anos. Você tem certeza que essas visões se tornarão realidade. O Mestre pode lhe dar tais visões durante sessões de jogo, e você terá que rolar um teste de Força de Vontade - 1 (**MENOS UM**) para todos os desafios da sessão. Este é um defeito restrito e precisa da aprovação prévia do Mestre.
+### Dark fate (5 pt)
+You know how your story ends: badly. Premonitions and visions of your macabre fate have haunted you for years. You are sure these visions will come true. The Narrator may give you visions during game sessions, and you will need to roll a Willpower test - 1 (**MINUS ONE**) for all challenges in the session. This is a restrict flaw and needs the Narrator's approval.
 
-## Medo de demônios (1 pt) 
-Você provavelmente é um seguidor fiel dos Oito e Um Divinos, ou até mesmo do Todo-Criador, ou você pode até mesmo ser um ateu incorrigível, mas você tem dentro de si aquele medo profundo do que é considerado "magia negra", ou até mesmo que um Xiviliai invada sua casa e te leve para algum plano de Oblivion. Este defeito não pode ser ignorado, e em qualquer cena com um ser sobrenatural envolvido, seu personagem entra em modo de medo irracional.
+### Fear of demons (1 pt)
+You are probably a loyal follower of the **[Nine Divines](https://en.uesp.net/wiki/Lore:Divines)**, or even the **[All-Maker](https://en.uesp.net/wiki/Lore:All-Maker)**, or maybe you're an atheist. It doesn't matter, you still have that deep fear inside of you, a fear that may be considered "dark magic", or even the fear that a **[Xiviliai](https://en.uesp.net/wiki/Lore:Xiviliai)** might invade your home and take you to some plane of **[Oblivion](https://en.uesp.net/wiki/Lore:Oblivion)**. This flaw cannot be ignored, and in any scene with a supernatural being involved, your character will enter an irrational fear frenzy.
 
-## Azarado (7 pt) 
-Parece que os Deuses o abandonaram, e os Daedra tomaram posse do seu destino. Você sofre de um azar absurdo, e acaba até causando dor a pessoas próximas. Todos os testes feitos têm a dificuldade aumentada em 2. Além disso, inimigos têm mais facilidade em causar dano em você, diminuindo a dificuldade das rolagens deles em 1.
+### Unlucky (7 pt)
+It seems the Gods have forsaken you, and the Daedra took over your destiny. You suffer from an absurd bad luck, and may even cause harm to your loved ones. All your tests have their difficulty increased by two. Enemies have also an easier time damaging you, decreasing the difficulty of their rolls by one.

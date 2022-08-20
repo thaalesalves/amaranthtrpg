@@ -3,7 +3,7 @@
 This page has information about armors. They have a modifier and a base protection, and these values are increased according to the material used to craft them.
 
 # Materials
-## Metais
+## Metals
 |Material|Modifier|Level|Value
 |---|---|---|---|
 |Iron|+0|Novice|+50g|
@@ -12,7 +12,7 @@ This page has information about armors. They have a modifier and a base protecti
 |Galatite|+3|Master|+750g|
 |Rubedite|+4|Grandmaster|+3500g|
 
-## Couros
+## Leathers
 |Material|Modifier|Level|Value
 |---|---|---|---|
 |Cowhide|+0|Novice|+50g|
@@ -37,6 +37,6 @@ Uses light armor's modifier to calculate the medium. The Narrator can choose to 
 
 ## Heavy armor
 * **Metal plate armor:** +6 dice for defense (+1 Endurance while equipped).
-* **Segmentated metal plate armor:** +6 dice for defense (+1 Agility while equipped).
+* **Segmented metal plate armor:** +6 dice for defense (+1 Agility while equipped).
 * **Open metal helmet:** +3 dice for defense.
 * **Closed metal helmet:** +4 dice for defense.

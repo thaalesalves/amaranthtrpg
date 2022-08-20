@@ -4,7 +4,7 @@ This page has information about the 10 main races of Tamriel, which are the most
 
 # Races
 - **[Breton](/races/main/breton):** known as the Manmer, a mix of Man and Mer
-- **[Imperial](/races/main/imperial):** the well-spoken Imperials, the human race that have ruled Tamriel for millenia
+- **[Imperial](/races/main/imperial):** the well-spoken Imperials, the human race that have ruled Tamriel for millennia
 - **[Nord](/races/main/nord):** the inhabitants of the North, known as the Children of the Sky, and the oldest human race in Tamriel
 - **[Redguard](/races/main/redguard):** descendants of the Ra Gada, humans that came from the lost land of Yokuda
 - **[Altmer](/races/main/altmer):** the oldest and purest elven race in Tamriel, direct descendants of the Aldmer, also known as High Elves
