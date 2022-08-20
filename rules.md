@@ -1,6 +1,6 @@
 # Rules
 
-Amaranth and Whitewolf's games (Vampire, Werewolf, Mage and others) have a similar set of rules, since they're based on Storyteller. It ahs its own set of particular rules, and those make playing with Amaranth a different experience.
+Amaranth and Whitewolf's games (Vampire, Werewolf, Mage and others) have a similar set of rules, since they're based on Storyteller. It has its own set of particular rules, and those make playing with Amaranth a different experience.
 
 - **[Sheet](/rules/sheet):** character sheet and its elements
 	- **[Flaws](/rules/sheet/flaws):** physical or personality traits that give freebie points (and are usually negative)
