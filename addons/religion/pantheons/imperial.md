@@ -76,5 +76,5 @@ The Pantheon of the Eight would live on for thousands of years, until the unific
 * **Main temple:** (before the Great War) The Great Chapel of Talos (**[Bruma](https://en.uesp.net/wiki/Lore:Bruma)**, **[Cyrodiil](https://uesp.net/wiki/Lore:Cyrodiil)**) - (after the Great War) Temple of Talos (**[Windhelm](https://en.uesp.net/wiki/Lore:Windhelm)**, **[Skyrim](https://uesp.net/wiki/Lore:Skyrim)**)
 
 #### Blessings
-* **Basic:** Extra die to actions that involve Strength, Endurance and Heavy Armor. Lose one die in actions that involve Intelligence, Perception and magic-related rolls. Ódio irracional contra personagens élficos, especialmente Altmer.
+* **Basic:** Extra die to actions that involve Strength, Endurance and Heavy Armor. Lose one die in actions that involve Intelligence, Perception and magic-related rolls. Irrational hatred against elven characters, especially Altmer.
 * **Sect:** TODO
