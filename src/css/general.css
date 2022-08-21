@@ -1,3 +1,9 @@
 .app-nav li ul {
     background-color: #091A28 !important;
 }
+
+.page_toc {
+    border: 1px solid var(--borderColor);
+    padding-right: 0.7%;
+    padding-top: 0.7%;
+}
