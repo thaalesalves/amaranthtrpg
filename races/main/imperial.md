@@ -3,7 +3,7 @@
 <div class="amrnth-img-box">
     <figure>
         <center><img src="/uploads/images/races/imperial.png" height="300" alt="Imperial">
-        <figcaption class="amrnth-img-cap">Illustration of a typical Imperial male</figcaption></center>
+        <figcaption class="amrnth-img-cap">Illustration of a typical male Imperial</figcaption></center>
     </figure>
 </div>
 

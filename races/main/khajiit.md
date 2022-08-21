@@ -3,7 +3,7 @@
 <div class="amrnth-img-box">
 	<figure>
 		<center><img src="/uploads/images/races/khajiit.png" height="300" alt="Khajiit">
-		<figcaption class="amrnth-img-cap">Illustration of a typical Khajiit male</figcaption></center>
+		<figcaption class="amrnth-img-cap">Illustration of a typical male Khajiit</figcaption></center>
 	</figure>
 </div>
 
