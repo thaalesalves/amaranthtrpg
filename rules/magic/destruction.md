@@ -6,7 +6,7 @@ Dano elemental usa fogo, gelo, eletricidade ou (raramente) veneno para causar da
 Feitiços de vulnerabilidade tornam o alvo mais suscetível a outras formas de dano. Não inclui apenas dano elemental, mas também dano de armas, venenos e até magia em si. Pode ser usado para tornar o oponente mais vulnerável a doenças.
 Feitiços de desintegração atacam somente equipamento: armadura e armas. Entretanto, alguns magos habilidosos conseguiram desintegrar corpos inteiros através da maestria de magia de eletricidade.
 
-# Feitiços
+## Spells
 ## Míssil Elemental
 * **Tipo:** dano elemental; dano direto.
 * **Custo:** 1 Magicka (aumenta 1 por nível).

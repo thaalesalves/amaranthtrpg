@@ -7,7 +7,7 @@ Resturação é uma das seis escolas de magia, focada em curar, restaurar e fort
 * Feitiços de absorção permitem que o usuário transfira energia diretamente do alvo para si. O feitiço pode ter como algo qualquer atributo, ou qualquer aspecto do alvo.
 * Feitiços de proteção são usados para anular magia hostil recebida.
 
-# Feitiços
+## Spells
 ## Cura rápida
 * **Tipo:** cura.
 * **Custo:** 2 Magicka (3 caso seja em outra pessoa).

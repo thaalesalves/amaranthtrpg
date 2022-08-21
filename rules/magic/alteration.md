@@ -1,91 +1,76 @@
-# Alteração
+# Alteration
 
-Alteração é uma das seis escolas de magia. Feitiços desta escola mudam o mundo ao redor do usuário, e verdades físicas passam a ser inválidas. É por vezes confundida com magia de Ilusão, já que ambas escolas procuram mudar verdades normais. A magia de Ilusão, entretanto, não é sujeito a às leis da natureza como a Alteração é. O poder da Alteração vem do fato de que a natureza das coisas é alterada, e passa a se aplicar na realidade, e a Ilusão afeta apenas o usuário e o alvo.
+Alteration is one of the six schools of magic. Spells of this school change the world around the caster, and physical truths become invalid. Sometimes it's confused with the school of Illusion, since both school aim to change mundane truths. The school of Illusion, however, is not subject to the laws of nature as Alteration is. The power of Alteration comes from the fact that if the nature of changes is changed, that becomes reality, and Illusion alters only what the target sees, hears or perceives, but doesn't change reality per se.
 
-Os feitiços são separados em alguns tipos: proteção, mudança de peso, efeitos em água, ações em trancas e movimento através do ar.
-
-* Existem dois tipos de escudo de proteção: um simplesmente protege o usuário de uma porção de ataque físico, e o outro além disso adiciona proteção extra a determinados ataques elementais.
-* Magia de mudança de peso podem produzir o efeito "Pena", que reduz o peso de itens carregados, ou o efeito "Fardo", que aumenta seus pesos.
-* Feitiços para respirar embaixo d'água, ou andar sobre ela. Na mesma categoria estão os feitiços que permitem o personagem nadar mais rápido.
-* A magia de Alteração pode ser usada em trancas, para abri-las ou fechá-las.
-* A Alteração permite levitar, fazendo o usuário se mover livremente pelo ar. Na Terceira Era foi assinado o Ato da Levitação, em 3E 421, que tornou a levitação uma arte impraticada.
-* Luzes de Brilho podem ser evocadas para fornecer luz para o usuário, ou iluminar um alvo.
-
-# Feitiços
-## Lanterna
-* **Tipo:** iluminação.
+## Spells
+### Candlelight
+* **Tipo:** illumination.
 * **Custo:** 1 Magicka.
-* **Nível:** Noviço.
-* **Descrição:** uma bola de luz branca paira sobre sua cabeça, iluminando um raio de um metro e meio ao seu redor.
+* **Nível:** novice.
+* **Descrição:** a ball of light that hovers over the caster's head, illuminating a radius of 1,5m around them.
 
-## Lustre
-* **Tipo:** iluminação.
+### Magelight
+* **Tipo:** illumination.
 * **Custo:** 1 Magicka.
-* **Nível:** Noviço.
-* **Descrição:** semelhante a Lanterna, mas fica parada num lugar fixo e não acompanha o usuário.
+* **Nível:** novice.
+* **Descrição:** similar to Candlelight, but the ball of slight stays at the place where it was cast and doesn't follow the caster.
 
-## Pele de carvalho
-* **Tipo:** proteção.
+### Oakflesh
+* **Tipo:** protection.
 * **Custo:** 1 Magicka.
-* **Nível:** Noviço.
-* **Descrição:** deixa sua pele dura como carvalho, fazendo-o mais resistente a danos diretos. Testes de defesa têm -1 de dificuldade. Dura a cena.
+* **Nível:** novice.
+* **Descrição:** makes your skin as hard as oak, making you more resistent to direct damage. Defense tests have their difficulty decreased by -1. Lasts for the scene.
 
-## Pele de pedra
-* **Tipo:** proteção.
+### Stoneflash
+* **Tipo:** protection.
 * **Custo:** 2 Magicka.
-* **Nível:** Adepto.
-* **Descrição:** deixa sua pele dura como pedra, fazendo-o mais resistente a danos diretos. Testes de defesa têm -1 de dificuldade. Adicionalmente, você ganha proteção extra contra danos de fogo ou eletricidade. Dura a cena.
+* **Nível:** adept.
+* **Descrição:** makes your skin as hard as stone, making you more resistent to direct damage. Defense tests have their difficulty decreased by -1. You get additional protection against fire or electrical damage. Lasts for the scene.
 
-## Casulo de cinzas
-* **Tipo:** paralisação.
+### Ash Shell
+* **Tipo:** paralyzation.
 * **Custo:** 2 Magicka.
-* **Nível:** Expert.
-* **Descrição:** envolve o alvo num casulo sólido de cinzas, paralisando-o por 1 turno.
+* **Nível:** expert.
+* **Descrição:** surrounds the target in a solid ash cocoon, paralyzing them for 1 turn.
 
-## Respiração branquial
-* **Tipo:** fisiologia.
+### Waterbreathing
+* **Tipo:** physiology.
 * **Custo:** 3 Magicka.
-* **Nível:** Expert.
-* **Descrição:** permite que o usuário respire embaixo d'água sem dificuldades. Argonianos têm esta habilidade por definição.
+* **Nível:** expert.
+* **Descrição:** allows the caster to breath underwater with no problems. Argonians have this skill by nature.
 
-## Detecção de não-vida
-* **Tipo:** detecção.
+### Detect unlife
+* **Tipo:** detection.
 * **Custo:** 2 Magicka.
-* **Nível:** Mestre.
-* **Descrição:** detecta seres mortos-vivos num raio de cinco metros.
+* **Nível:** master.
+* **Descrição:** detects undead beings in a 5m radius.
 
-## Paralisia
-* **Tipo:** paralisação.
+### Paralysis
+* **Tipo:** paralyzation.
 * **Custo:** 2 Magicka.
-* **Nível:** Mestre.
-* **Descrição:** paralisa o alvo completamente por 2 turnos.
+* **Nível:** master.
+* **Descrição:** paralyzes the target completely for 2 turns.
 
-## Paralisia massiva
-* **Tipo:** paralisação.
+### Massive paralysis
+* **Tipo:** paralyzation.
 * **Custo:** 5 Magicka.
-* **Nível:** Grão-mestre.
-* **Descrição:** paralisa todos ao redor por 2 turnos. Não afeta aliados.
+* **Nível:** grandmaster.
+* **Descrição:** paralyzes everyone around the caster for 2 turns. Does not affect allies.
 
-## Couro de dragão
-* **Tipo:** proteção.
+### Dragonhide
+* **Tipo:** protection.
 * **Custo:** 2 Magicka.
-* **Nível:** Mestre.
-* **Descrição:** deixa sua pele dura como couro de dragão, fazendo-o mais resistente a danos diretos. Testes de defesa têm -2 de dificuldade. Adicionalmente, você ganha proteção extra contra qualquer tipo de dano direto. Dura a cena.
+* **Nível:** master.
+* **Descrição:** makes your skin as hard as dragonhide, making you more resistent to direct damage. Defense tests have their difficulty decreased by -2. You get additional protection against any type of direct damage. Lasts for the scene.
 
-## Fardo
-* **Tipo:** fisiologia.
+### Burden
+* **Tipo:** physiology.
 * **Custo:** 2 Magicka.
-* **Nível:** Expert.
-* **Descrição:** Aumenta drasticamente o peso do corpo e dos itens do alvo, fazendo-o não se aguentar e cair no chão. Dura 1 turno.
+* **Nível:** expert.
+* **Descrição:** drastically increases the target's bodyweight, making them unable to sustain themselves and fall to the ground. Lasts for 1 turn.
 
-## Facilita fardo
-* **Tipo:** fisiologia.
+### Unburden
+* **Tipo:** physiology.
 * **Custo:** 2 Magicka.
-* **Nível:** Expert.
-* **Descrição:** Aumenta a resistência a peso do usuário, e o torna mais leve. Dura 1 turno.
-
-## Arrombamento
-* **Tipo:** fechadura.
-* **Custo:** 2 Magicka.
-* **Nível:** Adepto.
-* **Descrição:** Abre fechaduras caso suceda.
+* **Nível:** expert.
+* **Descrição:** increases the casters body resistance, making them lighters. Lasts for 1 turn.

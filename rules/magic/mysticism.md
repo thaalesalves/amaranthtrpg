@@ -8,7 +8,7 @@ O Misticismo é uma das seis escolas da magia, e é a menos entendida pela comun
 * Telecinese é a habilidade de mover itens sem os tocar fisicamente.
 * Aprisionamento de Almas é o mais controverso. Permite que o usuário aprisione a alma de uma criatura em uma gema, e a usa para criar ou recarregar artefatos mágicos. Almas sãp divididas em "brancas" - a alma da maioria das criaturas, e "pretas" - almas de humanos, elfos ou outros seres avançados.
 
-# Feitiços
+## Spells
 ## Absorção de atributo
 * **Tipo:** absorção.
 * **Custo:** 5 Magicka.

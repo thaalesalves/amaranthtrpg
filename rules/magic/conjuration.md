@@ -1,130 +1,142 @@
-# Conjuração
+# Conjuration
 
-Conjuração é a arte de evocar criaturas ou itens de outro plano. É uma das seis escolas da Magia, mas não é considerada uma das Grandes Escolas pela Guilda dos Magos, e somente se tornou comum depois da Distorção no Oeste. Apesar disso, tem sido praticada por séculos por covis de brixas e magos por Tamriel. Magos do clã Direnni estiveram entre os primeiros a formalizar os rituais, cânticos e encatamentos usados para abrir conexões com o plano de Oblivion, muitos destes ainda usados.
+Conjuration is the art of summoning creatures of items from other planes. It is one of the sext schools of magic, despite not being considered one of the Great Schools by the **[Mages' Guild](https://en.uesp.net/wiki/Lore:Mages_Guild)**, only becoming of common use after the **[Warp in the West](https://en.uesp.net/wiki/Lore:Warp_in_the_West)**. Despite that fact, it has been practiced for centuries by witch covens and mages around **[Tamriel](https://en.uesp.net/wiki/Lore:Tamriel)**. Mages of the **[Direnni](https://en.uesp.net/wiki/Lore:Direnni)** clan were among the first to formalize the rituals, chants and enchantments used to open connections with the planes of **[Oblivion](https://en.uesp.net/wiki/Lore:Oblivion)**, many of these still being used.
 
-# Feitiços
-## Adaga espectral
-* **Tipo:** equipamento.
+## Spells
+### Bound dagger
+* **Tipo:** equipment.
 * **Custo:** 1 Magicka.
-* **Nível:** Noviço.
-* **Descrição:** conjura uma adaga espectral para ser usada até o fim da cena. É necessário pelo menos 1 ponto em Uma-mão e Lâmina.
+* **Nível:** novice.
+* **Descrição:** conjures a spectral dagger that may be used until the end of the scene. At least 1 point of One-handed and Blade is required.
 
-## Espada espectral
-* **Tipo:** equipamento.
+### Bound sword
+* **Tipo:** equipment.
 * **Custo:** 2 Magicka.
-* **Nível:** Adepto.
-* **Descrição:** conjura uma espada espectral para ser usada até o fim da cena. É necessário pelo menos 2 pontos em Uma-mão e Lâmina.
+* **Nível:** adept.
+* **Descrição:** conjures a spectral sword that may be used until the end of the scene. At least 2 points of One-handed and Blade are required.
 
-## Arco espectral
-* **Tipo:** equipamento.
+### Bound greatsword
+* **Tipo:** equipment.
 * **Custo:** 2 Magicka.
-* **Nível:** Adepto.
-* **Descrição:** conjura um arco espectral para ser usado até o fim da cena. É necessário pelo menos 2 pontos em Pontaria.
+* **Nível:** adept.
+* **Descrição:** conjures a spectral greatsword that may be used until the end of the scene. At least 3 points of One-handed and Blade are required.
 
-## Montante espectral
-* **Tipo:** equipamento.
+### Bound bow
+* **Tipo:** equipment.
 * **Custo:** 2 Magicka.
-* **Nível:** Adepto.
-* **Descrição:** conjura um montante espectral para ser usado até o fim da cena. É necessário pelo menos 3 pontos em Duas-mãos e Lâmina.
+* **Nível:** adept.
+* **Descrição:** conjures a spectral bow that may be used until the end of the scene. At least 2 points of Marksmanship and Bow are required.
 
-## Machado espectral
-* **Tipo:** equipamento.
+### Bound crossbow
+* **Tipo:** equipment.
 * **Custo:** 2 Magicka.
-* **Nível:** Adepto.
-* **Descrição:** conjura um machado espectral para ser usado até o fim da cena. É necessário pelo menos 3 pontos em Duas-mãos e Machado.
+* **Nível:** adept.
+* **Descrição:** conjures a spectral crossbow that may be used until the end of the scene. At least 2 points of Marksmanship and Crossbow are required.
 
-## Martelo espectral
-* **Tipo:** equipamento.
+### Bound battleaxe
+* **Tipo:** equipment.
 * **Custo:** 2 Magicka.
-* **Nível:** Adepto.
-* **Descrição:** conjura um martelo espectral para ser usado até o fim da cena. É necessário pelo menos 3 pontos em Duas-mãos e Martelo.
+* **Nível:** adept.
+* **Descrição:** conjures a spectral battle that may be used until the end of the scene. At least 2 points of One-handed and Axe are required.
 
-## Familiar
-* **Tipo:** evocação.
+### Bound battleaxe
+* **Tipo:** equipment.
+* **Custo:** 2 Magicka.
+* **Nível:** adept.
+* **Descrição:** conjures a spectral waraxe that may be used until the end of the scene. At least 3 points of Two-handed and Axe are required.
+
+### Bound battlehammer
+* **Tipo:** equipment.
+* **Custo:** 2 Magicka.
+* **Nível:** adept.
+* **Descrição:** conjures a spectral battlehammer that may be used until the end of the scene. At least 3 points of One-handed and Hammer are required.
+
+### Bound warhammer
+* **Tipo:** equipment.
+* **Custo:** 2 Magicka.
+* **Nível:** adept.
+* **Descrição:** conjures a spectral warhammer that may be used until the end of the scene. At least 3 points of Two-handed and Hammer are required.
+
+### Bound armor
+* **Tipo:** equipment.
+* **Custo:** 5 Magicka.
+* **Nível:** expert.
+* **Descrição:** conjures a full set of armor for you to wear until the end of the scene. Defaults to the highest armor type level, and requires at least 2 points of it.
+
+### Familiar
+* **Tipo:** summoning.
 * **Custo:** 1 Magicka.
-* **Nível:** Noviço.
-* **Descrição:** evoca um familiar para lutar por você até o fim da cena. Pode ser um urso ou um lobo, dependendo do sucesso. Caso você seja Khajiit ou Bosmer, existe a chance de evocar um Tigre Senche.
+* **Nível:** novice.
+* **Descrição:** invokes a familiar to fight for you until the end of the scene. it may be a bear or a wolf, depending on the degree of success. In case you're a Khajiit or a Bosmer, there's a chance of invoking a Senche Tiger instead.
 
-## Levantar zumbi
-* **Tipo:** evocação.
+### Raise undead
+* **Tipo:** summoning.
 * **Custo:** 2 Magicka.
-* **Nível:** Adepto.
-* **Descrição:** reanima mortos-vivos para lutarem por você até o fim da cena.
+* **Nível:** adept.
+* **Descrição:** reanimates undead to fight for you until the end of the scene (or until they (un?)die again)
 
-## Machado espectral
-* **Tipo:** equipamento.
-* **Custo:** 2 Magicka.
-* **Nível:** Adepto.
-* **Descrição:** conjura um machado espectral para ser usado até o fim da cena. É nnecessário pelo menos 2 pontos em Uma-mão e Lâmina.
+### Raise dead
+* **Tipo:** summoning.
+* **Custo:** 5 Magicka.
+* **Nível:** expert.
+* **Descrição:** reanimates dead creatures to fight for you until the end of the scene (or until they die again)
 
-## Conjurar Atronaca elemental
-* **Tipo:** evocação.
+### Conjure elemental Atronach
+* **Tipo:** summoning.
 * **Custo:** 3 Magicka.
-* **Nível:** Adepto.
-* **Descrição:** evoca um Atronaca elemental (fogo, gelo, vento ou eletricidade) para lutar por você até o fim da cena.
+* **Nível:** adept.
+* **Descrição:** summons an elemental Atronach (flame, frost, air or storm) to fight for you until the end of the scene (or until it dies)
 
-## Levantar seres vivos
-* **Tipo:** evocação.
+### Conjure greater Atronach
+* **Tipo:** summoning.
 * **Custo:** 5 Magicka.
-* **Nível:** Expert.
-* **Descrição:** reanima seres vivos que tenham morrido até o fim da cena.
+* **Nível:** expert.
+* **Descrição:** summons a greater Atronach (flesh, iron, stone or shadow) to fight for you until the end of the scene (or until it dies)
 
-## Banimento de Daedra
-* **Tipo:** evocação.
-* **Custo:** 5 Magicka (varia de acordo com nível do alvo).
-* **Nível:** Mestre.
-* **Descrição:** bane um Daedra alvo de volta para Oblivion.
+### Conjure cold-flame Atronach
+* **Tipo:** summoning.
+* **Custo:** 8 Magicka.
+* **Nível:** master.
+* **Descrição:** summons a cold-flame Atronach from Coldharbour to fight for you until the end of the scene (or until it dies)
 
-## Arco espectral
-* **Tipo:** equipamento.
-* **Custo:** 2 Magicka.
-* **Nível:** Adepto.
-* **Descrição:** conjura um arco espectral para ser usado até o fim da cena. É necessário pelo menos 2 pontos de Pontaria e Arco.
-
-## Conjurar Atronaca de carne
-* **Tipo:** evocação.
-* **Custo:** 5 Magicka.
-* **Nível:** Expert.
-* **Descrição:** conjura um Atronaca de carne para lutar por você até o fim da cena.
-
-## Comanda Daedra
-* **Tipo:** evocação.
+### Command Daedra
+* **Tipo:** summoning.
 * **Custo:** 10 Magicka.
-* **Nível:** Mestre.
-* **Descrição:** submete o Daedra-alvo ao seu comando até que ele pereça.
+* **Nível:** master.
+* **Descrição:** submits the target Daedra to your command until they die.
 
-## Conjura Dremora
-* **Tipo:** evocação.
+### Banish Daedra
+* **Tipo:** summoning.
+* **Custo:** 5 Magicka (varia de acordo com nível do alvo).
+* **Nível:** master.
+* **Descrição:** banishes the target Daedra back to Oblivion.
+
+### Conjure Dremora
+* **Tipo:** summoning.
 * **Custo:** 5 Magicka.
-* **Nível:** Expert.
-* **Descrição:** evoca um Dremora Kynreeve para lutar por você até o fim da cena.
+* **Nível:** expert.
+* **Descrição:** summons a Dremora Kynreeve to fight for you until the end of the scene (or until it dies)
 
-## Conjura Pirraça
-* **Tipo:** evocação.
+### Conjure Scamp
+* **Tipo:** summoning.
 * **Custo:** 3 Magicka.
-* **Nível:** Adepto.
-* **Descrição:** evoca um Pirraça para lutar por você durante a cena.
+* **Nível:** adept.
+* **Descrição:** summons a Scamp to fight for you until the end of the scene (or until it dies)
 
-## Conjurar Clannmedo
-* **Tipo:** evocação.
+### Conjure Clannfear
+* **Tipo:** summoning.
 * **Custo:** 3 Magicka.
-* **Nível:** Adepto.
-* **Descrição:** evoca um Clannmedo para lutar por você até o fim da cena.
+* **Nível:** adept.
+* **Descrição:** summons a Clannfear to fight for you until the end of the scene (or until it dies)
 
-## Conjurar Xiviliai
-* **Tipo:** evocação.
+### Conjure Xiviliai
+* **Tipo:** summoning.
 * **Custo:** 4 Magicka.
-* **Nível:** Mestre.
-* **Descrição:** evoca um Xiviliai para lutar por você até o fim da cena.
+* **Nível:** master.
+* **Descrição:** summons a Xiviliai to fight for you until the end of the scene (or until it dies)
 
-## Conjurar Xivkyn
-* **Tipo:** evocação.
+### Conjure Xivkyn
+* **Tipo:** summoning.
 * **Custo:** 5 Magicka.
-* **Nível:** Grão-mestre.
-* **Descrição:** evoca um Xivkyn para lutar por você até que ele pereça.
-
-## Armadura espectral
-* **Tipo:** equipamento.
-* **Custo:** 5 Magicka.
-* **Nível:** Expert.
-* **Descrição:** conjura um conjunto de armadura completo para você até o fim da sessão.
+* **Nível:** grandmaster.
+* **Descrição:** summons a Xivkyn para to fight for you until the end of the scene (or until it dies)
