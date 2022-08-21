@@ -20,3 +20,7 @@
     margin-left: 2%;
     margin-right: 2%;
 }
+
+.sidebar-toggle {
+    background-color: var(--background) !important;
+}
