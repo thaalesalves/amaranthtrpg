@@ -1,68 +1,75 @@
-# Astrologia
+# Astrology
 
-Existem treze constelações no Aurbis, que regem determinadas áreas da realidade. São três guardiões: o Guerreiro, o Mago e o Ladrão, que protegem três segmentos diferentes. São doze signos fixos, que representam os doze meses do calendário Tamriélico. O décimo-terceiro signo, a Serpente, não tem guardião ou mês específico, e vaga pelo céu, ameaçando os outros signos. Na Segunda Era média, essa interação causou a queda dos três guardiões em Nirn, que agiram como Celestiais, suas formas mortais. 
+There are thirteen constellation in the **[Aurbis]()**, that rule over certain areas of reality. They are divided into two categories: the Guardians and the Charges. The Guardians are three: the **[Warrior](https://en.uesp.net/wiki/Lore:Astronomy#The_Warrior)**, the **[Mage](https://en.uesp.net/wiki/Lore:Astronomy#The_Mage)** and the **[Thief](https://en.uesp.net/wiki/Lore:Astronomy#The_Thief)**; each one of these Guardians protects three Charges. These add to twelve constellations, one for each month of the calendar. The thirteenth constellation, the Serpent, has no Guardian or calendar month, and moves around the sky threatening the other constellations.
 
-## The Apprentice
-Aquele nascido sob o signo do Aprendiz tem afinidade com todos os tipos de magia, mas também é vulnerável a mesma.
-* **Buff:** +1 dado em ataques mágicos;
-* **Debuff:** -1 dado em defesas contra ataques mágicos.
 
-## The Atronach
-O Atronaca (também chamado de Golem) é do domínio do Mago. Sua estação é o Crepúsculo Solar. Aquele nascido sob este signo é um feiticeiro natural com massivas cargas de Magicka, mas é incapaz de gerar Magicka por si.
-* **Buff:** ganha 25 Magicka ao criar o personagem;
-* **Debuff:** não recarrega Magicka ao descansar como normalmente.
+### The Warrior
+The **[Warrior](https://en.uesp.net/wiki/Lore:Astronomy#The_Warrior)** protects his domains during his seasons. The Warrior's month is the Last Seed, when his strength is necessary for harvest. His domains include the **[Lady](https://en.uesp.net/wiki/Lore:Astronomy#The_Lady)**, the **[Lord](https://en.uesp.net/wiki/Lore:Astronomy#The_Lord)** and the **[Steed](https://en.uesp.net/wiki/Lore:Astronomy#The_Steed)**. Those born under the sign of the Warrior are able with weapons of all kinds, but they have a short temper.
+* **Buff:** tests that involve melee weapons **or** Strength (Narrator's decision) have their difficulty decreased by -2.
+* **Debuff:** Perception and Awareness are weaker due to the short temper, and tests that include those have their difficulty increased by +2.
 
-## The Lady
-A Dama é do domínio do Guerreiro, e sua estação é o Calor-do-Lar. Aqueles nascidos sob a Dama são calmos, tolerantes e cuidadosos.
-* **Buff:** +1 dado em feitiços de Restauração;
-* **Debuff:** -1 dado em ataque.
+### The Lady
+The **[Lady](https://en.uesp.net/wiki/Lore:Astronomy#The_Lady)** is protected by the **[Warrior](https://en.uesp.net/wiki/Lore:Astronomy#The_Warrior)**, and her month is Hearthfire. Those born under the sign of the Lady are calm, tolerant, kind and careful.
+* **Buff:** +1 die in Restoration spells;
+* **Debuff:** -1 die in attacks.
 
-## The Lord
-A temporada do Dom é a Primeira Semeadura, e ele supervisiona toda Tamriel durante épocas de plantio. Aquele nascido sob o Dom é mais forte e saudável que os nascidos sob outros signos.
-* **Buff:** +1 dado em Resistência.
-* **Debuff:** -2 dados em ações mágicas.
+### The Lord
+The **[Lord](https://en.uesp.net/wiki/Lore:Astronomy#The_Lord)** is protected by the **[Warrior](https://en.uesp.net/wiki/Lore:Astronomy#The_Warrior)**, and his month is the First Seed. He oversees all of Tamriel during planting seasons, and those born under his sign are stronger and healthier than those born under other signs.
+* **Buff:** +1 die in Endurance.
+* **Debuff:** -2 dice in magical actions.
 
-## The Lover
-A Amante é de domínio do Ladrão, e sua temporada é a Aurora Solar. Aquele nascido sob o signo da Amante é gracioso e apaixonado.
-* **Buff:** +1 dado em Carisma.
-* **Debuff:** -2 dados em ataques físicos.
+### The Steed
+The **[Steed](https://en.uesp.net/wiki/Lore:Astronomy#The_Steed)** is protected by the **[Warrior](https://en.uesp.net/wiki/Lore:Astronomy#The_Warrior)**, and its month is Mid Year. Those born under the Steed are anxious, impatient and always hurrying from one place to another.
+* **Buff:** tests of Endurance have their difficulty decreased by -2.
+* **Debuff:** tests involving Perception and Awareness have their difficulty increased by +2.
 
-## The Mage
-O Mago é uma Constelação Guardiã, e sua temporada é a Mão da Chuva, quando Magicka foi usada pela primeira vez pelo Homem. O Aprendiz, o Golem e o Ritual são de domínio do Mago. Aquele nascido sob o Mago tem mais Magicka e um maior talento para feitiçaria, mas podem ser arrogantes ou mente-fechada.
-* **Buff:** +2 dados em Força de Vontade;
-* **Debuff:** -2 dados em Carisma;
+-----
 
-## The Ritual
-O Ritual é de domínio do Mago, e sua temporada é a Estrela Matutina. Aquele nascido sob o Ritual tem uma varidade de habilidades dependendo do aspecto das luas e dos Divinos.
-* **Buff:** Uma vez por sessão, você pode reanimar um morto.
-* **Debuff:** O efeito acima custa 5 Magicka.
+### The Mage
+The **[Mage](https://en.uesp.net/wiki/Lore:Astronomy#The_Mage)** is a Guardian Constellation, and his month is Rain's Hand, the month when Magicka was used for the first time by men. The **[Apprentice](https://en.uesp.net/wiki/Lore:Astronomy#The_Apprentice)**, the **[Atronach](https://en.uesp.net/wiki/Lore:Astronomy#The_Atronach)** and the **[Ritual](https://en.uesp.net/wiki/Lore:Astronomy#The_Ritual)** are in his domain. Those born under the Mage have a larger Magicka pool and more talent for sorcery, but they are more arrogant and close-minded.
+* **Buff:** +2 dice in Willpower and Intelligence tests;
+* **Debuff:** -2 dice in Charisma rolls;
 
-## The Serpent
-A Serpente vaga pelo céu e não tem a própria temporada, apesar de seus movimentos serem previsíveis até certo ponto. Não existem características em comum para os nascidos sob a Serpente. Essas pessoas são as mais abençoadas... mas também são as mais amaldiçoadas.
-* **Buff:** a cargo do mestre.
-* **Debuff:** a cargo do mestre.
+### The Apprentice
+The **[Apprentice](https://en.uesp.net/wiki/Lore:Astronomy#The_Apprentice)** is protected by the **[Mage](https://en.uesp.net/wiki/Lore:Astronomy#The_Mage)**, and his month is Sun's Height. Those born under the sign of Apprentice the have a special affinity with magic, but they're also more vulnerable to it.
+* **Buff:** +1 die in magical attacks;
+* **Debuff:** -1 die when defending against magical attacks.
 
-## The Shadow
-A temporada da Sombra é a Segunda Semeadura. A Sombra permite que aquele nascido sob ela se esconda nas sombras.
-* **Buff:** uma vez por sessão, você pode usar o poder da invisibilidade.
-* **Debuff:** toda falha no uso da Furtividade é uma falha crítica.
+### The Atronach
+The **[Atronach](https://en.uesp.net/wiki/Lore:Astronomy#The_Atronach)** is protected by the **[Mage](https://en.uesp.net/wiki/Lore:Astronomy#The_Mage)**, and its month is Sun's Dusk. Those born under the Atronach are natural sorcerers with massive reserves of Magicka, but they're incapable of generating Magicka on their own.
+* **Buff:** gains 25 Magicka while creating the character;
+* **Debuff:** does not recharge Magicka when resting.
 
-## The Steed
-A temporada do Corcel é o Meio-de-Ano. Aquele nascido sob o Corcel é ansioso, impaciente.
-* **Buff:** testes de Resistência têm -2 de dificuldade (ou +2 dados, a cargo do narrador).
-* **Debuff:** testes de Percepção e Acuidade têm +2 de dificuldade (ou -2 dados)
+### The Ritual
+The **[Ritual](https://en.uesp.net/wiki/Lore:Astronomy#The_Ritual)** is protected by the **[Mage](https://en.uesp.net/wiki/Lore:Astronomy#The_Mage)**, and its month is Morning Star. Those born under the Ritual have a varied set of skills depending on the aspect of the Moons and the Divines.
+* **Buff:** once per session, you can reanimate the dead.
+* **Debuff:** the effect above costs 10 Magicka.
 
-## The Thief
-A temporada do Ladrão é o mês mais escuro da Estrela Vespertina. Seus domínios são a Amante, a Sombra e a Torre. Aquele nascido sob o Ladrão não é necessariamente um ladrão por profissão, mas tomam mais riscos que a média das pessoas, e difilmente sofrem consequências. Eventualmente sua sorte acaba, e, por isso, eles vivem menos que os nascidos sob outros signos.
-* **Buff:** testes de sorte têm -2 de dificuldade (ou +2 dados)
-* **Debuff:** testes de defesa têm +2 de dificuldade (ou -2 dados)
+-----
 
-## The Tower
-A Torre é de domínio do Ladrão, e sua temporada é a Geada-de-Outono. Aquele nascido sob a Torre tem as manhas de achar ouro e abrir trancas de todos os tipos.
-* **Buff:** todos os testes de Arrombamento têm -2 de dificuldade (ou +2 dados)
-* **Debuff:** as pessoas suspeitam de você só de você estar por perto, e você tem dificuldade +2 (ou -2 dados) em testes sociais
+### The Thief
+The **[Thief](https://en.uesp.net/wiki/Lore:Astronomy#The_Thief)**'s season is the darkest month of Evening Star. His domains are the **[Lover](https://en.uesp.net/wiki/Lore:Astronomy#The_Lover)**, the **[Shadow](https://en.uesp.net/wiki/Lore:Astronomy#The_Shadow)** and the **[Tower](https://en.uesp.net/wiki/Lore:Astronomy#The_Tower)**. Those born under the Thief aren't necessarily thieves by profession, but they take more risks than the regular Joe, and hardly ever suffer the consequences. Eventually their luck runs out, so they usually live shorter lives than those born under other signs.
+* **Buff:** tests including Luck or Manipulation have their difficulty decreased by -2.
+* **Debuff:** tests that including defending oneself against attacks have their difficulty increased by +2.
 
-## The Warrior
-O Guerreiro protege seus domínios durante suas temporadas. A temporada do Guerreiro é a Última Semadura, quando sua força é necessária para a colheita. Ses domínios são a Dona, o Corcel e o Dom. Aquele nascido sob o Guerreiro é habilidoso com armas de todos os tipos, mas tem temperamento quente.
-* **Buff:** testes que envolvam armas físicas *ou* Força (a cargo do mestre) têm -2 de dificuldade (ou +2 dados).
-* **Debuff:** sua Percepção e Acuidade são fracas por conta de seu temperamento, e recebem +2 de dificuldade (ou -2 dados).
+### The Lover
+The **[Lover](https://en.uesp.net/wiki/Lore:Astronomy#The_Lover)** is protected by the **[Thief](https://en.uesp.net/wiki/Lore:Astronomy#The_Thief)**, and their month is Sun's Dawn. Those born under the Lover are gracious and passionate.
+* **Buff:** +1 die Charisma and Speechcraft.
+* **Debuff:** -2 dice against physical attacks.
+
+### The Shadow
+The **[Shadow](https://en.uesp.net/wiki/Lore:Astronomy#The_Shadow)** is protected by the **[Thief](https://en.uesp.net/wiki/Lore:Astronomy#The_Thief)**, and its month is Second Seed. Those born under the Shadow may merge with it and are more able to hide.
+* **Buff:** once per session, you may use the Shadow's power to turn invisible.
+* **Debuff:** every failure when using Stealth is a critical failure.
+
+### The Tower
+The **[Tower](https://en.uesp.net/wiki/Lore:Astronomy#The_Tower)** is protected by the **[Thief](https://en.uesp.net/wiki/Lore:Astronomy#The_Thief)**, and its month if Frostfall. Those born under the Tower have a knack for finding gold and picking locks of all kinds.
+* **Buff:** all tests in Lockpicking and Stealth have their difficulty decreased by -2.
+* **Debuff:** people suspect you just by looking at you, and social tests have their difficulty increased by +2.
+
+---
+
+### The Serpent
+The **[Serpent](https://en.uesp.net/wiki/Lore:Astronomy#The_Serpent)** roams free across the sky and doesn't have its own season or month, despite its movements being predictable to a certain degree. There are no common traits between those born under this sign. These people are the most blessed... but they're also the most cursed.
+* **Buff:** the Narrator decides.
+* **Debuff:** the Narrator decides.
