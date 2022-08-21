@@ -1,6 +1,6 @@
 # Breton
 
-<div style="float: right; margin-right: 1%; background: #283339; border: 2px white solid;">
+<div class="amrnth-img-box">
 	<figure>
 		<center><img src="/uploads/images/races/breton.png" height="300" alt="Breton">
 		<figcaption style="color:white; margin-left: 2%; margin-right: 2%;">Illustration of a typical male Breton</figcaption></center>

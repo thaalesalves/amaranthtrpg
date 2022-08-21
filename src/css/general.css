@@ -7,3 +7,10 @@
     padding-right: 0.7%;
     padding-top: 0.7%;
 }
+
+.amrnth-img-box {
+    border: 1px solid var(--borderColor);
+    background-color: #091A28 !important;
+    float: right;
+    margin-left: 1%;
+}
