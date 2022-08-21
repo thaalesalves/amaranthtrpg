@@ -14,3 +14,9 @@
     float: right;
     margin-left: 1%;
 }
+
+.amrnth-img-cap {
+    color:var(--textColor);
+    margin-left: 2%;
+    margin-right: 2%;
+}

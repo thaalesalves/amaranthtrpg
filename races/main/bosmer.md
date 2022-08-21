@@ -3,7 +3,7 @@
 <div class="amrnth-img-box">
 	<figure>
 		<center><img src="/uploads/images/races/bosmer.png" height="300" alt="Bosmer">
-		<figcaption style="color:white; margin-left: 2%; margin-right: 2%;">Illustration of a typical male Bosmer</figcaption></center>
+		<figcaption class="amrnth-img-cap">Illustration of a typical male Bosmer</figcaption></center>
 	</figure>
 </div>
 
