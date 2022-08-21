@@ -8,3 +8,4 @@ The Amaranth is the Dreamer, the conductor of the current Universe where reality
 * **[Alchemy](/rules/alchemy):** potions and alchemical formulas
 * **[Items](/items):** items and equipment that can be used
 * **[Campaigns](/campaigns):** some pre-made campaigns for you to play
+* **[Add-ons](/addons):** add-ons to make the system more complete by adding new mechanics
