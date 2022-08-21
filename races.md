@@ -1,7 +1,7 @@
 # Races
 Tamriel has a myriad of sentient races. They vary from humans to elves to bestial and giant creatures. Some known races are, in actuality, subsets of larger races. The Khajiit, for example, have 16 different breeds depending on the Moons' phases, and Imperials are separated into two other sub-races.
 
-# Main races
+## Main races
 - **[Breton](/races/main/breton):** known as the Manmer, a human race that comes from elven miscegenation
 - **[Imperial](/races/main/imperial):** the cosmopolitan Imperials, humans that have ruled over Tamriel for millennia
 - **[Nord](/races/main/nord):** the inhabitants of the North, known as the Children of the Sky, and the oldest humans in Tamriel
@@ -13,7 +13,7 @@ Tamriel has a myriad of sentient races. They vary from humans to elves to bestia
 - **[Argonian](/races/main/argonian):** the Lizard-Men from Argonia, beastfolk that have a special link to the Hist Tree
 - **[Khajiit](/races/main/khajiit):** the Cat-Men of Elsweyr, children of Lorkhaj, with their special link to Jone and Jode, the Moons that orbit Nirn
 
-# Other races (not yet playable)
+## Other races (not yet playable)
 - **Aldmer:** the original elves, ancestors of the current races, also known as Elhnofey
 - **Chimer:** the changed folk, ancestors to the Dunmer, and creators of the land of Resdayn
 - **Dwemer:** the deep-folk, elves that lived deep in the mountains, also known as Dwarves
