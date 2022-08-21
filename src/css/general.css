@@ -1,5 +1,5 @@
 .app-nav li ul {
-    background-color: #091A28 !important;
+    background-color: var(--background) !important;
 }
 
 .page_toc {
@@ -10,7 +10,7 @@
 
 .amrnth-img-box {
     border: 1px solid var(--borderColor);
-    background-color: #091A28 !important;
+    background-color: var(--background) !important;
     float: right;
     margin-left: 1%;
 }
