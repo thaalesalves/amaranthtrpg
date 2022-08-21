@@ -2,7 +2,7 @@
 
 <div style="float: right; margin-right: 1%; background: #283339; border: 2px white solid;">
 	<figure>
-		<center><img src="/uploads/races/redguard.png" height="300" alt="Redguard">
+		<center><img src="/uploads/images/races/redguard.png" height="300" alt="Redguard">
 		<figcaption style="color:white; margin-left: 2%; margin-right: 2%;">Illustration of a typical male Redguard</figcaption></center>
 	</figure>
 </div>

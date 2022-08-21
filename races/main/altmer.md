@@ -2,7 +2,7 @@
 
 <div style="float: right; margin-right: 1%; background: #283339; border: 2px white solid;">
 	<figure>
-		<center><img src="/uploads/races/highelf.png" height="300" alt="Altmer">
+		<center><img src="/uploads/images/races/highelf.png" height="300" alt="Altmer">
 		<figcaption style="color:white; margin-left: 2%; margin-right: 2%;">Illustration of a typical male High Elf</figcaption></center>
 	</figure>
 </div>

@@ -2,7 +2,7 @@
 
 <div style="float: right; margin-right: 1%; background: #283339; border: 2px white solid;">
 	<figure>
-		<center><img src="/uploads/races/argonian.png" height="300" alt="Argonian">
+		<center><img src="/uploads/images/races/argonian.png" height="300" alt="Argonian">
 		<figcaption style="color:white; margin-left: 2%; margin-right: 2%;">Illustration of a typical male Argonian</figcaption></center>
 	</figure>
 </div>
