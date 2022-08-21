@@ -26,14 +26,14 @@ The **[Divines](https://uesp.net/wiki/Lore:Divines)** are the Aedric deities tha
 
 #### Blessings
 * **Basic:** Fortifies personality (prices, bonus after romance actions, persuasion) with an extra die.
-* **Sect:** The **[Order of the Lily](https://en.uesp.net/wiki/Lore:House_of_Dibella#Order_of_the_Lily)** is the militant arm between the followers of Dibella. They enforce Her words and protect the temples with their lives. It si said that they are consumed by the propagation of beauty itself, which gives them strength and willpower to protect themselves and their temples. Members of this sect get an extra die for actions that involve Strength and Endurance, but lose one die for actions that involve Perception and Intelligence. 
+* **Sect:** The **[Order of the Lily](https://en.uesp.net/wiki/Lore:House_of_Dibella#Order_of_the_Lily)** is the militant arm between the followers of Dibella. They enforce Her words and protect the temples with their lives. It si said that they are consumed by the propagation of beauty itself, which gives them strength and willpower to protect themselves and their temples. Members of this sect get an extra die for actions that involve Strength and Endurance, but lose one die for actions that involve Perception and Intelligence.
 
 ### Julianos
 **[Julianos](https://en.uesp.net/wiki/Lore:Julianos)**, **God of Wisdom and Logic**, governs the spheres of literature, law, history and contradiction. He's usually associated with magic, and it is often revered by wizards and mages. **Jhunal**, the Nordic father of language and mathematics, fell out of favor in the nordic cult, after which he became Julianos of the Divines. Monastic orders founded by Tiber Septim and dedicated to Julianos are the keepers of the Elder Scrolls. He is particularly venerated among many Imperials and Bretons. As a Divine, he represents the virtue of learning, scholarship, and justice.
 * **Main temple:** The Great Chapel of Julianos (**[Skingrad](https://en.uesp.net/wiki/Lore:Skingrad)**, **[Cyrodiil](https://uesp.net/wiki/Lore:Cyrodiil)**)
 
 #### Blessings
-* **Basic:** Extra die in actions that involve Perception, Manipulation and Intelligence. 
+* **Basic:** Extra die in actions that involve Perception, Manipulation and Intelligence.
 * **Sect:** TODO
 
 ### Kynareth
@@ -69,7 +69,7 @@ The **[Divines](https://uesp.net/wiki/Lore:Divines)** are the Aedric deities tha
 * **Sect:** TODO
 
 ## The One
-The Pantheon of the Eight would live on for thousands of years, until the unification of Tamriel by **[Tiber Septim](https://en.uesp.net/wiki/Lore:Tiber_Septim)** and the start of the **[Third Era](https://en.uesp.net/wiki/Lore:Third_Era)**. In his deathbed, his deeds were so well known that he achieved godhood, making him one of the Divines. Known as Talos, the transcended Emperor was given a position between the gods, that now counted Nine (or, more traditionally, the Eight and One). Talos became the patron of the Empire and all of its ideals of civilization, as well as those who go to war to defend it. 
+The Pantheon of the Eight would live on for thousands of years, until the unification of Tamriel by **[Tiber Septim](https://en.uesp.net/wiki/Lore:Tiber_Septim)** and the start of the **[Third Era](https://en.uesp.net/wiki/Lore:Third_Era)**. In his deathbed, his deeds were so well known that he achieved godhood, making him one of the Divines. Known as Talos, the transcended Emperor was given a position between the gods, that now counted Nine (or, more traditionally, the Eight and One). Talos became the patron of the Empire and all of its ideals of civilization, as well as those who go to war to defend it.
 
 ### Talos
 **[Talos](https://en.uesp.net/wiki/Lore:Talos)**, **Heir to the Seat of Sundered Kings**, is the most important hero-god of Mankind. In his mortal form, known as **Tiber Septim**, he conquered all of Tamriel and ushered in the **[Third Era](https://en.uesp.net/wiki/Lore:Third_Era)** (and the **[Third Empire](https://en.uesp.net/wiki/Lore:Third_Empire)**). After death, his spirit ascended to the heavens to become the ninth and youngest divine, under the name given to him by the Nords: Talos. Also called **Ysmir**, **Dragon of the North**. Less prominent sects, such as the Talos Cult, have been inspired by his apotheosis. In the **[Fourth Era](https://en.uesp.net/wiki/Lore:Fourth_Era)**, worship of Talos was banned as a result of the White-Gold Concordat. However, many of the Nords of Skyrim continued to revere him despite these strict terms. His aspect Ysmir, "Dragon of the North" is invoked as the patron to questing heroes.

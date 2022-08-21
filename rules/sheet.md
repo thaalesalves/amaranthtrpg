@@ -14,7 +14,6 @@ For more information, read the main articles
 - **[Merits](/rules/sheet/merits):** physical or personality traits that cost freebie points (and are usually positive)
 - **[Attributes](/rules/sheet/attributes):** character's personality traits
 - **[Abilities](/rules/sheet/abilities):** character's talents, skills and knowledge
-- **[Astrology](/rules/sheet/astrology):** the constellation the character was born under
 - **[Backgrounds](/rules/sheet/backgrounds):** character's traits that may represent their backstory
 - **[Archetypes](/rules/sheet/archetypes):** character's nature and demeanor'
 
