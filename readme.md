@@ -9,4 +9,4 @@ This system is being developed by **[Thales Alves](https://github.com/thaalesalv
 * **[Magic](/rules/magic):** magic mechanics and magic schools
 * **[Alchemy](/rules/alchemy):** potions and alchemical formulas
 * **[Items](/items):** items and equipment that can be used
-* **[Campaigns](/campaigns):** some pre-made campagins for you to play
+* **[Campaigns](/campaigns):** some pre-made campaigns for you to play
