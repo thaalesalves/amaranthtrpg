@@ -1,9 +1,9 @@
-# Habilidades
+# Abilities
 
-Habilidades são as coisas que o personagem sabe fazer, áreas que domina. São dividas em três categorias: Talentos, Perícias e Conhecimentos.
+Abilities are the things your character can do, the areas they have their expertise in. They're divided into three categories: Talents, Skills and Knowledges.
 
-# Talentos
+## Talents
 
-# Perícias
+## Skills
 
-# Conhecimentos
+## Knowledges

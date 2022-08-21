@@ -1,33 +1,33 @@
-# Atributos
+# Atrributes
 
-Os atributos são as características de personalidade do personagem. São divididos em três categorias: Físicos, Sociais e Mentais.
+Attributes are personality traits characters may have. They're divided into three categories: Physical, Social and Mental.
 
-# Físicos
-## Força
-Força física do personagem. Mede o quanto ele consegue levantar de peso.
+## Physical
+### Strength
+Your character's physical strength. Measures how much weight they can lift.
 
-## Resistência
-Resistência física do personagem. O quanto de dano ele toma, o quanto aguenta correr e fazer movimentos.
+### Endurance
+Your character's physical endurance. How much damage they take, how much they can run and move around.
 
-## Agilidade
-Rapidez de movimentos físicos do personagem. Flexibilidade, velocidade, habilidade.
+### Agility
+Your character's movement speed. Flexibility, velocity, general skill and ability.
 
-# Sociais
-## Carisma
-O carisma do seu personagem. Lábia, o quão bem ele se dá em situações sociais e de diálogo.
+## Social
+### Charisma
+Your character's charisma. How well they do in social and dialogue situations.
 
-## Manipulação
-O quão bem seu personagem consegue mentir, convencer pessoas do que quer ou controlá-las.
+### Manipulation
+How well your character can lie, convince people to do their bidding or control them.
 
-## Sorte
-A sorte geral do seu personagem. O quão bem ele se dá em situações gerais.
+### Luck
+Your character's general luck. How well they do in general situations.
 
-# Mentais
-## Percepção
-O quão bem o personagem percebe e reconhece o ambiente ao redor. 
+## Mental
+### Perception
+How well your character perceives, notices and recognizes the environment around them.
 
-## Inteligência
-O quão rápido seu personagem pensa, o quanto de conhecimento ele tem.
+### Intelligence
+How fast your character's thoughts are, and how much knowledge they have.
 
-## Força de vontade
-A força de vontade do personagem. O quão bem ele consegue lidar consigo mesmo.
+### Willpower
+Your character's willpower. How well they deal with themself.
