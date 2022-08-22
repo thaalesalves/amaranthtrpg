@@ -8,6 +8,6 @@ With the fall of the Reman Dynasty at the end of the First Era, the Dragonfires 
 
 The result of Mannimarco's betrayal was a historical event that became known as the Soulburst, which caused the deaths of thousands of people, besides the taking of their souls to power the machines used to achieve the Planemeld, that would join Mundus and Coldharbour together. With the conclusion of the ritual, disasters occurred in all four corners of Nirn. Mages died or went mad, the Red Mountain erupted in Morrowind, earthquakes shook Skyrim, huge storms devastated the coasts of Elsweyr and Valenwood. The constellation of the Serpent grew so big that it threatened all other constellations.
 
-# Campanhas
-## Guilda dos Lutadores
-## A Cidade Oca
+## Campaigns
+### The Fighter's Guild
+### The Hollow City
