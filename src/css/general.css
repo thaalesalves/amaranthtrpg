@@ -24,3 +24,13 @@
 .sidebar-toggle {
     background-color: var(--background) !important;
 }
+
+@media screen and (max-width: 768px)
+#docsify-darklight-theme {
+    left: none !important;
+}
+
+@media screen and (max-width: 1300px)
+.page_toc {
+    margin-top: 15% !important;
+}
