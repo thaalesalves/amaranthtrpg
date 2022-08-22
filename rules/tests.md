@@ -30,7 +30,7 @@ Two rolls are required: one that determines how well the attack has gone **(Attr
 
 The roll to determine the blow is done by simply summing the points of the Atribute and the Talent involved in the action. The second roll is based on the sum of Skill + damage of the weapon used; also add to the equation the amount of successes had in the first roll and subtract 1.
 
-**Exemplo:** Huge Jazz has 3 points of Agility and 2 points of One-Handed, and is attempting to attack with a sword, that has a base damage of 5.
+**Exemplo:** Hugh Jazz has 3 points of Agility and 2 points of One-Handed, and is attempting to attack with a sword, that has a base damage of 5.
 * First roll: **(2, 8, 10, 5, 8)**. He got four successes. The action succeded.
 * Second roll: **(6, 5, 10, 2, 7, 9, 4, 6)**. The dice rolled refer to his skill + 3 successes from the previous roll (since he got four and we subtracted one). He has four successes. To determine the damage, it is necessary to rolls his opponent's reaction.
 
