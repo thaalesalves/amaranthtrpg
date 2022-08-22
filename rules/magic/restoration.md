@@ -1,51 +1,50 @@
-# Restaraução
+# Restoration
 
-Resturação é uma das seis escolas de magia, focada em curar, restaurar e fortificar atributos do corpo e habilidades, curar doenças e se proteger de outras influências malignas. Apesar da incrível utilidade de feitiços de Restauração, o conhecimento deles parece ter sido tomado recentemente: até a Segunda Era, mesmo feitiços de cura de doenças eram raros. Por conta da natureza benevolente desta escola, ela é especialmente popular entre religiosos.
+Restoration is one of the six schools of magic, focused in curing, restoring and fortifying mind and body attributes, curing diseases and protecting oneself against evil influences. Despite the incredible utility of Restoration spells, knowledge about them seems have been a recent thing: until the Second Era, even cure spells were rare. Because of the benevolent nature of this school, it is specially popular between devouts.
 
-* Feitiços de cura e restauração aumentam pontos do alvo, que foram reduzidos de alguma maneira. São mais usados para restaurar saúde, mas outros atributos também podem ser afetados.
-* Feitiços de fortificação aumentam temporariamente os aspectos, como força, resistência ou até habilidades mágicas.
-* Feitiços de absorção permitem que o usuário transfira energia diretamente do alvo para si. O feitiço pode ter como algo qualquer atributo, ou qualquer aspecto do alvo.
-* Feitiços de proteção são usados para anular magia hostil recebida.
+* Cure and restoration spells increase the target's points after being reduced somehow. They're mostly used to restore health, but other attributes may also be affected.
+* Fortification spells temporarily increase attributes such as strength, endurance or even magical abilities.
+* Protection spells are used to annulate hostile magic received directly.
 
 ## Spells
-## Cura rápida
-* **Tipo:** cura.
-* **Custo:** 2 Magicka (3 caso seja em outra pessoa).
-* **Nível:** Adepto.
-* **Descrição:** cura dano contusivo.
+### Quick cure
+* **Type:** cure
+* **Cost:** 2 Magicka (3 in case the caster is not the target).
+* **Level:** adept
+* **Description:** cures contusive damage
 
-## Escudo inferior
-* **Tipo:** proteção.
-* **Custo:** 2 Magicka (5 se for um domo de proteção em área).
-* **Nível:** Adepto.
-* **Descrição:** escudo de proteção contra ataques mágicos.
+### Lesser ward
+* **Type:** protection
+* **Cost:** 2 Magicka (5 if it's an AoE protection dome).
+* **Level:** adept
+* **Description:** shield of protection against lesser magical attacks
 
-## Escudo superior
-* **Tipo:** proteção.
-* **Custo:** 4 Magicka (6 se for um domo de proteção em área).
-* **Nível:** Expert.
-* **Descrição:** escudo de proteção contra ataques mágicos e físicos. O inimigo não consegue penetrar fisicamente o domo, mas aliados conseguem.
+### Greater ward
+* **Type:** protection
+* **Cost:** 10 Magicka (6 if it's an AoE protection dome).
+* **Level:** expert
+* **Description:** shield of protection against greater magical attacks and physical ones. The enemy cannot penetrate the ward, but allies can
 
-## Luz de Magnus
-* **Tipo:** proteção.
-* **Custo:** 4 Magicka.
-* **Nível:** Expert.
-* **Descrição:** espanta mortos-vivos com uma luz solar intensa.
+### Magnus' Light
+* **Type:** protection
+* **Cost:** 5 Magicka.
+* **Level:** expert
+* **Description:** scares undead beings away with an intense sun light. Increases difficulty of tests for nearby vampires.
 
-## Aura de Stendarr
-* **Tipo:** proteção.
-* **Custo:** 6 Magicka.
-* **Nível:** Mestre.
-* **Descrição:** cria uma aura de luz que causa dano em mortos-vivos.
+### Stendarr's Aura
+* **Type:** protection
+* **Cost:** 10 Magicka.
+* **Level:** master
+* **Description:** creates an aura of light that causes damage to Daedra undead beings
 
-## Cura efetiva
-* **Tipo:** cura.
-* **Custo:** 5 Magicka (7 caso seja em outra pessoa).
-* **Nível:** Expert.
-* **Descrição:** cura dano letal.
+### Effective cure
+* **Type:** cure
+* **Cost:** 5 Magicka (7 in case the caster is not the target).
+* **Level:** expert
+* **Description:** cures lethal damage
 
-## Cura definitiva
-* **Tipo:** cura.
-* **Custo:** 8 Magicka (10 caso seja em outra pessoa).
-* **Nível:** Mestre.
-* **Descrição:** cura todo tipo de dano, inclusive doenças, dano agravado e letal.
+### Definitive cure
+* **Type:** cure
+* **Cost:** 8 Magicka (10 in case the caster is not the target).
+* **Level:** master
+* **Description:** cures all kinds of damage, including disease, aggravated and lethal damage

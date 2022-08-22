@@ -4,73 +4,73 @@ Alteration is one of the six schools of magic. Spells of this school change the 
 
 ## Spells
 ### Candlelight
-* **Tipo:** illumination.
-* **Custo:** 1 Magicka.
-* **Nível:** novice.
-* **Descrição:** a ball of light that hovers over the caster's head, illuminating a radius of 1,5m around them.
+* **Type:** illumination.
+* **Cost:** 1 Magicka.
+* **Level:** novice.
+* **Description:** a ball of light that hovers over the caster's head, illuminating a radius of 1,5m around them.
 
 ### Magelight
-* **Tipo:** illumination.
-* **Custo:** 1 Magicka.
-* **Nível:** novice.
-* **Descrição:** similar to Candlelight, but the ball of slight stays at the place where it was cast and doesn't follow the caster.
+* **Type:** illumination.
+* **Cost:** 1 Magicka.
+* **Level:** novice.
+* **Description:** similar to Candlelight, but the ball of slight stays at the place where it was cast and doesn't follow the caster.
 
 ### Oakflesh
-* **Tipo:** protection.
-* **Custo:** 1 Magicka.
-* **Nível:** novice.
-* **Descrição:** makes your skin as hard as oak, making you more resistent to direct damage. Defense tests have their difficulty decreased by -1. Lasts for the scene.
+* **Type:** protection.
+* **Cost:** 1 Magicka.
+* **Level:** novice.
+* **Description:** makes your skin as hard as oak, making you more resistent to direct damage. Defense tests have their difficulty decreased by -1. Lasts for the scene.
 
 ### Stoneflash
-* **Tipo:** protection.
-* **Custo:** 2 Magicka.
-* **Nível:** adept.
-* **Descrição:** makes your skin as hard as stone, making you more resistent to direct damage. Defense tests have their difficulty decreased by -1. You get additional protection against fire or electrical damage. Lasts for the scene.
+* **Type:** protection.
+* **Cost:** 2 Magicka.
+* **Level:** adept.
+* **Description:** makes your skin as hard as stone, making you more resistent to direct damage. Defense tests have their difficulty decreased by -1. You get additional protection against fire or electrical damage. Lasts for the scene.
 
 ### Ash Shell
-* **Tipo:** paralyzation.
-* **Custo:** 2 Magicka.
-* **Nível:** expert.
-* **Descrição:** surrounds the target in a solid ash cocoon, paralyzing them for 1 turn.
+* **Type:** paralyzation.
+* **Cost:** 2 Magicka.
+* **Level:** expert
+* **Description:** surrounds the target in a solid ash cocoon, paralyzing them for 1 turn.
 
 ### Waterbreathing
-* **Tipo:** physiology.
-* **Custo:** 3 Magicka.
-* **Nível:** expert.
-* **Descrição:** allows the caster to breath underwater with no problems. Argonians have this skill by nature.
+* **Type:** physiology.
+* **Cost:** 3 Magicka.
+* **Level:** expert
+* **Description:** allows the caster to breath underwater with no problems. Argonians have this skill by nature.
 
 ### Detect unlife
-* **Tipo:** detection.
-* **Custo:** 2 Magicka.
-* **Nível:** master.
-* **Descrição:** detects undead beings in a 5m radius.
+* **Type:** detection.
+* **Cost:** 2 Magicka.
+* **Level:** master.
+* **Description:** detects undead beings in a 5m radius.
 
 ### Paralysis
-* **Tipo:** paralyzation.
-* **Custo:** 2 Magicka.
-* **Nível:** master.
-* **Descrição:** paralyzes the target completely for 2 turns.
+* **Type:** paralyzation.
+* **Cost:** 2 Magicka.
+* **Level:** master.
+* **Description:** paralyzes the target completely for 2 turns.
 
 ### Massive paralysis
-* **Tipo:** paralyzation.
-* **Custo:** 5 Magicka.
-* **Nível:** grandmaster.
-* **Descrição:** paralyzes everyone around the caster for 2 turns. Does not affect allies.
+* **Type:** paralyzation.
+* **Cost:** 5 Magicka.
+* **Level:** grandmaster.
+* **Description:** paralyzes everyone around the caster for 2 turns. Does not affect allies.
 
 ### Dragonhide
-* **Tipo:** protection.
-* **Custo:** 2 Magicka.
-* **Nível:** master.
-* **Descrição:** makes your skin as hard as dragonhide, making you more resistent to direct damage. Defense tests have their difficulty decreased by -2. You get additional protection against any type of direct damage. Lasts for the scene.
+* **Type:** protection.
+* **Cost:** 2 Magicka.
+* **Level:** master.
+* **Description:** makes your skin as hard as dragonhide, making you more resistent to direct damage. Defense tests have their difficulty decreased by -2. You get additional protection against any type of direct damage. Lasts for the scene.
 
 ### Burden
-* **Tipo:** physiology.
-* **Custo:** 2 Magicka.
-* **Nível:** expert.
-* **Descrição:** drastically increases the target's bodyweight, making them unable to sustain themselves and fall to the ground. Lasts for 1 turn.
+* **Type:** physiology.
+* **Cost:** 2 Magicka.
+* **Level:** expert
+* **Description:** drastically increases the target's bodyweight, making them unable to sustain themselves and fall to the ground. Lasts for 1 turn.
 
 ### Unburden
-* **Tipo:** physiology.
-* **Custo:** 2 Magicka.
-* **Nível:** expert.
-* **Descrição:** increases the casters body resistance, making them lighters. Lasts for 1 turn.
+* **Type:** physiology.
+* **Cost:** 2 Magicka.
+* **Level:** expert
+* **Description:** increases the casters body resistance, making them lighters. Lasts for 1 turn.

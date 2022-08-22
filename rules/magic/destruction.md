@@ -1,80 +1,78 @@
-# Destruição
+# Destruction
 
-A Escola de Destruição é uma das seis escolas da magia. Diz respeito a ataques de dano a todo tipo de matéria, tanto viva quanto inorgânica. Maestria da magia da Destruição traz certa quantidade de perigo. A escola da Destruição é dividida em cinco tipo básicos: dano elemental, dano de drenagem, vulnerabilidade e desintegração.
+The school of Destruction is one of the six schools of magic. It's about dealing damage to all sorts of matter, both organic and inorganic. Mastery of Destruction magic brings a certain amount of danger. The school of Destruction is divided into four basic types: elemental damage, drainage damage, direct damage, disintegration damage and vulnerability.
 
-Dano elemental usa fogo, gelo, eletricidade ou (raramente) veneno para causar dano direto. Pode ser usado diretamente contra alvos, mas algumas aplicações usaram essas forças através de runas, capas ou até mesmo paredes de dano para deter inimigos. Magias de drenagem atacam o corpo do oponente reduzindo temporariamente uma de suas estatísticas fundamentais. Dano direto funciona de forma parecida com dano de drenagem, mas o dano causado é imediato e não perdura por mais tempo.
-Feitiços de vulnerabilidade tornam o alvo mais suscetível a outras formas de dano. Não inclui apenas dano elemental, mas também dano de armas, venenos e até magia em si. Pode ser usado para tornar o oponente mais vulnerável a doenças.
-Feitiços de desintegração atacam somente equipamento: armadura e armas. Entretanto, alguns magos habilidosos conseguiram desintegrar corpos inteiros através da maestria de magia de eletricidade.
+Elemental damage uses fire, frost, electricity or (rarely) poison to cause direct damage. It may used directly against targets, but some applications of this type of damage can be done through runes, cloaks or even damage walls to keep enemies at bay. Drainage damage attack the opponent's body by reducing temporarily one of their fundamental stats. Direct damage works similarly to drainage damage, but the damage is immediate e doesn't linger. Vulnerability spells make the target more susceptible to other types of damage, including  but not limited to weapon, poison and magic damage. Disintegration damage can only be used in equipment: weapons and armor. However, some skilled mages have been able to disintegrate entire bodies with their destruction magic mastery, using electricity.
 
 ## Spells
-### Míssil Elemental
-* **Tipo:** dano elemental; dano direto.
-* **Custo:** 1 Magicka (aumenta 1 por nível).
-* **Nível:** Noviço.
-* **Descrição:** um míssil projetado contra o oponente, que pode ser de fogo, gelo ou eletricidade. 
+### Elemental missile
+* **Type:** elemental damage; direct damage.
+* **Cost:** 1 Magicka (increases 1 per level).
+* **Level:** novice
+* **Description:** a projected missile shot against the opponent, that may be made of fire, frost, stone or electricity
 
-### Congelamento
-* **Tipo:** dano elemental; dano de drenagem.
-* **Custo:** 3 Magicka (aumenta 1 por nível).
-* **Nível:** Adepto.
-* **Descrição:** um vento gelado quase sólido que, se bem sucedido, congela o oponente por 1 turno. Pode causar agravado de Geladura.
+### Freezing
+* **Type:** elemental damage; drainage damage.
+* **Cost:** 3 Magicka (increases 1 per level).
+* **Level:** adept
+* **Description:** a freezing wind, almost solid that if well succeeded, freezes the opponent for 1 turn. May cause aggravated Frostbite damage
 
-### Incineramento
-* **Tipo:** dano elemental; dano de drenagem.
-* **Custo:** 3 Magicka (aumenta 1 por nível).
-* **Nível:** Adepto.
-* **Descrição:** uma massa de fogo que, se bem sucedida, desfigura o oponente. Pode causar agravado de Queimadura.
+### Incineration
+* **Type:** elemental damage; drainage damage.
+* **Cost:** 3 Magicka (increases 1 per level).
+* **Level:** adept
+* **Description:** a mass of fire that if well succeeded, disfigures the opponent. May cause aggravated Burn damage
 
-### Corrente Elétrica
-* **Tipo:** dano elemental; dano de drenagem.
-* **Custo:**3 Magicka (aumenta 1 por nível).
-* **Nível:** Adepto.
-* **Descrição:** uma corrente elétrica constante que paralisa o oponente por 1 turno. Pode causar agravado de Eletrocutamento. 
+### Electrical current
+* **Type:** elemental damage; drainage damage.
+* **Cost:**3 Magicka (increases 1 per level).
+* **Level:** adept
+* **Description:** an electrical current that paralyzes the opponent for 1 turn. May cause aggravated Electrocution damage
 
-### Capa Elemental
-* **Tipo:** dano elemental; proteção elemental.
-* **Custo:** 3 Magicka.
-* **Nível:** Adepto.
-* **Descrição:** uma capa elemental (fogo, gelo ou eletricidade) o envolve, e oponentes que chegarem muito perto levam dano. Aumenta resistência ao elemento que compõe a capa, e dura 2 turnos. No caso de uma capa de evento, tem a chance de jogar oponentes longe, e aumenta resistência a dano de projéteis. Pode causar dano em aliados.
+### Elemental cloak
+* **Type:** elemental damage; proteção elemental.
+* **Cost:** 3 Magicka.
+* **Level:** adept
+* **Description:** an elemental cloak (fire, frost, stone, wind or electricity) surrounds you, and opponents that get too close take damage. Increases your resistance to attacks of the same element as the cloak, and lasts for 2 turns. In the case of a wind cloak, there's a chance of launching opponents through the air, and increases resistance against projectiles. May cause damage to allies.
 
-### Tempestade
-* **Tipo:** dano elemental; dano direto; dano de drenagem.
-* **Custo:** 5 Magicka.
-* **Nível:** Expert.
-* **Descrição:** uma tempestade elemental que causa dano de área em todos ao seu redor, menos a você. Pode causar dano agravado em todos, até mesmo em aliados. A tempestade dura 2 turnos.
+### Storm
+* **Type:** elemental damage; direct damage; drainage damage.
+* **Cost:** 5 Magicka.
+* **Level:** expert
+* **Description:** an elemental storm that causes damage to everyone around you. You may cause aggravated damage in everyone, including allies. The storm lasts for 2 turns.
 
-### Corrosão
-* **Tipo:** dano direto.
-* **Custo:** 3 Magicka (aumenta 1 ponto por nível).
-* **Nível:** Adepto.
-* **Descrição:** corrói objetos, como portas, fechaduras, armaduras e até mesmo pedras.
+### Corrosion
+* **Type:** direct damage.
+* **Cost:** 3 Magicka (increases 1 ponto per level).
+* **Level:** adept
+* **Description:** corrodes objects such as doors, locks, armor and even stones and rocks
 
-### Drenagem
-* **Tipo:** dano de drenagem.
-* **Custo:** 3 Magicka.
-* **Nível:** Mestre.
-* **Descrição:** drena diretamente um ou dois pontos de algum atributo específico do oponente. Até o fim da cena, você ganha dados e seu oponente os perde, de acordo com a quantidade de pontos de atributos ganha.
+### Drainage
+* **Type:** drainage damage.
+* **Cost:** 3 Magicka.
+* **Level:** master
+* **Description:** directly drains one or two points of a specific attribute of the opponent. Until the end of the scene, you gain dice equal to the amount of points taken from the opponent in that attribute
 
-### Fragilidade
-* **Tipo:** dano de drenagem.
-* **Custo:** 2 Magicka.
-* **Nível:** Expert.
-* **Descrição:** o alvo perde dados para rolagens o atributo específico perdido.
+### Fragility
+* **Type:** drainage damage.
+* **Cost:** 2 Magicka.
+* **Level:** expert
+* **Description:** the target loses dice for rolls with the specified attribute
 
-### Drenagem de essência
-* **Tipo:** dano de drenagem.
-* **Custo:** 3 Magicka.
-* **Nível:** Grão-mestre.
-* **Descrição:** drena estatísticas vitais do oponente, como Magicka ou Stamina. Você ganha, até que sejam usados, os pontos drenados do oponente. Eles não são regeneráveis.
+### Essence drainage
+* **Type:** drainage damage.
+* **Cost:** 3 Magicka.
+* **Level:** grandmaster
+* **Description:** drains vital stats from the opponent, such as Magicka or Stamina. Those get transferred to you so you may use, but the drained stats do not regenerate
 
-### Explosão
-* **Tipo:** dano direto.
-* **Custo:** 10 Magicka.
-* **Nível:** Grão-mestre.
-* **Descrição:** seu oponente explode e morre, simplesmente isso.
+### Explosion
+* **Type:** direct damage.
+* **Cost:** 20 Magicka.
+* **Level:** grandmaster
+* **Description:** your opponent dies in a spontaneous explosion
 
-### Desintegração
-* **Tipo:** dano direto.
-* **Custo:** 10 Magicka.
-* **Nível:** Grão-mestre.
-* **Descrição:** seu oponente se desintegra e morre, simplesmente isso.
+### Disintegration
+* **Type:** direct damage.
+* **Cost:** 20 Magicka.
+* **Level:** grandmaster
+* **Description:** your opponent disintegrates and dies

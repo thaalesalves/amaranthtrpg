@@ -1,82 +1,88 @@
-# Misticismo
+# Mysticism
 
-O Misticismo é uma das seis escolas da magia, e é a menos entendida pela comunidade mágica. A arte foi descrita como a habilidade de "alterar a natureza da magia em si" e como envolvida com "a manipulação das forças mágicas e limites para ultrapassar as estruturas e limitações do mundo físico". Os feitiços desta escura têm suas origens na Ordem Psíjica de Artaeum, que chamou seus estudos de "Caminhos Antigos". Esta escola é ocasionalmente referida como o "Caminho dos Psíjicos". A prática do Misticismo requer lidar com "enigmas e paradoxos" e o "abandono da lógica para 'uma tipo temporário de loucura'" que pode levar o estudante a danos de longo prazo se praticado de forma incorreta. Seu uso foi comum entre os místicos xamãs do Povo do Desfiladeiro durante a Segunda Era. Os feitiços são divididos em cinco categorias: feitiços de transporte, de detecção, absorção, reflexão e feitiços que manipulam diretamente as forças mágicas do mundo não-visto, com efeitos como Dissipação, Aprisionamento de Almas e telecinese. Efeitos de Absorção são normalmente considerados parte da escola de Restauração.
-* Efeitos de transporte são usados em lugares com redes de estradas que inviabilizam a viagem com cavalos. Permitem que o usuário retorne a uma localização determinada, ou aparecer instantaneamente em um lugar associado com poder, como uma capela.
-* Uma variante de feitiços de detecção também existe. Estes permitem que o usuário veja a localização de seres vivos, objetos ou qualquer outro item para o qual um determinado feitiço foi desenvolvido.
-* Efeitos de absorção permitem que o usuário tome energia diretamente do alvo para si. O feitiço pode ter como alvo atributos, habilidades, saúde, magicka ou qualquer outro aspecto vital do alvo.
-* Feitiços de reflexão permitem que o usuário reflita determinada proporção de efeitos mágicos ou físicos do alvo.
-* Telecinese é a habilidade de mover itens sem os tocar fisicamente.
-* Aprisionamento de Almas é o mais controverso. Permite que o usuário aprisione a alma de uma criatura em uma gema, e a usa para criar ou recarregar artefatos mágicos. Almas sãp divididas em "brancas" - a alma da maioria das criaturas, e "pretas" - almas de humanos, elfos ou outros seres avançados.
+Mysticism is one of the six colleges of magic, and the one least understood by the magical community. The art has been described as allowing a mage "to alter the nature of magic itself" and as involving "the manipulation of magical forces and boundaries to bypass the structures and limitations of the physical world." The spells in the school have their origins with the Psijic Order of Artaeum, who call their study the "Old Way", and the school has occasionally been referred to as the Way of the Psijic. The practice of Mysticism seems to require dealing with "conundrums and paradoxes" and abandoning logic to "embrace a temporary sort of insanity" which may lead the student to long-term harm if practiced without proper instruction. Its usage was common among the mystic Reachman shamans during the Second Era. The spells are divided into five categories: transport, detection, absorption, reflection and manipulation of magical forces. The latter includes Dissipation, Soul Trap and Telekinesis. Absorption effects may be considered part of the Restoration school by some.
+
+* Transport effects are used in places with road networks that are hard to travel by horse. They allow the caster to go to a specific location, or instantly appear in a place of power, like a chapel.
+* A variation of detection spells also exists. These allow the caster to see the location of living beings, objects or any other item for which the spell was developed.
+* Absorption effects allow the caster to directly drain energy from the target to themself. The spell may have as target their attributes, abilities, health, magicka or any other vital aspect of the target.
+* Telekinesis is the ability of moving items without physically touching them.
+* Soul Trap is the most controversial of all. Allows the caster to imprison the soul of a target into a gem, and uses it to create or recharge magical artifacts. Souls are divided between "white" - the soul of most creatures, and "black" - souls of advanced beings that are related to Creation, such as humans, elves (people in general, of all races), sentient Daedra and more.
 
 ## Spells
-## Absorção de atributo
-* **Tipo:** absorção.
-* **Custo:** 5 Magicka.
-* **Nível:** Expert.
-* **Descrição:** absorve atributos do oponente (não confunda com absorção de habilidades). Dura até ser usado.
+### Attribute absorption
+* **Type:** absorption
+* **Cost:** 5 Magicka.
+* **Level:** expert
+* **Description:** absorbs the opponent's attributes (not the same as absorption of abilities). Lasts until the drained attributes are used.
 
-## Projeção Psíjica
-* **Tipo:** projeção.
-* **Custo:** 7 Magicka.
-* **Nível:** Expert.
-* **Descrição:** faz uma projeção do usuário em algum ponto do Espaço, capaz de falar, ver, sentir e ouvir tudo como se a própria pessoa estivesse lá.
+### Psijic Projection
+* **Type:** projection
+* **Cost:** 7 Magicka.
+* **Level:** expert
+* **Description:** creates a projection of the caster in a specific point of Space, capable of speaking, seeing, feeling and hearing everything as if the person themself was there
 
-## Aprisionamento de alma
-* **Tipo:** magia de alma.
-* **Custo:** 5 Magicka.
-* **Nível:** Expert.
-* **Descrição:** aprisiona a alma do oponente numa gema d'alma.
+### White soul trap
+* **Type:** soul magic
+* **Cost:** 5 Magicka.
+* **Level:** expert
+* **Description:** imprisons the soul of an opponent into a soul gem. Can only be used with creatures that have a white soul (animals, lesser Daedra, etc.)
 
-## Intervenção divina
-* **Tipo:** teletransporte.
-* **Custo:** 10 Magicka.
-* **Nível:** Expert.
-* **Descrição:** teletransporta o usuário para o templo mais próximo.
+### Divine intervention
+* **Type:** teleportation
+* **Cost:** 10 Magicka.
+* **Level:** expert
+* **Description:** teleports the caster to the nearest temple
 
-## Desmoralizar
-* **Tipo:** personalidade.
-* **Custo:** 10 Magicka.
-* **Nível:** Mestre.
-* **Descrição:** altera a percepção de si mesmo do alvo, e o faz entrar em colapso emocional. Pode causar medo, desespero, fobias e efeitos diversos. O efeito é permanente.
+### Demoralize
+* **Type:** personality
+* **Cost:** 20 Magicka.
+* **Level:** grandmaster
+* **Description:** alters one's perception of themself, and makes them go into an emotional collapse. May cause fear, despair, phobia and other effects. The effect is permanent.
 
-## Detecção de chave
-* **Tipo:** detecção.
-* **Custo:** 10 Magicka.
-* **Nível:** Grão-mestre.
-* **Descrição:** detecta chaves e itens que abrem portas.
+### Key detection
+* **Type:** detection
+* **Cost:** 10 Magicka.
+* **Level:** grandmaster
+* **Description:** detects keys and objects that open doors
 
-## Silenciamento
-* **Tipo:** essência da magia.
-* **Custo:** 10 Magicka.
-* **Nível:** Grão-mestre.
-* **Descrição:** silencia por completo o oponente, fazendo ele perder toda e qualquer habilidade mágica até o fim da cena.
+### Silence
+* **Type:** magic essence
+* **Cost:** 10 Magicka.
+* **Level:** grandmaster
+* **Description:** completely silences the target, making them lose any and all magical ability until the end of the scene
 
-## Marcação & Transporte
-* **Tipo:** teletransporte.
-* **Custo:** 10 Magicka.
-* **Nível:** Grão-mestre.
-* **Descrição:** marca um lugar específico no espaço-tempo, e pode ser usado para transportar o usuário a este lugar.
+### Teleportation
+* **Type:** teleportation
+* **Cost:** 20 Magicka.
+* **Level:** grandmaster
+* **Description:** marks a specific point in Space, and transports the caster to that point
 
-## Absorção de feitiço
-* **Tipo:** essência da magia.
-* **Custo:** 5 Magicka.
-* **Nível:** Grão-mestre.
-* **Descrição:** converte feitiços de um oponente em Magicka e regenera o status do usuário. 
+### Spell absorption
+* **Type:** magic essence
+* **Cost:** 5 Magicka.
+* **Level:** grandmaster
+* **Description:** converts the opponent's spells into pure magicka and recharges the caster's stat. Lasts until the energy drained is used
 
-## Aprisionamento de alma superior
-* **Tipo:** magia de alma.
-* **Custo:** 10 Magicka.
-* **Nível:** Grão-mestre.
-* **Descrição:** aprisiona almas superiores, de seres sencientes (i.e., humanos, elfos, Argonianos ou Khajiit).
+### Black soul trap
+* **Type:** soul magic
+* **Cost:** 10 Magicka.
+* **Level:** grandmaster
+* **Description:** imprisons the soul of an opponent into a soul gem. Can only be used with creatures that have a black soul (people, greater Daedra, etc.)
 
-## Detecção de vida
-* **Tipo:** detecção.
-* **Custo:** 2 Magicka.
-* **Nível:** Expert.
-* **Descrição:** detecta seres vivos num raio de cinco metros.
+### Life detection
+* **Type:** detection
+* **Cost:** 5 Magicka.
+* **Level:** expert
+* **Description:** detects living beings in a radius of ten meters
 
-## Telecinese
-* **Tipo:** movimento.
-* **Custo:** 2 Magicka (aumenta dependendo do item).
-* **Nível:** Mestre.
-* **Descrição:** movimenta um objeto sem tocá-lo. Dificuldade padrão para este teste pode aumentar dependendo do item-alvo.
+### Unlife detection
+* **Type:** detection
+* **Cost:** 8 Magicka.
+* **Level:** expert
+* **Description:** detects undead beings in a radius of ten meters
+
+### Telekinesis
+* **Type:** movement
+* **Cost:** 2 Magicka (aumenta dependendo do item).
+* **Level:** master
+* **Description:** moves objects without touching them. Default difficulty for tests with this spell may increase depending on the item being lifted
