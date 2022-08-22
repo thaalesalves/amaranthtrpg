@@ -8,6 +8,6 @@
 * **[The Civil War in Skyrim](/campaigns/civil_war):** 4E 201: contemporary to *The Elder Scrolls V: Skyrim*. The Civil War between the Stormcloak Rebellion and the Empire for the rule of Skyrim
 
 ## Headcanon campaigns
-* **[Fall of the Empire](/campaigns/fall_empire):** 5E 3: events that follow *The Elder Scrolls V: Skyrim*, post civil war
+* **[Fall of the Empire](/campaigns/fall_of_the_empire):** 5E 3: events that follow *The Elder Scrolls V: Skyrim*, post civil war
 * **[Stormcrown](/campaigns/stormcrown):** 2E 850: Cuhlecain fights over the Ruby Throne with his army
 * **[Terra Nova](/campaigns/terranova):** 4E 201: contemporary to *The Elder Scrolls V: Skyrim*, with links between the College of Winterhold and our own Universe
