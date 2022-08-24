@@ -38,6 +38,6 @@ The **[Redguards](https://en.uesp.net/wiki/Lore:Redguard)** of **[Hammerfell](ht
 After the events of Cyrodiil with the death of the Emperor and wars between political factions for the Ruby Throne, the Covenant decided to join the war and rule over the Empire.
 
 ## Campaigns
-- **[The Aldmeri Dominion](/campaigns/alliance_war/aldmeri_dominion_(alliance_war)):**
-- The Daggerfall Covenant
-- The Ebonheart Pact
+- **[The Aldmeri Dominion](/campaigns/alliance_war/aldmeri_dominion):** a campaign that follows the story of the Aldmeri Dominion's story in the war
+- **[The Daggerfall Covenant](/campaigns/alliance_war/daggerfall_covenant):** a campaign that follows the story of the Daggerfall Covenant's story in the war
+- **[The Ebonheart Pact](/campaigns/alliance_war/ebonheart_pact):** a campaign that follows the story of the AEbonheart Pact's story in the war
