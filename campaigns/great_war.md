@@ -1,3 +1,5 @@
+<!-- PageTitle: The Great War -->
+
 # The Great War
 
 Known by the inhabitants of Summerset as the First War Against the Empire, it started in 4E 171. After the Oblivion Crisis in 3E 433, the Empire was weakened, and started to fall from the inside. The last Dragonborn Emperor, Martin Septim, was dead, and yet another dynasty with dragon blood was undone. Ocato of Firsthold assumed the post of Potentate and came to rule the Empire in the best way possible, when, in 4E 10, he was murdered. To this day no one knows who ordered the murder of the Potentate, but everyone knows that the objective was ending the Septim Dynasty for good, and all of its influence - after all, the last Potentate, the remnant of the Reman Dynasty, was also murdered to the Ruby Throne could be taken. Once again, the Empire was in a red alert, a period that became known as the Stormcrown Interregnum, in reference to Tiber Septim, founder of the Third Empire.

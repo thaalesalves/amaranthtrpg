@@ -1,3 +1,5 @@
+<!-- PageTitle: Legal Disclaimer -->
+
 # Disclaimer
 The creators of Amaranth are not directly or indirectly related to Bethesda Softworks, Bethesda Game Studios, Zenimax Online Studios nor their parent company Zenimax Media in any way. Amaranth is a fan-made website with a TRPG system made for other fans of the franchise. All logos, titles, names, trademarks all belong to Zenimax Media and/or their child companies.
 

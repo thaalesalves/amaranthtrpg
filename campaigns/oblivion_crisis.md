@@ -1,3 +1,5 @@
+<!-- PageTitle: The Oblivion Crisis -->
+
 # The Oblivion Crisis
 
 The Oblivion Crisis was a great war between the Daedra and the population of Tamriel. It all began with the murder of Emperor Uriel Septim VII and all of his heirs. Soon after, Gates of Oblivion to the Deadlands started opening throughout Tamriel, and Daedra started coming out, as planned the fanatic cult to Mehrunes Dagon, known as the Mythic Dawn. General devastation and casualties were caused in all provinces. They took Skyrim, and devastated the Old Holds. In the Black Marsh, the Hist summoned Argonians to fight against the invading Daedra. The Daedric commanders closed many gates to avoid Argonians from coming into Oblivion to fight them in their own land. In Cyrodiil, the city of Kvatch of completely destroyed.

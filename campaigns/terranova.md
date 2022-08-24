@@ -1,3 +1,5 @@
+<!-- PageTitle: Terra Nova -->
+
 # Terra Nova
 
 **Warning:** this headcanon uses a lot of metalore, which is a bit... trippy. The references made will have links to the related article as usual, but be advised that it's a deep and long read to actually grasp the concepts here. But it's an interesting read nonetheless.

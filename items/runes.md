@@ -1,3 +1,5 @@
+<!-- PageTitle: Runes | Items -->
+
 # Runes
 
 Runes are rocks with magical properties that can be bought or found throughout Tamriel. They're divided in three categories: Potency, Essence and Aspect. A rune of each type is required to create a glyph that will contain the desired enchantment and will then me used in items like weapons, armors, clothes or jewelery.

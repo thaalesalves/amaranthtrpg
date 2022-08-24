@@ -1,3 +1,5 @@
+<!-- PageTitle: Main Races -->
+
 # Main races
 
 This page has information about the 10 main races of Tamriel, which are the most common and civilized ones, as well as the only playable races in most games of the franchise.

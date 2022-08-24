@@ -1,3 +1,5 @@
+<!-- PageTitle: The Fall of the Empire -->
+
 # The Fall of the Empire
 
 In 4E 201, the Stormcloak Rebellion managed to achieve their objective of kicking the Imperial forces out of Skyrim, and, after almost 700 years of being a client-state of the Third Empire, they could once again feel the taste the independence, following Hammerfell's example, that, in 4E 175, signed the Second Treaty of Stros M'Kai to end the Thalmor invasion that lasted for ten years. Like Hammerfell, Skyrim, feeling betrayed by the fact that Emperor Titus Mede II signed the White-Gold Concordat, removed itself from the Empire, declaring itself an independent nation after winning the civil war.

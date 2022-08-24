@@ -1,9 +1,11 @@
+<!-- PageTitle: Weapons | Items -->
+
 # Weapons
 
 This page has information on weapons. They have a modifier and base damage, and these values are increased according to the material used to craft the items.
 
-# Materiais
-## Metais
+# Materials
+## Metals
 |Material|Modifier|Level|Value
 |---|---|---|---|
 |Iron|+0|Novice|+50g|
@@ -12,7 +14,7 @@ This page has information on weapons. They have a modifier and base damage, and 
 |Galatite|+3|Master|+750g|
 |Rubedite|+4|Grandmaster|+3500g|
 
-## Madeiras
+## Woods
 |Material|Modifier|Level|Value
 |---|---|---|---|
 |Maple|+0|Novice|+50g|

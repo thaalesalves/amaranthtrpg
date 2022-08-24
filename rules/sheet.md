@@ -1,3 +1,5 @@
+<!-- PageTitle: Character Sheet -->
+
 # Character sheet
 
 Both Amaranth's rules and sheet are based in the **20th anniversary edition** of the **World of Darkness** character sheets, that use **White Wolf's Storyteller** as the base system. Amaranth's sheet has elements and subsystems from V20 (Vampire: the Masquerade), W20 (Werewolf: the Apocalypse) and M20 (Mage: the Ascension). Attributes and abilities are revised to match the Elder Scrolls universe, and the max levels for each one of those is now 10 instead of the usual 5. With that in mind, characters may have a higher range of skills, with each point being worth less than other Storyteller systems.

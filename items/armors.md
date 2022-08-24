@@ -1,3 +1,5 @@
+<!-- Armors | Items -->
+
 # Armors
 
 This page has information about armors. They have a modifier and a base protection, and these values are increased according to the material used to craft them.

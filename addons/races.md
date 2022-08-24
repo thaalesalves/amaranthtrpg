@@ -1,3 +1,5 @@
+<!-- PageTitle: Races of Tamriel | Add-ons -->
+
 # Races of Tamriel
 
 - **Aldmer:** the original elves, ancestors of the current races, also known as Elhnofey

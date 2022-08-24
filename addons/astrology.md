@@ -1,3 +1,5 @@
+<!-- PageTitle: Astrology of the Aurbis | Add-ons -->
+
 # Astrology
 
 There are thirteen constellation in the **[Aurbis]()**, that rule over certain areas of reality. They are divided into two categories: the Guardians and the Charges. The Guardians are three: the **[Warrior](https://en.uesp.net/wiki/Lore:Astronomy#The_Warrior)**, the **[Mage](https://en.uesp.net/wiki/Lore:Astronomy#The_Mage)** and the **[Thief](https://en.uesp.net/wiki/Lore:Astronomy#The_Thief)**; each one of these Guardians protects three Charges. These add to twelve constellations, one for each month of the calendar. The thirteenth constellation, the Serpent, has no Guardian or calendar month, and moves around the sky threatening the other constellations.
