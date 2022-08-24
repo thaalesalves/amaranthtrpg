@@ -1,4 +1,4 @@
-<!-- PageTitle: Runes | Items -->
+<!-- @PageTitle: Runes | Items -->
 
 # Runes
 

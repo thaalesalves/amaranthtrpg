@@ -1,4 +1,4 @@
-<!-- PageTitle: System Add-ons -->
+<!-- @PageTitle: System Add-ons -->
 
 # Add-ons
 

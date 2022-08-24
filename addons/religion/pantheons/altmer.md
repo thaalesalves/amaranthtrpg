@@ -1,3 +1,3 @@
-<!-- PageTitle: Altmeri Pantheon | Religions | Add-ons -->
+<!-- @PageTitle: Altmeri Pantheon | Religions | Add-ons -->
 
 # Altmeri Pantheon

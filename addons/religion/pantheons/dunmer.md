@@ -1,3 +1,3 @@
-<!-- PageTitle: The Tribunal | Religions | Add-ons -->
+<!-- @PageTitle: The Tribunal | Religions | Add-ons -->
 
 # Tribunal

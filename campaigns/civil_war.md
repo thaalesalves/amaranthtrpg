@@ -1,3 +1,3 @@
-<!-- PageTitle: The Civil War -->
+<!-- @PageTitle: The Civil War -->
 
 # The Civil War

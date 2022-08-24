@@ -1,3 +1,3 @@
-<!-- PageTitle: Monotheist Cults | Religions | Add-ons -->
+<!-- @PageTitle: Monotheist Cults | Religions | Add-ons -->
 
 # Monotheism

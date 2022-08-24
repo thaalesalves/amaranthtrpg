@@ -1,4 +1,4 @@
-<!-- PageTitle: The Divines | Religions | Add-ons -->
+<!-- @PageTitle: The Divines | Religions | Add-ons -->
 
 # The Divines
 

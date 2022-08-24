@@ -1,4 +1,4 @@
-<!-- PageTitle: Weapons | Items -->
+<!-- @PageTitle: Weapons | Items -->
 
 # Weapons
 

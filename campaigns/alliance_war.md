@@ -1,4 +1,4 @@
-<!-- PageTitle: The Alliance War -->
+<!-- @PageTitle: The Alliance War -->
 
 # The Alliance War
 

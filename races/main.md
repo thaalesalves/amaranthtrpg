@@ -1,4 +1,4 @@
-<!-- PageTitle: Main Races -->
+<!-- @PageTitle: Main Races -->
 
 # Main races
 

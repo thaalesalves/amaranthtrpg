@@ -1,4 +1,4 @@
-<!-- PageTitle: Races of Tamriel | Add-ons -->
+<!-- @PageTitle: Races of Tamriel | Add-ons -->
 
 # Races of Tamriel
 

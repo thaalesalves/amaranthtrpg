@@ -1,3 +1,3 @@
-<!-- PageTitle: Guilds of Tamriel | Add-ons -->
+<!-- @PageTitle: Guilds of Tamriel | Add-ons -->
 
 # Guilds

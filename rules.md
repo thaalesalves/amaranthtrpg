@@ -1,4 +1,4 @@
-<!-- PageTitle: System Rules -->
+<!-- @PageTitle: System Rules -->
 
 # Rules
 

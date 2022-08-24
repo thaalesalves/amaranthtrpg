@@ -1,4 +1,4 @@
-<!-- PageTitle: About Amaranth -->
+<!-- @PageTitle: About Amaranth -->
 
 # Amaranth TRPG System
 

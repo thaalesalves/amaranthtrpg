@@ -1,4 +1,4 @@
-<!-- PageTitle: Nordic Pantheon | Religions | Add-ons -->
+<!-- @PageTitle: Nordic Pantheon | Religions | Add-ons -->
 
 # Nordic Pantheon
 

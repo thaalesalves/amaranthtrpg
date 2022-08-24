@@ -1,3 +1,3 @@
-<!-- PageTitle: Khajiiti Pantheon | Religions | Add-ons -->
+<!-- @PageTitle: Khajiiti Pantheon | Religions | Add-ons -->
 
 # Khajiiti Pantheon

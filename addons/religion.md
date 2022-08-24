@@ -1,3 +1,3 @@
-<!-- PageTitle: Religions of Tamriel | Add-ons -->
+<!-- @PageTitle: Religions of Tamriel | Add-ons -->
 
 # Religion

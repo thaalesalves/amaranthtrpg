@@ -1,3 +1,3 @@
-<!-- PageTitle: Argonian Pantheon | Religions | Add-ons -->
+<!-- @PageTitle: Argonian Pantheon | Religions | Add-ons -->
 
 # Argonian Pantheon

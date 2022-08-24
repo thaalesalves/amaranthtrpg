@@ -1,4 +1,4 @@
-<!-- PageTitle: Terra Nova -->
+<!-- @PageTitle: Terra Nova -->
 
 # Terra Nova
 

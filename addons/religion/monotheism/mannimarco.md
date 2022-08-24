@@ -1,3 +1,3 @@
-<!-- PageTitle: The Worm Cult | Religions | Add-ons -->
+<!-- @PageTitle: The Worm Cult | Religions | Add-ons -->
 
 # Worm Cult

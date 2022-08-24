@@ -1,4 +1,4 @@
-<!-- PageTitle: The Oblivion Crisis -->
+<!-- @PageTitle: The Oblivion Crisis -->
 
 # The Oblivion Crisis
 

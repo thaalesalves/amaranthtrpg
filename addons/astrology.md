@@ -1,4 +1,4 @@
-<!-- PageTitle: Astrology of the Aurbis | Add-ons -->
+<!-- @PageTitle: Astrology of the Aurbis | Add-ons -->
 
 # Astrology
 

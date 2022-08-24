@@ -1,3 +1,3 @@
-<!-- PageTitle: Redguard Pantheon | Religions | Add-ons -->
+<!-- @PageTitle: Redguard Pantheon | Religions | Add-ons -->
 
 # Redguard Pantheon

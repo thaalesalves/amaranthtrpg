@@ -1,4 +1,4 @@
-<!-- PageTitle: Character Sheet -->
+<!-- @PageTitle: Character Sheet -->
 
 # Character sheet
 

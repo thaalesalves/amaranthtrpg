@@ -1,4 +1,4 @@
-<!-- PageTitle: The Planemeld -->
+<!-- @PageTitle: The Planemeld -->
 
 # The Planemeld
 
