@@ -1,7 +1,7 @@
 /**
  * Capitalizes first letter of every word
  *
- * @param {string} title 
+ * @param {string} title
  * @returns string with every first letter in upper case
  */
 const titleCase = title => title.replace(/_/g, ' ')
