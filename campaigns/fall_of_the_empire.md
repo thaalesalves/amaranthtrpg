@@ -1,4 +1,4 @@
-<!-- @PageTitle: The Fall of the Empire -->
+<!-- @PageTitle: The Fall of the Empire | Campaigns -->
 
 # The Fall of the Empire
 

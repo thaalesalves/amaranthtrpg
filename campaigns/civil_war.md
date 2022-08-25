@@ -1,3 +1,3 @@
-<!-- @PageTitle: The Civil War -->
+<!-- @PageTitle: The Civil War | Campaigns -->
 
 # The Civil War

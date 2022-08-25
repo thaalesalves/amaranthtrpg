@@ -18,6 +18,6 @@ const extractCustomTitle = () => document.body.outerHTML.toString()
 const titlePlugin = config => (hook, vm) => {
     hook.doneEach(content => {
         var pageTitle = !extractCustomTitle().startsWith('<') ? extractCustomTitle() : titleCase(document.URL.split('/').slice(-1)[0]);
-        document.title = `${pageTitle === '' ? 'Home' : pageTitle}${config.suffix}`;
+        document.title = `${pageTitle === '' ? 'Home' : pageTitle}${config?.suffix}`;
     });
 }

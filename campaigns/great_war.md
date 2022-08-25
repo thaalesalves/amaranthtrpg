@@ -1,4 +1,4 @@
-<!-- @PageTitle: The Great War -->
+<!-- @PageTitle: The Great War | Campaigns -->
 
 # The Great War
 
