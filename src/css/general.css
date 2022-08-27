@@ -32,6 +32,15 @@
 @media screen and (max-width: 768px) {
     #docsify-darklight-theme {
         left: unset !important;
+        right: auto !important;
+    }
+
+    h1 a.anchor {
+        margin-top: 7% !important;
+    }
+
+    .app-nav li, .app-nav ul {
+        max-width: 90% !important;
     }
 }
 
@@ -43,6 +52,20 @@
 
     .page_toc p.title {
         font-weight: unset !important;
+    }
+
+    .app-nav li, .app-nav ul {
+        max-width: 90% !important;
+    }
+
+    h1 a.anchor {
+        margin-top: 25% !important;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .app-nav li, .app-nav ul {
+        max-width: 78% !important;
     }
 }
 
