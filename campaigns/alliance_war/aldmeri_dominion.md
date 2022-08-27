@@ -35,6 +35,13 @@ The first act of the story will be focused on increasing the Dominion's reputati
 - Speckled Shell Plantation
 - Hazak's Hollow
 
+#### Characters
+- Razum-dar
+- Inspector Lorin
+- Azbi-ra
+- Zaban-ma
+- Hazak
+
 #### Story
 The PCs will be at an inn that was reserved for the Dominion officials that would arrive in the fleet, a couple of days after the wreck. Razum-dar, a high raking Thalmor official, will approach them and tell them about their current duties. The Thalmor has received reports about troubles in the island that started after the storm hit. He hands the reports to the party and explains to them what it is about.
 
@@ -51,6 +58,16 @@ There are two report files in the folder he has handed the party, specifying tha
 The PCs will head to the farm and talk to Inspector Lorin. She will tell the PCs what they know and ask them to talk to Azbi-ra, since she does not want to talk to Lorin.
 
 Azbi-ra will then say that she runs the farm with her father and who brother, and both have gone missing. She will then ask the players to investigate the farm to find the alchemical tools their family uses, so she can at least try to trade them for medicine.
+
+The PCs will investigate the farmhouse looking for the materials, and will eventually be approached by Zaban-ma, Azbi-ra's brother (who she said was missing). He will accuse them of being bandits and skooma dealers, and threats to kill them if they continue looting his family's plantation.
+
+When he knows that the PCs are looking for his sister's alchemical materials, he will explain that he himself set the alchemical tools on fire because she's been brewing skooma, but the fire got out of control and burned the entire farm down, and now their father is missing. Lorin will appear and say she found a corpse near one of the planting grounds, being eaten away by the skeevers. He then explains that he saw his sister burying something near the beach, and Lorin tells the PCs to investigate that.
+
+The skooma will be buried under the sand like he said, and when the PCs get back to the farm, they're mourning their father, whom they had buried. Because of the skooma found, Lorin threatens to arrest both of them, and Zaban-ma pleads innocence but she wants to question him anyway. Azbi-ra tells them that she was forced to brew the skooma because Hazak, a local criminal, threated to kill their entire family if she didn't use their moon sugar to produce skooma for him and his gang. She then tells the PCs and Lorin that he can be found in his hollow to the north, a cave under the ground that is facing the open sea.
+
+The PCs will then head to the hollow and confront Hazak. His guards will attack, and he can be taken dead or alive back to Lorin; if alive, he will be interrogated by the Thalmor; if dead, the Thalmor will investigate his hollow for evidence.
+
+Once these conflicts are solved, the PCs are ready to move to the next report.
 
 ##### Report: Windcatcher Plantation
 
