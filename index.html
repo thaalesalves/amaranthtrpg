@@ -14,7 +14,7 @@
 
   <title>Amaranth TRPG</title>
 
-  <link rel="stylesheet" href="//unpkg.com/docsify-toc@1.0.0/dist/toc.css">
+  <!-- <link rel="stylesheet" href="//unpkg.com/docsify-toc@1.0.0/dist/toc.css"> -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css" title="docsify-darklight-theme" type="text/css" />
   <link rel="stylesheet" href="/src/css/general.css">
 </head>
@@ -28,7 +28,7 @@
     window.$docsify = {
       loadNavbar: true,
       loadSidebar: true,
-      loadFooter: false,
+      loadFooter: true,
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md',
         '/.*/_navbar.md': '/_navbar.md',
@@ -45,23 +45,10 @@
           suffix: ' | Amaranth TRPG'
         })
       ],
-      share: {
-        reddit: true,
-        linkedin: true,
-        facebook: true,
-        twitter: true,
-        whatsapp: true,
-        telegram: true,
-      },
       progress: {
         position: "bottom",
         color: "var(--theme-color,#42b983)",
         height: "3px",
-      },
-      timeUpdater: {
-        text: "> <strong>Last update:</strong> {docsify-updated}",
-        formatUpdated: "{YYYY}-{MM}-{DD} at {HH}:{mm}",
-        whereToPlace: "top",
       },
       toc: {
         scope: '.markdown-section',
@@ -79,8 +66,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-wikilink@1"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js" type="text/javascript"></script>
-  <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
-  <script src="//unpkg.com/docsify-toc@1.0.0/dist/toc.js"></script>
+ <!-- <script src="//unpkg.com/docsify-toc@1.0.0/dist/toc.js"></script> -->
 </body>
 
 </html>

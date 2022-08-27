@@ -1,1 +1,1 @@
-All titles related to the main Elder Scrolls game franchise and its spin-offs, as well as its logos, are property of Bethesda Softworks, Bethesda Game Studios, Zenimax Media, Zenimax Online Studios.
+&nbsp;&nbsp;&nbsp;

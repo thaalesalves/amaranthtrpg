@@ -25,6 +25,10 @@
     background-color: var(--background) !important;
 }
 
+#docsify-darklight-theme {
+    top: unset !important;
+}
+
 @media screen and (max-width: 768px) {
     #docsify-darklight-theme {
         left: unset !important;
@@ -52,4 +56,6 @@
 
 .markdown-section {
     margin: 0 48px !important;
+    padding: unset !important;
+    padding-top: 30px !important;
 }
