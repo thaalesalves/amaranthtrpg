@@ -33,8 +33,8 @@
 
 @media screen and (max-width: 1300px) {
     .page_toc {
-        margin-top: 15% !important;
         top: unset !important;
+        margin: 10% 48px !important;
     }
 
     .page_toc p.title {
@@ -48,4 +48,8 @@
 
 .markdown-section h3 {
     font-size: 1.2rem !important;
+}
+
+.markdown-section {
+    margin: 0 48px !important;
 }
