@@ -36,4 +36,16 @@
         margin-top: 15% !important;
         top: unset !important;
     }
+
+    .page_toc p.title {
+        font-weight: unset !important;
+    }
+}
+
+.markdown-section h2 {
+    font-size: 1.5rem !important;
+}
+
+.markdown-section h3 {
+    font-size: 1.2rem !important;
 }
