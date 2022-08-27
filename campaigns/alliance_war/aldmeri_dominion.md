@@ -43,7 +43,7 @@ The first act of the story will be focused on increasing the Dominion's reputati
 - Hazak
 
 #### Story
-The PCs will be at an inn that was reserved for the Dominion officials that would arrive in the fleet, a couple of days after the wreck. Razum-dar, a high raking Thalmor official, will approach them and tell them about their current duties. The Thalmor has received reports about troubles in the island that started after the storm hit. He hands the reports to the party and explains to them what it is about.
+The PCs will be at an inn that was reserved for the Dominion officials that would arrive in the fleet, a couple of days after the wreck. **Razum-dar**, a high raking **Thalmor** official, will approach them and tell them about their current duties. The Thalmor has received reports about troubles in the island that started after the storm hit. He hands the reports to the party and explains to them what it is about.
 
 There are two report files in the folder he has handed the party, specifying that some moon sugar plantations are having trouble with mysterious infestations that began after the storm that wrecked their ship, and they are to investigate what is happening at these farms. These events might or might not be related to the storm, but they need to be investigated nonetheless.
 
@@ -55,11 +55,11 @@ There are two report files in the folder he has handed the party, specifying tha
 >
 > Signed: Inspector Lorin, Thalmor Official
 
-The PCs will head to the farm and talk to Inspector Lorin. She will tell the PCs what they know and ask them to talk to Azbi-ra, since she does not want to talk to Lorin.
+The PCs will head to the farm and talk to **Inspector Lorin**. She will tell the PCs what they know and ask them to talk to **Azbi-ra**, since she does not want to talk to Lorin.
 
-Azbi-ra will then say that she runs the farm with her father and who brother, and both have gone missing. She will then ask the players to investigate the farm to find the alchemical tools their family uses, so she can at least try to trade them for medicine.
+**Azbi-ra** will then say that she runs the farm with her father and who brother, and both have gone missing. She will then ask the players to investigate the farm to find the alchemical tools their family uses, so she can at least try to trade them for medicine.
 
-The PCs will investigate the farmhouse looking for the materials, and will eventually be approached by Zaban-ma, Azbi-ra's brother (who she said was missing). He will accuse them of being bandits and skooma dealers, and threats to kill them if they continue looting his family's plantation.
+The PCs will investigate the farmhouse looking for the materials, and will eventually be approached by **Zaban-ma**, Azbi-ra's brother (who she said was missing). He will accuse them of being bandits and skooma dealers, and threats to kill them if they continue looting his family's plantation.
 
 When he knows that the PCs are looking for his sister's alchemical materials, he will explain that he himself set the alchemical tools on fire because she's been brewing skooma, but the fire got out of control and burned the entire farm down, and now their father is missing. Lorin will appear and say she found a corpse near one of the planting grounds, being eaten away by the skeevers. He then explains that he saw his sister burying something near the beach, and Lorin tells the PCs to investigate that.
 
