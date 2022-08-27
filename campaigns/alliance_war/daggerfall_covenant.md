@@ -7,6 +7,7 @@
 - The characters will be part of the Alliance and fight for it in the war.
 - The story itself concludes when the Daggerfall Covenant manages to win the war and take over the Empire.
 
+## Initial background
 ## Adventure start
 ## Act 1: Glenumbra
 ## Act 2: Stormhaven
