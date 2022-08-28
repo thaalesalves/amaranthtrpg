@@ -15,9 +15,18 @@ const titleCase = title => title.replace(/_/g, ' ')
 const extractCustomTitle = () => document.body.outerHTML.toString()
         .split('<!-- @PageTitle:').pop().split('-->')[0].trim();
 
+
+/**
+ * Removes URL aspects from a string
+ *
+ * @param {string} pageTitle
+ * @returns
+ */
+const sanitizePageTitle = (pageTitle) => pageTitle.replace(/((\?|&).*=.*)/g, '');
+
 const titlePlugin = config => (hook, vm) => {
     hook.doneEach(content => {
-        var pageTitle = !extractCustomTitle().startsWith('<') ? extractCustomTitle() : titleCase(document.URL.split('/').slice(-1)[0]);
+        var pageTitle = !extractCustomTitle().startsWith('<') ? extractCustomTitle() : sanitizePageTitle(titleCase(document.URL.split('/').slice(-1)[0]));
         document.title = `${pageTitle === '' ? 'Home' : pageTitle}${config?.suffix}`;
     });
 }
