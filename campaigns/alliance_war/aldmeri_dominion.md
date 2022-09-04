@@ -67,7 +67,7 @@ The skooma will be buried under the sand like he said, and when the PCs get back
 
 The PCs will then head to the hollow and confront Hazak. His guards will attack, and he can be taken dead or alive back to Lorin; if alive, he will be interrogated by the Thalmor; if dead, the Thalmor will investigate his hollow for evidence.
 
-Once these conflicts are solved, the PCs are ready to move to the next report.
+Once these conflicts are solved, the PCs are ready to move to the next part of the story.
 
 ##### Report: Windcatcher Plantation
 

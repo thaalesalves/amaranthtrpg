@@ -50,7 +50,7 @@ Potency runes determine the level of the items to which the glyph will be applie
 # Essence runes
 |Rune|Translation|Additive|Subtractive|
 |---|---|---|---|
-|Dekeipa|Gelo|Glyph of Frost|Glyph of Frost Resist
+|Dekeipa|Frost|Glyph of Frost|Glyph of Frost Resist
 |Deni|Stamina|Glyph of Stamina|Glyph of Absorb Stamina
 |Deteri|Armor|Glyph of Harderning|Glyph of Crushing|
 |Hakeijo|Prism|Glyph of Prismatic Defense|Glyph of Prismatic Onslaught|
