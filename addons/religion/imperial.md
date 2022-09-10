@@ -7,7 +7,7 @@ The **[Divines](https://uesp.net/wiki/Lore:Divines)** are the Aedric deities tha
 
 ### Akatosh
 **[Akatosh](https://uesp.net/wiki/Lore:Akatosh)**, the **Dragon God of Time** is the chief deity of the Imperial Pantheon, and has different interpretations in the other pantheons of Tamriel. He represents resistance, invincibility and lasting legitimacy. According to the **[Monomyth](https://uesp.net/wiki/Lore:The_Monomyth)** and the **[Anuad](https://uesp.net/wiki/Lore:The_Annotated_Anuad)**, Akatosh was the first **[et'Ada](https://en.uesp.net/wiki/Lore:Gods)** to take form, and the other spirits followed him, creating the Linear Time, and, with it, the **[Aurbis](https://uesp.net/wiki/Lore:Aurbis)**.
-* **Main temple:** The Great Chapel of Akatosh in **[Kvatch](https://uesp.net/wiki/Lore:Kvatch)** (**[Cyrodiil](https://uesp.net/wiki/Lore:Cyrodiil)**)
+* **Main temple:** The Great Chapel of Akatosh (**[Kvatch](https://uesp.net/wiki/Lore:Kvatch)**, **[Cyrodiil](https://uesp.net/wiki/Lore:Cyrodiil)**)
 
 #### Blessings
 * **Basic:** Akatosh blesses his followers by expanding their Magicka (recharge of 5 points of Magicka per turn in combat) and their Agility (1 extra die in actions that use this Attribute);
@@ -20,7 +20,7 @@ The **[Divines](https://uesp.net/wiki/Lore:Divines)** are the Aedric deities tha
 
 #### Blessings
 * **Basic:** Health regeneration when received a fatal blow. Rolls with difficulty based on this blow's damage to annulate the received damage, once a day.
-* **Sect:**
+* **Sect:** TODO
 
 ### Dibella
 **[Dibella](https://uesp.net/wiki/Lore:Dibella)**, known as the **Passion Dancer**, or **Our Blessed Lady**, is the goddess of beauty, love and affection. She is also known as the **Lady of Art and Music**, or **Queen of Heaven**. Dibella is beauty incarnated, and her followers spread beauty through harmony, both from charm and grace. She teaches that mortals should give themselves to Love, and says that they should open their hearts to "the secrets of art and leave, and the treasures of friendship". Dibella doesn't impose a limit to the number of lovers one can have, but demands that the essence of love should be about quality, and not quantity.
