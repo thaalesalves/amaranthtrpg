@@ -5,9 +5,13 @@ The Amaranth is the Dreamer, the conductor of the current Universe where reality
 * **[Introduction](/system/introduction):** introduction to Amaranth and to table-top RPGs in general
 * **[Character creation](/system/character_creation):** instructions, information and how to create your own character in Amaranth
 * **[System rules](/system/rules)**: rules Amaranth follows to implement game mechanics
-* **[Bestiary](/system/bestiary)**: beasts and creatures of Tamriel and their place in Amaranth
+* **[Adventures](/adventures):** pre-made adventures for you to play with your friends
+
+## Appendices
+* **[Bestiary](/appendices/bestiary)**: beasts and creatures of Tamriel and their place in Amaranth
+* **[Provinces](/appendices/provinces)**: beasts and creatures of Tamriel and their place in Amaranth
+* **[Cities](/appendices/cities)**: beasts and creatures of Tamriel and their place in Amaranth
 * **[Addons](/addons):** optional subsystems and mechanics to complement your adventure
-* **[Adventures](/campaigns):** pre-made adventures for you to play with your friends
 
 ## Useful links
 * **[Unofficial Elder Scrolls Pages](https://en.uesp.net/):** the UESP is a very reliable website with a lot of information about the Elder Scrolls lore and franchise
