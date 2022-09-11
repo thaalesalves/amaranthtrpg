@@ -1,0 +1,19 @@
+.amrnth-img-box {
+    border: 1px solid var(--border-color);
+    background-color: var(--base-background-color) !important;
+    float: right;
+    margin-left: 1%;
+}
+
+.amrnth-img-cap {
+    color: var(--textColor);
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.markdown-section a:link,
+.markdown-section a:visited,
+.markdown-section a:hover,
+.markdown-section a:active {
+    text-decoration: none;
+}
