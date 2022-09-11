@@ -22,16 +22,16 @@ Two rolls are required: one that determines how well the attack has gone **(Attr
 The rolls to determine the blow is done by simply summing the points of the Attribute and the Talent involved in the action. The second roll is based on the sum of Knowledge + damage of the spell used; also add to the equation the amount of successes from the first roll and subtract 1.
 
 **Example:** Mike Rotch has 3 points of Willpower and 2 points of Destruction, and is attempting to cast a fire elemental missile, that has a base damage of 3.
-* First roll: **(10, 6, 3, 6, 7)**. He got five successes. The action succeded.
+* First roll: **(10, 6, 3, 6, 7)**. He got five successes. The action succeeded.
 * Second roll: **(5, 7, 9, 9, 7, 9, 9, 2, 5)**. The dice rolled refer to his knowledge + four successes from the previous roll (since he got five and we subtracted one). He has six successes in this roll. To determine the damage, it is necessary to roll his opponent's reaction.
 
 ### Physical attacks
 Two rolls are required: one that determines how well the attack has gone **(Attribute + Talent)**; and one that determines the damage **(Skill + Weapon + success rolled - 1)**.
 
-The roll to determine the blow is done by simply summing the points of the Atribute and the Talent involved in the action. The second roll is based on the sum of Skill + damage of the weapon used; also add to the equation the amount of successes had in the first roll and subtract 1.
+The roll to determine the blow is done by simply summing the points of the Attribute and the Talent involved in the action. The second roll is based on the sum of Skill + damage of the weapon used; also add to the equation the amount of successes had in the first roll and subtract 1.
 
 **Example:** Hugh Jazz has 3 points of Agility and 2 points of One-Handed, and is attempting to attack with a sword, that has a base damage of 5.
-* First roll: **(2, 8, 10, 5, 8)**. He got four successes. The action succeded.
+* First roll: **(2, 8, 10, 5, 8)**. He got four successes. The action succeeded.
 * Second roll: **(6, 5, 10, 2, 7, 9, 4, 6)**. The dice rolled refer to his skill + 3 successes from the previous roll (since he got four and we subtracted one). He has four successes. To determine the damage, it is necessary to rolls his opponent's reaction.
 
 ### Stealth attacks

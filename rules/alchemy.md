@@ -10,17 +10,17 @@ Alchemy in Amaranth was directly based on the mechanics used by **Elder Scrolls 
 Amaranth uses the default ingredients from the series, but in the mechanic described above. The Narrator is free to create their own ingredients, but the default ones may be used as well.
 
 ### Infusions
-- **[Potions from TESIII: Morrowind](https://en.uesp.net/wiki/Morrowind:Potions)**
-- **[Poisons from TESIII: Morrowind](https://en.uesp.net/wiki/Morrowind:Poison)**
-- **[Potions & Poisons from TESIV: Oblivion](https://en.uesp.net/wiki/Oblivion:Potions)**
-- **[Potions & Poisons from TESV: Skyrim](https://en.uesp.net/wiki/Skyrim:Potions)**
+- **[Potions from TES III: Morrowind](https://en.uesp.net/wiki/Morrowind:Potions)**
+- **[Poisons from TES III: Morrowind](https://en.uesp.net/wiki/Morrowind:Poison)**
+- **[Potions & Poisons from TES IV: Oblivion](https://en.uesp.net/wiki/Oblivion:Potions)**
+- **[Potions & Poisons from TES V: Skyrim](https://en.uesp.net/wiki/Skyrim:Potions)**
 - **[Potions from ESO](https://en.uesp.net/wiki/Online:Potions)**
 - **[Poisons from ESO](https://en.uesp.net/wiki/Online:Poisons)**
 
 ### Ingredients
-- **[Ingredients from TESIII: Morrowind](https://en.uesp.net/wiki/Morrowind:Alchemy_Effects)**
-- **[Ingredients from TESIV: Oblivion](https://en.uesp.net/wiki/Oblivion:Ingredients)**
-- **[Ingredients from TESV: Skyrim](https://en.uesp.net/wiki/Skyrim:Ingredients)**
+- **[Ingredients from TES III: Morrowind](https://en.uesp.net/wiki/Morrowind:Alchemy_Effects)**
+- **[Ingredients from TES IV: Oblivion](https://en.uesp.net/wiki/Oblivion:Ingredients)**
+- **[Ingredients from TES V: Skyrim](https://en.uesp.net/wiki/Skyrim:Ingredients)**
 - **[Ingredients from ESO](https://en.uesp.net/wiki/Online:Alchemy_Ingredients)**
 
 ### Solvents
