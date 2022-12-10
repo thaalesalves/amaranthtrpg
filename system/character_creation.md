@@ -18,7 +18,7 @@ Do mind the size of the field though. The character creation only allows so many
 When we think of Hjofring Stone-Bone, the name suggests a tank, someone strong, bulky, tough. We can start imagining what his temper and attitude will be like (this is an important step, once we get there). Let's go with "short-tempered tank" for Hjofring.
 
 ### Choosing a race
-Names are something very personal, and you're free to use the names you see fit for your characters. But when we speak of ethnicities within the Elder Scrolls Universe, there are some patterns that can be followed to help you through character creation. Just like in real life, different cultures and languages have different names. Sometimes they are completely different names, and sometimes they are translated versions of a name in a different language (i.e., John (en) -> João (pt) -> Juan (es) -> Johannes (de) etc.).
+Names are something very personal, and you're free to use the names you see fit for your characters. But when we speak of ethnicities within the Elder Scrolls Universe, there are some patterns that can be followed to help you through character creation. Just like in real life, different cultures and languages have different names. Sometimes they are completely different names, and sometimes they are translated versions of a name in a different language (i.e., Ioánnis (gre) -> Ioannes (lat) -> John (en) -> João (pt) -> Juan (es) -> Johann (de) etc.).
 
 The name Hjofring suggests us our character is a Nord, or of Nord ancestry - possibly hailing from Skyrim. If we already have a more detailed background for the character we can go with that. Let's say that Hjofring is a Nord born in Eastmarch, more precisely in the town of Kynesgrove. Therefore, our character sheet will show him as a Nord.
 
@@ -29,7 +29,7 @@ Archetypes will define how a character acts, and what they think of themselves. 
 
 Hjofring is a firm believer of Kyne, and follows her dogmas and way of life. He is short-tempered, but he thinks of himself as a rational and sensible person. He doesn't like it much when things don't go his way, but he is humble altogether and accepts that if something didn't happen as expected, it's because of the will of the Divines. But he always does what it takes to reach the goals that are set. He never stops, and gives his blood to make sure things end well. He might be a bit irrational and short-tempered, but he is not evil. He works hard and tries his best, always.
 
-Given these info about him, we can say that his demeanor is Bravo, as he's a badass and tough, he respects power. At least this is the impression he gives people. We can say his nature is hard worker, as he does everything in his power to keep his loved ones and allies safe and comfortable. When everything fails, he will give himself for the sake of those who need.
+Given these info about him, we can say that his demeanor is Bravo, as he's a badass and tough, he respects power. At least this is the impression he gives people. We can say his nature is Hard Worker, as he does everything in his power to keep his loved ones and allies safe and comfortable. When everything fails, he will give himself for the sake of those who need.
 
 ### Defining the attributes
 Attributes are what make a character able to do what they can do. You can't use a sword properly if you don't have enough strength to raise it, can you? This is where Attributes come into play.
@@ -51,16 +51,16 @@ We've established he's a tank, so he knows his way around with a sword, but most
 
 Hjofring knows how to block, how to wield heavy armor properly, how to melee fight and how to handle a two-handed weapon properly. Now, we have to choose which types of two-handed weapons he knows how to use, and we have 9 points for that. Let's make him equally good with Blades, Hammers and Axes, and give each 3 points.
 
-Now we have 5 points to define his knowledges. He's trained in battle, so he knows one or two things about healing people. As he doesn't do well with magic, he will do it with Medicine. Let's give it 2 points. Doctors need medicine and concoctions to treat their patients, so he knows how to brew a few potions and such. We can give him 2 points in Alchemy then.
+Now we have 5 points to define his knowledges. He's trained in battle, so he knows one or two things about healing people. As he doesn't do well with magic, he will do it with Medicine. Let's give it 3 points. Doctors need medicine and concoctions to treat their patients, so he knows how to brew a few potions and such. We can give him 2 points in Alchemy then.
 
 With this, we have defined how well Hjofring is able to do stuff, from fighting to treating wounds from battle. Let's move on to his advantages.
 
-### Defining the advantages
-Advantages add effects, buffs and/or debuffs to your character. They are divided into two categories: merits and flaws. A merit is a positive characteristic your character has that cost you points, while flaws are negative characteristics that will give you extra points that may be spent on other advantages. You may have as many of these as you want, unless your Narrator says otherwise. Some advantages may be restricted by default so new characters don't use them, your Narrator may create custom advantages and even block you from using default ones. Speak to your Narrator for more details.
+### Merits & Flaws
+Merits & Flaws add effects, buffs and/or debuffs to your character. A merit is a positive characteristic your character has that cost you points, while flaws are negative characteristics that will give you extra points that may be spent on other items. You may have as many of these as you want, unless your Narrator says otherwise. Some may be restricted by default so new characters don't use them, your Narrator may create custom ones and even block you from using default ones. Speak to your Narrator for more details.
 
 You can choose these based on their effects and how they fit your character's personality. There are many options to choose from, and more may be added to the system over time. By default, we have 15 points to spend on these. These are called freebie points, and they may be used to buy merits for your character or converted into points to use in other parts of your sheet (check the exchange rate).
 
-We've defined that Hjofring is a caring but tough person. We need to reflect that with his advantages and flaws. Let's start with his merits. We can se he has an Aptitude (1 pt.) in Block (as he's a tank), that he is Ambidextrous (1 pt.) since he uses both his hands to fight, that he follows a specific Code of Honor (1 pt.) as we mentioned that he's a hardcore follower of Kyne, and that he is also a trained warrior with Combat Expertise (2 pt.), and for the same reason we know that he may use Diverse Fighting Styles (4 pt.) and that his is a Bruiser (4 pt.). To sustain damage taken, he has a Pain Tolerance (2 pt.) that allows him to take blows without major problems. We're done with his merits, and we used all of his 15 points in the process. We may start with flaws now, which will give us more points to use for merits.
+We've defined that Hjofring is a caring but tough person. We need to reflect that with his merits and flaws. Let's start with his merits. We can say he has an Aptitude (1 pt.) in Block (as he's a tank), that he is Ambidextrous (1 pt.) since he uses both his hands to fight, that he follows a specific Code of Honor (1 pt.) as we mentioned that he's a hardcore follower of Kyne, and that he is also a trained warrior with Combat Expertise (2 pt.), and for the same reason we know that he may use Diverse Fighting Styles (4 pt.) and that his is a Bruiser (4 pt.). To sustain damage taken, he has a Pain Tolerance (2 pt.) that allows him to take blows without major problems. We're done with his merits, and we used all of his 15 points in the process. We may start with flaws now, which will give us more points to use for other things.
 
 Underneath his tough skin lies a Soft Hearted (1 pt.). Although he's caring, he's Arrogant (1 pt.) in his strength, and might think he's more than he actually is, which will eventually put him (and possibly everyone around him) in danger. We can make things a bit hard for him, and give him Myopia (3 pt.), so he may have some difficulty seeing things in a mid to far distance from him. We can say that he has been Unlucky (7 pt.) during his life, which all increase the difficulty in his rolls by 2 and make him take more damage from enemies. We've given him enough flaws, and now we have 12 points that we may use to add more merits or convert into ability, spell or attribute points.
 
@@ -76,4 +76,87 @@ Let's not make him too overpowered, but we may say that he had a good Mentor in 
 We still have 8 points to spend. Given that he has a good contact within the army, and has served for a few years, we can modify the initial value of Arsenal, and raise it to 4 points, which will give him access to swords crafted with steel as well, so he has better weapons to use in battle. As a former Quaestor of the Imperial legion, we can say he has 3 points of Status, which gives him some influence in the region. With the 4 remaining points, we can give him a better Ally by raising it to 4, and spend the 2 remaining points in Resources, which will give him some monthly gold for him to spend.
 
 ### Adding spells
-### Calculating points
+If we were to create a mage here, we could have focused the remaining points on getting Hjofring some spells, but since he's supposed to be a fierce warrior, let's give him simpler spells that he may have learned to use while in the Legion. Let's say that during his time fighting in Titus Mede's army for the Ruby Throne in 4E 17 some of the Colovian battlemages taught him some basic spells that could help him in war. Starting characters are allow to spend 3 points with spells during character creation, or consult the conversion table to use freebies to buy spells.
+
+He learned one basic spell (see the Spells page for the ones available, or consult your Narrator about creating your own): Quick Cure. Let's spend all 3 points here. Although it may look like he'll always do well with this, don't forget he's not prominent with magic: he has no points spent on the other items, so he'll always have only these 3 dice.
+
+### Finishing up
+Hjofring is basically created. We still need to determine his Stamina and Magicka pool, but that's simple. Magicka is determined by the sum of your character's Willpower  (Attribute) and Magic (Ability) points, and Stamina is determined by adding his Strength (Attribute) to his Endurance (Attribute).
+
+With this, we're done creating the character. There are other fields and tables in the sheet that will be populated with time, as you play. The Notes space is meat for you to write bits of information you get through the gameplay. But given that the amount of space there is very limited, it is common for players to write stuff in the back of the sheet or use a separate notebook.
+
+As for the Experience table, that's what you get as you play. Your Narrator will give exp points to the players, and the players may use these points to improve their characters, using them with the same conversion table as freebies. 
+
+As with the World of Darkness games, Derangements are diseases, illnesses, curses and vices that characters may acquire as they live. These are not "buyable", and they will be given as you play. Since Humanity isn't a trait in Amaranth, these will be given out as things happen in their life: for example, if you fight a vampire that's too powerful, it's possible that you may acquire Sanguinare Vampiris, Porphyric Hemophilia or Noxiphilic Sanguivoria, depending on the type of vampire. After a few days, the effects of these diseases is converted into a bigger Derangement: Vampirism. Consult with your Narrator for more details on how they will work with these during gameplay.
+
+Combat, Armor and Artifacts are more specific. You may either describe items you have in your story by speaking to your Narrator (some Narrators don't allow players to start with custom equipment, so do speak to them before giving your character items). The Narrator may want you to spend points on some of the items, so before adding anything speak to them. 
+
+Artifacts vary from family heirlooms to Daedric artifacts, and will either be acquired during gameplay of if the Narrator allows you to give it to your character.
+
+### Wrapping up
+This is all. We have finished creating Hjofring's character. Let's wrap up:
+
+#### Attributes
+##### Physical
+- Strength: 4
+- Endurance: 4
+- Agility: 1
+
+##### Social
+- Charisma: 2
+- Manipulation: 4
+- Luck: 2
+
+##### Mental
+- Perception: 4
+- Intelligence: 1
+- Willpower: 1
+
+#### Abilities
+##### Talents
+- Block: 3
+- Brawl: 3
+- Heavy Armor: 4
+- Two-handed: 3
+
+##### Skills
+- Axe: 3
+- Blade: 3
+- Hammer: 3
+
+##### Knowledges
+- Alchemy: 2
+- Medicine: 3
+
+#### Advantages
+##### Spells
+- Quick Cure: 3
+
+##### Backgrounds
+- Allies: 4
+- Arsenal: 4
+- Mentor: 4
+- Status: 3
+- Resources: 2
+
+#### Stats
+- Stamina: 8
+- Magicka: 1
+
+#### Merits & Flaws
+##### Merits
+- Aptitude: Block (1 pt.)
+- Ambidextrous (1 pt.)
+- Code of Honor: Kyne (1 pt.)
+- Combat Expertise
+- Diverse Fighting Style: two-handed (4 pt.)
+- Bruiser (4 pt.)
+- Pain Tolerance (2 pt.)
+
+##### Flaws
+- Soft Hearted (1 pt.)
+- Arrogant (1 pt.)
+- Unlucky (7 pt.)
+- Myopia (3 pt.)
+
+If you'd like to see a real version of Hjofring's sheet, you can view it [here](/uploads/files/hjofring_char_sheet.pdf). By now, you should have learned how to create your own character. We're ready to move on.
