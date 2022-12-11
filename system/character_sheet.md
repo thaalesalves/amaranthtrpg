@@ -4,10 +4,7 @@ Both Amaranth's rules and sheet are based in the **20th anniversary edition** of
 
 Storyteller has a characteristic distribution of points that must be followed. Each sign and personality have their own traits and particularities, thus, they might have more or fewer points, although there's a "default" base. The sheet can be found here (both in english and portuguese).
 
-* **[Character sheet (english) - colored version](/uploads/files/amaranth-en.pdf ':ignore')**
-* **[Character sheet (english) - B&W version](/uploads/files/amaranth-en-bw.pdf ':ignore')**
-* **[Ficha de personagem (português) - versão colorida](/uploads/files/amaranth-pt.pdf ':ignore')**
-* **[Ficha de personagem (português) - versão P&B](/uploads/files/amaranth-pt-pb.pdf ':ignore')**
+* **Character sheet (english):** [PDF](/uploads/files/character-sheet-v1-en.pdf ':ignore') (default design) | [PDF](/uploads/files/character-sheet-v1-en-custom.pdf ':ignore') (alternate design)
 
 For more information, read the main articles
 - **[Flaws](/system/character_sheet/flaws):** physical or personality traits that give freebie points (and are usually negative)
