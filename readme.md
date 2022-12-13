@@ -8,6 +8,8 @@ The Amaranth is the Dreamer, the conductor of the current Universe where reality
 * **[Adventures](/adventures):** pre-made adventures for you to play with your friends
 
 ## Appendices
+* **[Items](/appendices/items)**: items the game has for characters to use
+* **[Races](/appendices/races)**: the playable races of Tamriel and their place in Amaranth
 * **[Bestiary](/appendices/bestiary)**: beasts and creatures of Tamriel and their place in Amaranth
 * **[Provinces](/appendices/provinces)**: beasts and creatures of Tamriel and their place in Amaranth
 * **[Cities](/appendices/cities)**: beasts and creatures of Tamriel and their place in Amaranth
