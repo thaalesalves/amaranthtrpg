@@ -13,6 +13,8 @@ The Amaranth is the Dreamer, the conductor of the current Universe where reality
 * **[Bestiary](/appendices/bestiary)**: beasts and creatures of Tamriel and their place in Amaranth
 * **[Provinces](/appendices/provinces)**: beasts and creatures of Tamriel and their place in Amaranth
 * **[Cities](/appendices/cities)**: beasts and creatures of Tamriel and their place in Amaranth
+* **[Magic](/system/magic)**: the Aurbical energy and is place and manipulation in Amaranth
+* **[Alchemy](/system/alchemy)**: the art of making concoctions and infusions from raw ingredients
 * **[Addons](/addons):** optional subsystems and mechanics to complement your adventure
 
 ## Useful links
