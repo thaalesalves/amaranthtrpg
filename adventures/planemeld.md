@@ -1,7 +1,7 @@
 <!-- @PageTitle: The Planemeld | Campaigns -->
 
 # The Planemeld
-This is a campaign bundle based on the story of _The Elder Scrolls Online_. It has three campaigns that share a backstory, but each campaign is for one of the factions involved in the war, and will follow a similar path to the story seen on ESO. The Alliance War happens just the same as in **[the other campaign](/campaigns/alliance_war)**, but this is more loyal to the events of ESO, although it does have the story slightly altered. The story arch for all campaigns will be broken into acts with general descriptions of the environments, with Narrator notes where necessary and general instructions to help the Narrator guide the story. For a story that focus on the War without getting into the Planemeld, check the **[Alliance War campaign](/campaigns/alliance_war)**.
+This is a campaign bundle based on the story of _The Elder Scrolls Online_. It has three campaigns that share a backstory, but each campaign is for one of the factions involved in the war, and will follow a similar path to the story seen on ESO. The Alliance War happens just the same as in **[the other campaign](/adventures/alliance_war)**, but this is more loyal to the events of ESO, although it does have the story slightly altered. The story arch for all campaigns will be broken into acts with general descriptions of the environments, with Narrator notes where necessary and general instructions to help the Narrator guide the story. For a story that focus on the War without getting into the Planemeld, check the **[Alliance War campaign](/adventures/alliance_war)**.
 
 ## Backstory
 ### The Soulburst
@@ -47,7 +47,7 @@ The **[Redguards](https://en.uesp.net/wiki/Lore:Redguard)** of **[Hammerfell](ht
 After the events of Cyrodiil with the death of the Emperor and wars between political factions for the Ruby Throne, the Covenant decided to join the war and rule over the Empire.
 
 ## Campaigns
-- **[The Aldmeri Dominion](/campaigns/planemeld/aldmeri_dominion):** a campaign that follows the story of the Aldmeri Dominion's story in the war
-- **[The Daggerfall Covenant](/campaigns/planemeld/daggerfall_covenant):** a campaign that follows the story of the Daggerfall Covenant's story in the war
-- **[The Ebonheart Pact](/campaigns/planemeld/ebonheart_pact):** a campaign that follows the story of the Ebonheart Pact's story in the war
-- **[The Empire of Cyrodiil](/campaigns/planemeld/empire):** a campaign that focuses on the Empire, trying to maintain its peace while at war
+- **[The Aldmeri Dominion](/adventures/planemeld/aldmeri_dominion):** a campaign that follows the story of the Aldmeri Dominion's story in the war
+- **[The Daggerfall Covenant](/adventures/planemeld/daggerfall_covenant):** a campaign that follows the story of the Daggerfall Covenant's story in the war
+- **[The Ebonheart Pact](/adventures/planemeld/ebonheart_pact):** a campaign that follows the story of the Ebonheart Pact's story in the war
+- **[The Empire of Cyrodiil](/adventures/planemeld/empire):** a campaign that focuses on the Empire, trying to maintain its peace while at war
