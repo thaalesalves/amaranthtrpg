@@ -2,8 +2,11 @@
 
 <div class="amrnth-img-box">
 	<figure>
-		<center><img src="/uploads/images/races/nord.png" height="300" alt="Nord">
-		<figcaption class="amrnth-img-cap">Illustration of a typical male Nord</figcaption></center>
+		<center>
+			<img src="/uploads/images/races/nord_male.png" height="300" alt="Portrait of a Nord male, with pale skin, full blond bear and long blond hair wearing fur winter clothing">
+			<img src="/uploads/images/races/nord_female.png" height="300" alt="Portrait of a female Nord, with pale skin, long straight and blond hair, blue eyes, wearing metal armor">
+			<figcaption class="amrnth-img-cap">Illustration of Nords</figcaption>
+		</center>
 	</figure>
 </div>
 

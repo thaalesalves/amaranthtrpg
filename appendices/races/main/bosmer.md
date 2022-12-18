@@ -2,8 +2,11 @@
 
 <div class="amrnth-img-box">
 	<figure>
-		<center><img src="/uploads/images/races/bosmer.png" height="300" alt="Bosmer">
-		<figcaption class="amrnth-img-cap">Illustration of a typical male Bosmer</figcaption></center>
+		<center>
+			<img src="/uploads/images/races/bosmer_male.png" height="300" alt="Portrait of a male Bosmer. He has an angular face and light brown skin, long pointed ears, black eyes and dark brown hair. He's wearing a green hat and green garment.">
+			<img src="/uploads/images/races/bosmer_female.png" height="300" alt="Portrait of a female Bosmer. She has light brown skin, green eyes, light brown hair and long pointed ears. She's smiling while she looks at the camera, wearing a dark brown garment and an orange hat.">
+			<figcaption class="amrnth-img-cap">Illustration of Wood Elves</figcaption>
+		</center>
 	</figure>
 </div>
 

@@ -2,8 +2,11 @@
 
 <div class="amrnth-img-box">
 	<figure>
-		<center><img src="/uploads/images/races/orc.png" height="300" alt="Orsimer">
-		<figcaption class="amrnth-img-cap">Illustration of a typical male Orc</figcaption></center>
+		<center>
+			<img src="/uploads/images/races/orc_male.png" height="300" alt="Portrait of an Orsimer, a man with green skin, yellow eyes, pointed ears and short dark brown hair">
+			<img src="/uploads/images/races/orc_female.png" height="300" alt="Portrait of a female Orsimer, a woman with green skin, light brown eyes, and long straight black hair">
+			<figcaption class="amrnth-img-cap">Illustration of Orcs</figcaption>
+		</center>
 	</figure>
 </div>
 

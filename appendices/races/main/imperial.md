@@ -2,8 +2,11 @@
 
 <div class="amrnth-img-box">
     <figure>
-        <center><img src="/uploads/images/races/imperial.png" height="300" alt="Imperial">
-        <figcaption class="amrnth-img-cap">Illustration of a typical male Imperial</figcaption></center>
+        <center>
+            <img src="/uploads/images/races/imperial_male.png" height="300" alt="Portrait of an Imperial man, with green eyes, dark brown curly hair, pale skin, large nose and heavy armor.">
+            <img src="/uploads/images/races/imperial_female.png" height="300" alt="Portrait of an Imperial woman, with long dark brown curly hair, a brown tiara, brown and beige patrician clothing, pale skin and dark brown eyes">
+            <figcaption class="amrnth-img-cap">Illustration of Imperials</figcaption>
+        </center>
     </figure>
 </div>
 

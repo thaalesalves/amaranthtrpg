@@ -2,8 +2,11 @@
 
 <div class="amrnth-img-box">
 	<figure>
-		<center><img src="/uploads/images/races/khajiit.png" height="300" alt="Khajiit">
-		<figcaption class="amrnth-img-cap">Illustration of a typical male Khajiit</figcaption></center>
+		<center>
+			<img src="/uploads/images/races/khajiit_male.png" height="300" alt="Portrait of a male Khajiit; a male with the face of a lion, a big mane, cat ears and fur">
+			<img src="/uploads/images/races/khajiit_female.png" height="300" alt="Portrait of a female Khajiit, with cat ears, fur on the tip of her ears, brown eyes, with a face that resembles a Caracal or a Lynx">
+			<figcaption class="amrnth-img-cap">Illustration of Khajiit</figcaption>
+		</center>
 	</figure>
 </div>
 

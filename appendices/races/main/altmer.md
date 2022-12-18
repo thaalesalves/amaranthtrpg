@@ -2,8 +2,11 @@
 
 <div class="amrnth-img-box">
 	<figure>
-		<center><img src="/uploads/images/races/highelf.png" height="300" alt="Altmer">
-		<figcaption class="amrnth-img-cap">Illustration of a typical male High Elf</figcaption></center>
+		<center>
+			<img src="/uploads/images/races/altmer_male.png" height="300" alt="The face of a male High Elf, also known as Altmer. He has big blue eyes, a large nose, an angular face and long ashen hair with a light yellow-ish skin and long pointed ears.">
+			<img src="/uploads/images/races/altmer_female.png" height="300" alt="A portrait of a female High Elf, also known as Altmer. She has an angular face, with yellow-ish skin, and long pointed ears.">
+			<figcaption class="amrnth-img-cap">Illustration of High Elves</figcaption>
+		</center>
 	</figure>
 </div>
 

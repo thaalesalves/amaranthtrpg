@@ -2,8 +2,11 @@
 
 <div class="amrnth-img-box">
 	<figure>
-		<center><img src="/uploads/images/races/dunmer.png" height="300" alt="Dunmer">
-		<figcaption class="amrnth-img-cap">Illustration of a typical male Dunmer</figcaption></center>
+		<center>
+			<img src="/uploads/images/races/dunmer_male.png" height="300" alt="The portrait of a male Dunmer with an angular face, dark grey skin, red eyes, big pointed ears and a dark, ashen long hair.">
+			<img src="/uploads/images/races/dunmer_female.png" height="300" alt="Portrait of a female Dunmer with long dark brown hair, red eyes, light dark grey skin and long pointed ears.">
+			<figcaption class="amrnth-img-cap">Illustration Dark Elves</figcaption>
+		</center>
 	</figure>
 </div>
 

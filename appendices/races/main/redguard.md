@@ -2,8 +2,11 @@
 
 <div class="amrnth-img-box">
 	<figure>
-		<center><img src="/uploads/images/races/redguard.png" height="300" alt="Redguard">
-		<figcaption class="amrnth-img-cap">Illustration of a typical male Redguard</figcaption></center>
+		<center>
+			<img src="/uploads/images/races/redguard_male.png" height="300" alt="Portrait of a Redguard, a man with dark skin, red noble clothing, black eyes and a light beard">
+			<img src="/uploads/images/races/redguard_female.png" height="300" alt="Portrait of a female Redguard, a woman with long dreaded hair, gold jewelry in her neck, red clothing and black eyes">
+			<figcaption class="amrnth-img-cap">Illustration of Redguards</figcaption>
+		</center>
 	</figure>
 </div>
 

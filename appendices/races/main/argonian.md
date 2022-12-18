@@ -2,8 +2,11 @@
 
 <div class="amrnth-img-box">
 	<figure>
-		<center><img src="/uploads/images/races/argonian.png" height="300" alt="Argonian">
-		<figcaption class="amrnth-img-cap">Illustration of a typical male Argonian</figcaption></center>
+		<center>
+			<img src="/uploads/images/races/argonian_male.png" height="300" alt="Portrait of a male Argonian. A humanoid male that has the face of a lizard with brown eyes and grey-ish brown scales with horns.">
+			<img src="/uploads/images/races/argonian_female.png" height="300" alt="Portrait of a female Argonian. A humanoid that has the face of a lizard with brown eyes, green scales and a small scaly mane.">
+			<figcaption class="amrnth-img-cap">Illustration of Argonians</figcaption>
+		</center>
 	</figure>
 </div>
 
