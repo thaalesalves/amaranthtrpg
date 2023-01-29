@@ -18,7 +18,7 @@ For more information, read the main articles
 Points are divided in columns, which group specific ability or attribute types. The player gains N points that have to be distributed in each column of each item in the sheet.
 
 ### Example
-Baldor Melcar, a Bosmer from Elden Root, is one of King Camoran's court mages. In his sheet, he has 7/5/3 points to be distributed between his Attributes, meaning that he may use 7 in one of the columns, 5 in another and 3 on the last one. Being a mage, he chose to use 7 points in the Mental Attributes column, 5 in the Social column and 3 in the Physical column. For his abilities, he has 13/9/5, and used 13 in the Knowledges column, 9 in the Skills column and 5 in the Talents column, giving the larger point group to the column that contains magical abilities, making the physical talents less important.
+Baldor Melcar, a Bosmer from Elden Root, is one of the **[Camoran King](https://en.uesp.net/wiki/Lore:Aeradan_Camoran)**'s court mages. In his sheet, he has 7/5/3 points to be distributed between his Attributes, meaning that he may use 7 in one of the columns, 5 in another and 3 on the last one. Being a mage, he chose to use 7 points in the Mental Attributes column, 5 in the Social column and 3 in the Physical column. For his abilities, he has 13/9/5, and used 13 in the Knowledges column, 9 in the Skills column and 5 in the Talents column, giving the larger point group to the column that contains magical abilities, making the physical talents less important.
 
 ## Character levels
 ### Sheet levels
@@ -58,7 +58,7 @@ Traits that bring advantages to a character based on their backstory. Read more 
 Personality, physical, social or mental traits a character may haves. Merits cost points, while flaws give you more points. Read more in the main article for [merits](/rules/sheet/merits) or [flaws](/rules/sheet/flaws).
 
 ## Magicka
-**[Magicka](https://en.uesp.net/wiki/Lore:Magic)** is the force that makes the arcane arts possible. It is said that Magicka comes to **[Mundus](https://en.uesp.net/wiki/Lore:Mundus)** through **[Magnus](https://en.uesp.net/wiki/Lore:Magnus)**, the Sun, who is also Mundus' architect. It is possible to have a maximum of 50 Magicka points, and they're used to make magical actions. The character's Magicka pool is determined by the sum of their Willpower and Magic points (and this becomes the maximum limit when recharging Magicka, unless there a permanent increase somehow). Magicka is recharged when the character rests.
+**[Magicka](https://en.uesp.net/wiki/Lore:Magic)** is the force that makes the arcane arts possible. It is said that Magicka comes to **[Mundus](https://en.uesp.net/wiki/Lore:Mundus)** through **[Magnus](https://en.uesp.net/wiki/Lore:Magnus)**, the Sun, who is also **[Mundus](https://en.uesp.net/wiki/Lore:Mundus)**' architect. It is possible to have a maximum of 50 Magicka points, and they're used to make magical actions. The character's Magicka pool is determined by the sum of their Willpower and Magic points (and this becomes the maximum limit when recharging Magicka, unless there a permanent increase somehow). Magicka is recharged when the character rests.
 
 ## Stamina
 Stamina is the character's physical energy. It is used in blows and physical movements. It is determined by the sum of Endurance and Strength points (and this becomes the maximum limit when recharging Stamina, unless there a permanent increase somehow). Stamina is recharged when the character rests.
